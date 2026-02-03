@@ -1,8 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T12:03:40.898-05:00",
-  "lastLink": null,
-  "lastId": null,
-  "lastFilePath": null,
-  "items": []
+  "updatedAt": "2026-02-03T12:04:05.914-05:00",
+  "lastLink": "https://cyberpress.org/asus-discontinues-file-shredder/",
+  "lastId": "h5nhu80000",
+  "lastFilePath": "cyberpress/pages/2026/02/03/asus-discontinues-file-shredder-feature-to-patch-critical-security-vulnerability_h5nhu80000.md",
+  "items": [
+    {
+      "id": "h5nhu80000",
+      "link": "https://cyberpress.org/asus-discontinues-file-shredder/",
+      "filePath": "cyberpress/pages/2026/02/03/asus-discontinues-file-shredder-feature-to-patch-critical-security-vulnerability_h5nhu80000.md",
+      "committedAt": "2026-02-03T12:04:05.914-05:00",
+      "title": "ASUS Discontinues “File Shredder” Feature to Patch Critical Security Vulnerability"
+    }
+  ]
 }

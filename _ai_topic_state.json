@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T08:20:12.624-05:00",
-  "lastLink": null,
-  "lastTopicId": null,
-  "lastFilePath": null,
-  "items": []
+  "updatedAt": "2026-02-03T08:20:28.798-05:00",
+  "lastLink": "https://github.com/KrystianJonca/lnai",
+  "lastTopicId": "1luvkm70",
+  "lastFilePath": "ai_topics/lnai-define-ai-coding-tool-configs-once-sync-to-claude-cursor-co_1luvkm70.md",
+  "items": [
+    {
+      "topicId": "1luvkm70",
+      "link": "https://github.com/KrystianJonca/lnai",
+      "filePath": "ai_topics/lnai-define-ai-coding-tool-configs-once-sync-to-claude-cursor-co_1luvkm70.md",
+      "committedAt": "2026-02-03T08:20:28.798-05:00"
+    }
+  ]
 }

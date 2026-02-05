@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-03T14:17:21.719-05:00",
-  "lastLink": "https://cyberpress.org/asus-discontinues-file-shredder/",
-  "lastId": "h5nhu80000",
-  "lastFilePath": "cyberpress/pages/2026/02/03/asus-discontinues-file-shredder-feature-to-patch-critical-security-vulnerability.md",
+  "updatedAt": "2026-02-05T04:20:45.212-05:00",
+  "lastLink": "https://cyberpress.org/exploited-vmware-esxi-zero-day/",
+  "lastId": "1q6v81w000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/cisa-alerts-on-actively-exploited-vmware-esxi-zero-day-used-in-ransomware-campai_1q6v81w000.md",
   "items": [
     {
-      "id": "h5nhu80000",
-      "link": "https://cyberpress.org/asus-discontinues-file-shredder/",
-      "filePath": "cyberpress/pages/2026/02/03/asus-discontinues-file-shredder-feature-to-patch-critical-security-vulnerability.md",
-      "committedAt": "2026-02-03T14:17:21.719-05:00",
-      "title": "ASUS Discontinues “File Shredder” Feature to Patch Critical Security Vulnerability"
+      "id": "1q6v81w000",
+      "link": "https://cyberpress.org/exploited-vmware-esxi-zero-day/",
+      "filePath": "cyberpress/pages/2026/02/05/cisa-alerts-on-actively-exploited-vmware-esxi-zero-day-used-in-ransomware-campai_1q6v81w000.md",
+      "committedAt": "2026-02-05T04:20:45.212-05:00",
+      "title": "CISA Alerts on Actively Exploited VMware ESXi Zero-Day Used in Ransomware Campaigns"
     }
   ]
 }

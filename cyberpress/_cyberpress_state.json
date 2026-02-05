@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T09:27:19.199-05:00",
+  "updatedAt": "2026-02-05T09:42:49.627-05:00",
   "lastLink": "https://cyberpress.org/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workflows/",
   "lastId": "2nwubd0000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf_2nwubd0000.md",
+  "lastFilePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf.md",
   "items": [
     {
       "id": "2nwubd0000",
       "link": "https://cyberpress.org/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workflows/",
-      "filePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf_2nwubd0000.md",
-      "committedAt": "2026-02-05T09:27:19.199-05:00",
+      "filePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf.md",
+      "committedAt": "2026-02-05T09:42:49.627-05:00",
       "title": "Critical n8n Vulnerability Enables System Command Execution via Weaponized Workflows"
     }
   ]

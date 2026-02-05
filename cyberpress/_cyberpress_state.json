@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T04:20:45.212-05:00",
-  "lastLink": "https://cyberpress.org/exploited-vmware-esxi-zero-day/",
-  "lastId": "1q6v81w000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/cisa-alerts-on-actively-exploited-vmware-esxi-zero-day-used-in-ransomware-campai_1q6v81w000.md",
+  "updatedAt": "2026-02-05T09:27:19.199-05:00",
+  "lastLink": "https://cyberpress.org/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workflows/",
+  "lastId": "2nwubd0000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf_2nwubd0000.md",
   "items": [
     {
-      "id": "1q6v81w000",
-      "link": "https://cyberpress.org/exploited-vmware-esxi-zero-day/",
-      "filePath": "cyberpress/pages/2026/02/05/cisa-alerts-on-actively-exploited-vmware-esxi-zero-day-used-in-ransomware-campai_1q6v81w000.md",
-      "committedAt": "2026-02-05T04:20:45.212-05:00",
-      "title": "CISA Alerts on Actively Exploited VMware ESXi Zero-Day Used in Ransomware Campaigns"
+      "id": "2nwubd0000",
+      "link": "https://cyberpress.org/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workflows/",
+      "filePath": "cyberpress/pages/2026/02/05/critical-n8n-vulnerability-enables-system-command-execution-via-weaponized-workf_2nwubd0000.md",
+      "committedAt": "2026-02-05T09:27:19.199-05:00",
+      "title": "Critical n8n Vulnerability Enables System Command Execution via Weaponized Workflows"
     }
   ]
 }

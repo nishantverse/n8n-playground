@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T20:45:32.444+05:30",
-  "lastLink": "https://cyberpress.org/dragonforce-ransomware-steals-data/",
-  "lastId": "1aqnhf5000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/dragonforce-ransomware-campaign-steals-sensitive-information-from-businesses_1aqnhf5000.md",
+  "updatedAt": "2026-02-05T21:11:21.138+05:30",
+  "lastLink": "https://cyberpress.org/apt28-exploits-office-vulnerability/",
+  "lastId": "197jhux000",
+  "lastFilePath": "cyberpress/pages/2026/02/05/apt28-uses-microsoft-office-vulnerability-to-breach-government-system_197jhux000.md",
   "items": [
     {
-      "id": "1aqnhf5000",
-      "link": "https://cyberpress.org/dragonforce-ransomware-steals-data/",
-      "filePath": "cyberpress/pages/2026/02/05/dragonforce-ransomware-campaign-steals-sensitive-information-from-businesses_1aqnhf5000.md",
-      "committedAt": "2026-02-05T20:45:32.444+05:30",
-      "title": "DragonForce Ransomware Campaign Steals Sensitive Information From Businesses"
+      "id": "197jhux000",
+      "link": "https://cyberpress.org/apt28-exploits-office-vulnerability/",
+      "filePath": "cyberpress/pages/2026/02/05/apt28-uses-microsoft-office-vulnerability-to-breach-government-system_197jhux000.md",
+      "committedAt": "2026-02-05T21:11:21.138+05:30",
+      "title": "APT28 Uses Microsoft Office Vulnerability To Breach Government System"
     }
   ]
 }

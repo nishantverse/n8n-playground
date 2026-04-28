@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T21:38:08.459+05:30",
-  "lastLink": "https://cyberpress.org/kamasers-ddos-botnet-loader-threat/",
-  "lastId": "1bk8fhf000",
-  "lastFilePath": "cyberpress/pages/2026/04/28/kamasers-ddos-botnet-with-loader-capabilities-attacking-organizations-to-deploy-_1bk8fhf000.md",
+  "updatedAt": "2026-04-28T21:46:58.289+05:30",
+  "lastLink": "https://cyberpress.org/hugging-face-lerobot-vulnerability/",
+  "lastId": "1cjl6s9000",
+  "lastFilePath": "cyberpress/pages/2026/04/28/hugging-face-lerobot-vulnerability-enables-unauthenticated-remote-code-execution_1cjl6s9000.md",
   "items": [
     {
-      "id": "1bk8fhf000",
-      "link": "https://cyberpress.org/kamasers-ddos-botnet-loader-threat/",
-      "filePath": "cyberpress/pages/2026/04/28/kamasers-ddos-botnet-with-loader-capabilities-attacking-organizations-to-deploy-_1bk8fhf000.md",
-      "committedAt": "2026-04-28T21:38:08.459+05:30",
-      "title": "Kamasers DDoS Botnet With Loader Capabilities Attacking Organizations to Deploy Ransomware"
+      "id": "1cjl6s9000",
+      "link": "https://cyberpress.org/hugging-face-lerobot-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/28/hugging-face-lerobot-vulnerability-enables-unauthenticated-remote-code-execution_1cjl6s9000.md",
+      "committedAt": "2026-04-28T21:46:58.289+05:30",
+      "title": "Hugging Face LeRobot Vulnerability Enables Unauthenticated Remote Code Execution Attacks"
     }
   ]
 }

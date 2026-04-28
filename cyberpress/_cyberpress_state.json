@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-05T21:11:21.138+05:30",
-  "lastLink": "https://cyberpress.org/apt28-exploits-office-vulnerability/",
-  "lastId": "197jhux000",
-  "lastFilePath": "cyberpress/pages/2026/02/05/apt28-uses-microsoft-office-vulnerability-to-breach-government-system_197jhux000.md",
+  "updatedAt": "2026-04-28T12:04:35.728-04:00",
+  "lastLink": "https://cyberpress.org/litellm-sql-injection-vulnerability/",
+  "lastId": "1yfwqjs000",
+  "lastFilePath": "cyberpress/pages/2026/04/28/critical-litellm-sql-injection-vulnerability-exploited-in-the-wild_1yfwqjs000.md",
   "items": [
     {
-      "id": "197jhux000",
-      "link": "https://cyberpress.org/apt28-exploits-office-vulnerability/",
-      "filePath": "cyberpress/pages/2026/02/05/apt28-uses-microsoft-office-vulnerability-to-breach-government-system_197jhux000.md",
-      "committedAt": "2026-02-05T21:11:21.138+05:30",
-      "title": "APT28 Uses Microsoft Office Vulnerability To Breach Government System"
+      "id": "1yfwqjs000",
+      "link": "https://cyberpress.org/litellm-sql-injection-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/28/critical-litellm-sql-injection-vulnerability-exploited-in-the-wild_1yfwqjs000.md",
+      "committedAt": "2026-04-28T12:04:35.728-04:00",
+      "title": "Critical LiteLLM SQL Injection Vulnerability Exploited in the Wild"
     }
   ]
 }

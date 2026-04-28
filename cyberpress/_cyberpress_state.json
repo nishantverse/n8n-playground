@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T12:04:35.728-04:00",
-  "lastLink": "https://cyberpress.org/litellm-sql-injection-vulnerability/",
-  "lastId": "1yfwqjs000",
-  "lastFilePath": "cyberpress/pages/2026/04/28/critical-litellm-sql-injection-vulnerability-exploited-in-the-wild_1yfwqjs000.md",
+  "updatedAt": "2026-04-28T21:38:08.459+05:30",
+  "lastLink": "https://cyberpress.org/kamasers-ddos-botnet-loader-threat/",
+  "lastId": "1bk8fhf000",
+  "lastFilePath": "cyberpress/pages/2026/04/28/kamasers-ddos-botnet-with-loader-capabilities-attacking-organizations-to-deploy-_1bk8fhf000.md",
   "items": [
     {
-      "id": "1yfwqjs000",
-      "link": "https://cyberpress.org/litellm-sql-injection-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/28/critical-litellm-sql-injection-vulnerability-exploited-in-the-wild_1yfwqjs000.md",
-      "committedAt": "2026-04-28T12:04:35.728-04:00",
-      "title": "Critical LiteLLM SQL Injection Vulnerability Exploited in the Wild"
+      "id": "1bk8fhf000",
+      "link": "https://cyberpress.org/kamasers-ddos-botnet-loader-threat/",
+      "filePath": "cyberpress/pages/2026/04/28/kamasers-ddos-botnet-with-loader-capabilities-attacking-organizations-to-deploy-_1bk8fhf000.md",
+      "committedAt": "2026-04-28T21:38:08.459+05:30",
+      "title": "Kamasers DDoS Botnet With Loader Capabilities Attacking Organizations to Deploy Ransomware"
     }
   ]
 }

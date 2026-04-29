@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T15:20:40.007+05:30",
-  "lastLink": "https://cyberpress.org/lofystealer-targets-minecraft-gamers/",
-  "lastId": "1e73nt6000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/lofystealer-uses-nodejs-loader-against-minecraft-gamers_1e73nt6000.md",
+  "updatedAt": "2026-04-29T16:20:01.870+05:30",
+  "lastLink": "https://cyberpress.org/cisa-alerts-on-microsoft-windows/",
+  "lastId": "pigbbn0000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/cisa-alerts-on-microsoft-windows-shell-zero-day-under-active-exploitation_pigbbn0000.md",
   "items": [
     {
-      "id": "1e73nt6000",
-      "link": "https://cyberpress.org/lofystealer-targets-minecraft-gamers/",
-      "filePath": "cyberpress/pages/2026/04/29/lofystealer-uses-nodejs-loader-against-minecraft-gamers_1e73nt6000.md",
-      "committedAt": "2026-04-29T15:20:40.007+05:30",
-      "title": "LofyStealer Uses Node.js Loader Against Minecraft Gamers"
+      "id": "pigbbn0000",
+      "link": "https://cyberpress.org/cisa-alerts-on-microsoft-windows/",
+      "filePath": "cyberpress/pages/2026/04/29/cisa-alerts-on-microsoft-windows-shell-zero-day-under-active-exploitation_pigbbn0000.md",
+      "committedAt": "2026-04-29T16:20:01.870+05:30",
+      "title": "CISA Alerts on Microsoft Windows Shell Zero-Day Under Active Exploitation"
     }
   ]
 }

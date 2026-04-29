@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T18:20:05.682+05:30",
-  "lastLink": "https://cyberpress.org/connectwise-screenconnect-vulnerability/",
-  "lastId": "ov3ltu0000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/cisa-warns-connectwise-screenconnect-vulnerability-actively-exploited-in-attacks_ov3ltu0000.md",
+  "updatedAt": "2026-04-29T19:19:57.661+05:30",
+  "lastLink": "https://cyberpress.org/cursor-rce-threatens-developers/",
+  "lastId": "1oqcfzc000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/critical-cursor-vulnerability-exposes-developer-workstations-to-remote-code-exec_1oqcfzc000.md",
   "items": [
     {
-      "id": "ov3ltu0000",
-      "link": "https://cyberpress.org/connectwise-screenconnect-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/29/cisa-warns-connectwise-screenconnect-vulnerability-actively-exploited-in-attacks_ov3ltu0000.md",
-      "committedAt": "2026-04-29T18:20:05.682+05:30",
-      "title": "CISA Warns ConnectWise ScreenConnect Vulnerability Actively Exploited in Attacks"
+      "id": "1oqcfzc000",
+      "link": "https://cyberpress.org/cursor-rce-threatens-developers/",
+      "filePath": "cyberpress/pages/2026/04/29/critical-cursor-vulnerability-exposes-developer-workstations-to-remote-code-exec_1oqcfzc000.md",
+      "committedAt": "2026-04-29T19:19:57.661+05:30",
+      "title": "Critical Cursor Vulnerability Exposes Developer Workstations To Remote Code Execution"
     }
   ]
 }

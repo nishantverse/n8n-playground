@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T13:33:59.581+05:30",
-  "lastLink": "https://cyberpress.org/slotagent-challenges-malware-analysis/",
-  "lastId": "1usmqe2000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/slotagent-obfuscation-tactics-challenge-security-researchers_1usmqe2000.md",
+  "updatedAt": "2026-04-29T14:20:35.036+05:30",
+  "lastLink": "https://cyberpress.org/microsoft-confirms-remote-desktop-warnings-may-appear-incorrectly-after-april-update/",
+  "lastId": "mpkdtg0000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/microsoft-confirms-remote-desktop-warnings-may-appear-incorrectly-after-april-up_mpkdtg0000.md",
   "items": [
     {
-      "id": "1usmqe2000",
-      "link": "https://cyberpress.org/slotagent-challenges-malware-analysis/",
-      "filePath": "cyberpress/pages/2026/04/29/slotagent-obfuscation-tactics-challenge-security-researchers_1usmqe2000.md",
-      "committedAt": "2026-04-29T13:33:59.581+05:30",
-      "title": "SLOTAGENT Obfuscation Tactics Challenge Security Researchers"
+      "id": "mpkdtg0000",
+      "link": "https://cyberpress.org/microsoft-confirms-remote-desktop-warnings-may-appear-incorrectly-after-april-update/",
+      "filePath": "cyberpress/pages/2026/04/29/microsoft-confirms-remote-desktop-warnings-may-appear-incorrectly-after-april-up_mpkdtg0000.md",
+      "committedAt": "2026-04-29T14:20:35.036+05:30",
+      "title": "Microsoft Confirms Remote Desktop Warnings May Appear Incorrectly After April Update"
     }
   ]
 }

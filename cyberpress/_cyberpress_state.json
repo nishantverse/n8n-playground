@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T13:19:14.799+05:30",
-  "lastLink": "https://cyberpress.org/critical-google-chrome-flaws-allow-remote-code-execution-exploits/",
-  "lastId": "blbddg0000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/critical-google-chrome-flaws-allow-remote-code-execution-exploits_blbddg0000.md",
+  "updatedAt": "2026-04-29T13:33:59.581+05:30",
+  "lastLink": "https://cyberpress.org/slotagent-challenges-malware-analysis/",
+  "lastId": "1usmqe2000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/slotagent-obfuscation-tactics-challenge-security-researchers_1usmqe2000.md",
   "items": [
     {
-      "id": "blbddg0000",
-      "link": "https://cyberpress.org/critical-google-chrome-flaws-allow-remote-code-execution-exploits/",
-      "filePath": "cyberpress/pages/2026/04/29/critical-google-chrome-flaws-allow-remote-code-execution-exploits_blbddg0000.md",
-      "committedAt": "2026-04-29T13:19:14.799+05:30",
-      "title": "Critical Google Chrome Flaws Allow Remote Code Execution Exploits"
+      "id": "1usmqe2000",
+      "link": "https://cyberpress.org/slotagent-challenges-malware-analysis/",
+      "filePath": "cyberpress/pages/2026/04/29/slotagent-obfuscation-tactics-challenge-security-researchers_1usmqe2000.md",
+      "committedAt": "2026-04-29T13:33:59.581+05:30",
+      "title": "SLOTAGENT Obfuscation Tactics Challenge Security Researchers"
     }
   ]
 }

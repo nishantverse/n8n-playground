@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T17:20:12.141+05:30",
-  "lastLink": "https://cyberpress.org/vimeo-confirms-data-breach/",
-  "lastId": "1xrkn7s000",
-  "lastFilePath": "cyberpress/pages/2026/04/29/vimeo-confirms-data-breach-after-hackers-access-user-database_1xrkn7s000.md",
+  "updatedAt": "2026-04-29T18:20:05.682+05:30",
+  "lastLink": "https://cyberpress.org/connectwise-screenconnect-vulnerability/",
+  "lastId": "ov3ltu0000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/cisa-warns-connectwise-screenconnect-vulnerability-actively-exploited-in-attacks_ov3ltu0000.md",
   "items": [
     {
-      "id": "1xrkn7s000",
-      "link": "https://cyberpress.org/vimeo-confirms-data-breach/",
-      "filePath": "cyberpress/pages/2026/04/29/vimeo-confirms-data-breach-after-hackers-access-user-database_1xrkn7s000.md",
-      "committedAt": "2026-04-29T17:20:12.141+05:30",
-      "title": "Vimeo Confirms Data Breach After Hackers Access User Database"
+      "id": "ov3ltu0000",
+      "link": "https://cyberpress.org/connectwise-screenconnect-vulnerability/",
+      "filePath": "cyberpress/pages/2026/04/29/cisa-warns-connectwise-screenconnect-vulnerability-actively-exploited-in-attacks_ov3ltu0000.md",
+      "committedAt": "2026-04-29T18:20:05.682+05:30",
+      "title": "CISA Warns ConnectWise ScreenConnect Vulnerability Actively Exploited in Attacks"
     }
   ]
 }

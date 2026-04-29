@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T02:20:25.729+05:30",
-  "lastLink": "https://cyberpress.org/clickup-hardcoded-api-key-exposes/",
-  "lastId": "1kkbhoq000",
-  "lastFilePath": "cyberpress/pages/2026/04/28/clickup-hardcoded-api-key-exposes-959-emails-from-fortune-500-giants_1kkbhoq000.md",
+  "updatedAt": "2026-04-29T13:19:14.799+05:30",
+  "lastLink": "https://cyberpress.org/critical-google-chrome-flaws-allow-remote-code-execution-exploits/",
+  "lastId": "blbddg0000",
+  "lastFilePath": "cyberpress/pages/2026/04/29/critical-google-chrome-flaws-allow-remote-code-execution-exploits_blbddg0000.md",
   "items": [
     {
-      "id": "1kkbhoq000",
-      "link": "https://cyberpress.org/clickup-hardcoded-api-key-exposes/",
-      "filePath": "cyberpress/pages/2026/04/28/clickup-hardcoded-api-key-exposes-959-emails-from-fortune-500-giants_1kkbhoq000.md",
-      "committedAt": "2026-04-29T02:20:25.729+05:30",
-      "title": "ClickUp Hardcoded API Key Exposes 959 Emails from Fortune 500 Giants"
+      "id": "blbddg0000",
+      "link": "https://cyberpress.org/critical-google-chrome-flaws-allow-remote-code-execution-exploits/",
+      "filePath": "cyberpress/pages/2026/04/29/critical-google-chrome-flaws-allow-remote-code-execution-exploits_blbddg0000.md",
+      "committedAt": "2026-04-29T13:19:14.799+05:30",
+      "title": "Critical Google Chrome Flaws Allow Remote Code Execution Exploits"
     }
   ]
 }

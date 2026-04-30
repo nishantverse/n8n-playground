@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T14:19:50.489+05:30",
-  "lastLink": "https://cyberpress.org/cpanel-0-day-auth-bypass-exploited/",
-  "lastId": "1ibkv1d000",
-  "lastFilePath": "cyberpress/pages/2026/04/30/cpanel-0-day-auth-bypass-exploited-in-the-wild-poc-released_1ibkv1d000.md",
+  "updatedAt": "2026-04-30T15:19:54.863+05:30",
+  "lastLink": "https://cyberpress.org/qinglong-task-scheduler-rce-flaws/",
+  "lastId": "1gkar8w000",
+  "lastFilePath": "cyberpress/pages/2026/04/30/qinglong-vulnerabilities-enable-rce-exploited-in-attacks_1gkar8w000.md",
   "items": [
     {
-      "id": "1ibkv1d000",
-      "link": "https://cyberpress.org/cpanel-0-day-auth-bypass-exploited/",
-      "filePath": "cyberpress/pages/2026/04/30/cpanel-0-day-auth-bypass-exploited-in-the-wild-poc-released_1ibkv1d000.md",
-      "committedAt": "2026-04-30T14:19:50.489+05:30",
-      "title": "cPanel 0-Day Auth Bypass Exploited in the Wild, PoC Released"
+      "id": "1gkar8w000",
+      "link": "https://cyberpress.org/qinglong-task-scheduler-rce-flaws/",
+      "filePath": "cyberpress/pages/2026/04/30/qinglong-vulnerabilities-enable-rce-exploited-in-attacks_1gkar8w000.md",
+      "committedAt": "2026-04-30T15:19:54.863+05:30",
+      "title": "Qinglong Vulnerabilities Enable RCE, Exploited in Attacks"
     }
   ]
 }

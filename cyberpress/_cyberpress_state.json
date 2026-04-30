@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T16:19:48.393+05:30",
-  "lastLink": "https://cyberpress.org/jenkins-patches-high-severity-plugin-vulnerability/",
-  "lastId": "11cskr4000",
-  "lastFilePath": "cyberpress/pages/2026/04/30/jenkins-patches-high-severity-plugin-vulnerability-including-path-traversal-and-_11cskr4000.md",
+  "updatedAt": "2026-04-30T17:19:48.399+05:30",
+  "lastLink": "https://cyberpress.org/poc-released-asustor-adm-root-rce/",
+  "lastId": "1gqeo59000",
+  "lastFilePath": "cyberpress/pages/2026/04/30/poc-released-for-critical-asustor-adm-root-rce-vulnerability_1gqeo59000.md",
   "items": [
     {
-      "id": "11cskr4000",
-      "link": "https://cyberpress.org/jenkins-patches-high-severity-plugin-vulnerability/",
-      "filePath": "cyberpress/pages/2026/04/30/jenkins-patches-high-severity-plugin-vulnerability-including-path-traversal-and-_11cskr4000.md",
-      "committedAt": "2026-04-30T16:19:48.393+05:30",
-      "title": "Jenkins Patches High-Severity Plugin Vulnerability Including Path Traversal and Stored XSS"
+      "id": "1gqeo59000",
+      "link": "https://cyberpress.org/poc-released-asustor-adm-root-rce/",
+      "filePath": "cyberpress/pages/2026/04/30/poc-released-for-critical-asustor-adm-root-rce-vulnerability_1gqeo59000.md",
+      "committedAt": "2026-04-30T17:19:48.399+05:30",
+      "title": "PoC Released for Critical ASUSTOR ADM Root RCE Vulnerability"
     }
   ]
 }

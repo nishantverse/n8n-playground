@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T11:21:01.693+05:30",
-  "lastLink": "https://cyberpress.org/vect-2-0-multi-platform-attacks/",
-  "lastId": "85aczv0000",
-  "lastFilePath": "cyberpress/pages/2026/04/30/new-vect-20-ransomware-operation-expands-multi-platform-attacks_85aczv0000.md",
+  "updatedAt": "2026-04-30T14:19:50.489+05:30",
+  "lastLink": "https://cyberpress.org/cpanel-0-day-auth-bypass-exploited/",
+  "lastId": "1ibkv1d000",
+  "lastFilePath": "cyberpress/pages/2026/04/30/cpanel-0-day-auth-bypass-exploited-in-the-wild-poc-released_1ibkv1d000.md",
   "items": [
     {
-      "id": "85aczv0000",
-      "link": "https://cyberpress.org/vect-2-0-multi-platform-attacks/",
-      "filePath": "cyberpress/pages/2026/04/30/new-vect-20-ransomware-operation-expands-multi-platform-attacks_85aczv0000.md",
-      "committedAt": "2026-04-30T11:21:01.693+05:30",
-      "title": "New Vect 2.0 Ransomware Operation Expands Multi-Platform Attacks"
+      "id": "1ibkv1d000",
+      "link": "https://cyberpress.org/cpanel-0-day-auth-bypass-exploited/",
+      "filePath": "cyberpress/pages/2026/04/30/cpanel-0-day-auth-bypass-exploited-in-the-wild-poc-released_1ibkv1d000.md",
+      "committedAt": "2026-04-30T14:19:50.489+05:30",
+      "title": "cPanel 0-Day Auth Bypass Exploited in the Wild, PoC Released"
     }
   ]
 }

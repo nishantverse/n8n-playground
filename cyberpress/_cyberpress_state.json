@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T16:19:52.950+05:30",
-  "lastLink": "https://cyberpress.org/multiple-wireshark-flaws/",
-  "lastId": "lz7y9w0000",
-  "lastFilePath": "cyberpress/pages/2026/05/01/multiple-wireshark-flaws-allow-remote-code-execution-via-malformed-packets_lz7y9w0000.md",
+  "updatedAt": "2026-05-01T17:20:24.173+05:30",
+  "lastLink": "https://cyberpress.org/shadowpad-spy-campaign/",
+  "lastId": "1a0f2ls000",
+  "lastFilePath": "cyberpress/pages/2026/05/01/china-backed-hackers-deploy-shadowpad-malware-in-sophisticated-multi-stage-spy-o_1a0f2ls000.md",
   "items": [
     {
-      "id": "lz7y9w0000",
-      "link": "https://cyberpress.org/multiple-wireshark-flaws/",
-      "filePath": "cyberpress/pages/2026/05/01/multiple-wireshark-flaws-allow-remote-code-execution-via-malformed-packets_lz7y9w0000.md",
-      "committedAt": "2026-05-01T16:19:52.950+05:30",
-      "title": "Multiple Wireshark Flaws Allow Remote Code Execution via Malformed Packets"
+      "id": "1a0f2ls000",
+      "link": "https://cyberpress.org/shadowpad-spy-campaign/",
+      "filePath": "cyberpress/pages/2026/05/01/china-backed-hackers-deploy-shadowpad-malware-in-sophisticated-multi-stage-spy-o_1a0f2ls000.md",
+      "committedAt": "2026-05-01T17:20:24.173+05:30",
+      "title": "China-Backed Hackers Deploy ShadowPad Malware In Sophisticated Multi-Stage Spy Ops"
     }
   ]
 }

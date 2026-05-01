@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T22:21:31.475+05:30",
-  "lastLink": "https://cyberpress.org/google-gemini-cli-flaw-execute-commands/",
-  "lastId": "12dci1d000",
-  "lastFilePath": "cyberpress/pages/2026/04/30/google-gemini-cli-flaw-enables-command-execution-on-hosts-systems_12dci1d000.md",
+  "updatedAt": "2026-05-01T13:20:35.825+05:30",
+  "lastLink": "https://cyberpress.org/windows-11-april-2026-patch/",
+  "lastId": "1apnrun000",
+  "lastFilePath": "cyberpress/pages/2026/05/01/windows-11-april-2026-patch-disrupts-third-party-backup-tools_1apnrun000.md",
   "items": [
     {
-      "id": "12dci1d000",
-      "link": "https://cyberpress.org/google-gemini-cli-flaw-execute-commands/",
-      "filePath": "cyberpress/pages/2026/04/30/google-gemini-cli-flaw-enables-command-execution-on-hosts-systems_12dci1d000.md",
-      "committedAt": "2026-04-30T22:21:31.475+05:30",
-      "title": "Google Gemini CLI Flaw Enables Command Execution on Hosts systems"
+      "id": "1apnrun000",
+      "link": "https://cyberpress.org/windows-11-april-2026-patch/",
+      "filePath": "cyberpress/pages/2026/05/01/windows-11-april-2026-patch-disrupts-third-party-backup-tools_1apnrun000.md",
+      "committedAt": "2026-05-01T13:20:35.825+05:30",
+      "title": "Windows 11 April 2026 Patch Disrupts Third-Party Backup Tools"
     }
   ]
 }

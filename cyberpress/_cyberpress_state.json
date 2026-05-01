@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T13:20:35.825+05:30",
-  "lastLink": "https://cyberpress.org/windows-11-april-2026-patch/",
-  "lastId": "1apnrun000",
-  "lastFilePath": "cyberpress/pages/2026/05/01/windows-11-april-2026-patch-disrupts-third-party-backup-tools_1apnrun000.md",
+  "updatedAt": "2026-05-01T14:19:55.500+05:30",
+  "lastLink": "https://cyberpress.org/supply-chain-attack-targets-github/",
+  "lastId": "1yc6lon000",
+  "lastFilePath": "cyberpress/pages/2026/05/01/supply-chain-attack-targets-github-actions-via-malicious-ruby-gems-and-go-module_1yc6lon000.md",
   "items": [
     {
-      "id": "1apnrun000",
-      "link": "https://cyberpress.org/windows-11-april-2026-patch/",
-      "filePath": "cyberpress/pages/2026/05/01/windows-11-april-2026-patch-disrupts-third-party-backup-tools_1apnrun000.md",
-      "committedAt": "2026-05-01T13:20:35.825+05:30",
-      "title": "Windows 11 April 2026 Patch Disrupts Third-Party Backup Tools"
+      "id": "1yc6lon000",
+      "link": "https://cyberpress.org/supply-chain-attack-targets-github/",
+      "filePath": "cyberpress/pages/2026/05/01/supply-chain-attack-targets-github-actions-via-malicious-ruby-gems-and-go-module_1yc6lon000.md",
+      "committedAt": "2026-05-01T14:19:55.500+05:30",
+      "title": "Supply Chain Attack Targets GitHub Actions via Malicious Ruby Gems and Go Modules"
     }
   ]
 }

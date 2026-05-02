@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T17:03:29.779+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-  "lastId": "1t1i87l000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/01/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall.md",
+  "updatedAt": "2026-05-02T20:02:24.406+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+  "lastId": "xdn4u40000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/01/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly.md",
   "items": [
     {
-      "id": "1t1i87l000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "filePath": "bleepingcomp/pages/2026/05/01/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall.md",
-      "committedAt": "2026-05-02T17:03:29.779+05:30",
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall"
+      "id": "xdn4u40000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+      "filePath": "bleepingcomp/pages/2026/05/01/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly.md",
+      "committedAt": "2026-05-02T20:02:24.406+05:30",
+      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly"
     }
   ]
 }

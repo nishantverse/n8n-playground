@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T21:21:25.243+05:30",
-  "lastLink": "https://cyberpress.org/captcha-clickfix-credential-theft/",
-  "lastId": "4e8ko30000",
-  "lastFilePath": "cyberpress/pages/2026/05/01/captcha-bypass-and-clickfix-lures-drive-surge-in-credential-theft-attacks_4e8ko30000.md",
+  "updatedAt": "2026-05-02T11:19:48.164+05:30",
+  "lastLink": "https://cyberpress.org/poc-exploit-for-cpanelsniper/",
+  "lastId": "1pgbmzw000",
+  "lastFilePath": "cyberpress/pages/2026/05/02/poc-exploit-for-cpanelsniper-raises-alarm-over-mass-server-compromise_1pgbmzw000.md",
   "items": [
     {
-      "id": "4e8ko30000",
-      "link": "https://cyberpress.org/captcha-clickfix-credential-theft/",
-      "filePath": "cyberpress/pages/2026/05/01/captcha-bypass-and-clickfix-lures-drive-surge-in-credential-theft-attacks_4e8ko30000.md",
-      "committedAt": "2026-05-01T21:21:25.243+05:30",
-      "title": "CAPTCHA Bypass and ClickFix Lures Drive Surge In Credential Theft Attacks"
+      "id": "1pgbmzw000",
+      "link": "https://cyberpress.org/poc-exploit-for-cpanelsniper/",
+      "filePath": "cyberpress/pages/2026/05/02/poc-exploit-for-cpanelsniper-raises-alarm-over-mass-server-compromise_1pgbmzw000.md",
+      "committedAt": "2026-05-02T11:19:48.164+05:30",
+      "title": "PoC Exploit for cPanelSniper Raises Alarm Over Mass Server Compromise"
     }
   ]
 }

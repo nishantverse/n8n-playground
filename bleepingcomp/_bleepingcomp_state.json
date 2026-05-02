@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T12:00:56.587+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-  "lastId": "1ex29y7000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/30/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates.md",
+  "updatedAt": "2026-05-02T13:01:09.021+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+  "lastId": "iz2u3g0000",
+  "lastFilePath": "bleepingcomp/pages/2026/04/30/april-kb5083769-windows-11-update-causes-backup-software-failures.md",
   "items": [
     {
-      "id": "1ex29y7000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-      "filePath": "bleepingcomp/pages/2026/04/30/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates.md",
-      "committedAt": "2026-05-02T12:00:56.587+05:30",
-      "title": "New Bluekit phishing service includes an AI assistant, 40 templates"
+      "id": "iz2u3g0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+      "filePath": "bleepingcomp/pages/2026/04/30/april-kb5083769-windows-11-update-causes-backup-software-failures.md",
+      "committedAt": "2026-05-02T13:01:09.021+05:30",
+      "title": "April KB5083769 Windows 11 update causes backup software failures"
     }
   ]
 }

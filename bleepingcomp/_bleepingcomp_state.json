@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T13:01:09.021+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
-  "lastId": "iz2u3g0000",
-  "lastFilePath": "bleepingcomp/pages/2026/04/30/april-kb5083769-windows-11-update-causes-backup-software-failures.md",
+  "updatedAt": "2026-05-02T14:01:08.695+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+  "lastId": "twrd7b0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/02/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog.md",
   "items": [
     {
-      "id": "iz2u3g0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
-      "filePath": "bleepingcomp/pages/2026/04/30/april-kb5083769-windows-11-update-causes-backup-software-failures.md",
-      "committedAt": "2026-05-02T13:01:09.021+05:30",
-      "title": "April KB5083769 Windows 11 update causes backup software failures"
+      "id": "twrd7b0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+      "filePath": "bleepingcomp/pages/2026/05/02/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog.md",
+      "committedAt": "2026-05-02T14:01:08.695+05:30",
+      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog"
     }
   ]
 }

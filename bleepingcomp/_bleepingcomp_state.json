@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T21:00:43.990+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-  "lastId": "nnurby0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/02/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse.md",
+  "updatedAt": "2026-05-03T04:00:12.086+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+  "lastId": "1uz28r7000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/02/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks.md",
   "items": [
     {
-      "id": "nnurby0000",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-      "filePath": "bleepingcomp/pages/2026/05/02/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse.md",
-      "committedAt": "2026-05-02T21:00:43.990+05:30",
-      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse"
+      "id": "1uz28r7000",
+      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/02/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks.md",
+      "committedAt": "2026-05-03T04:00:12.086+05:30",
+      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks"
     }
   ]
 }

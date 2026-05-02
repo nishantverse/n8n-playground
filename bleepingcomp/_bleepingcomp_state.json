@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T20:02:24.406+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-  "lastId": "xdn4u40000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/01/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly.md",
+  "updatedAt": "2026-05-02T21:00:43.990+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+  "lastId": "nnurby0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/02/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse.md",
   "items": [
     {
-      "id": "xdn4u40000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-      "filePath": "bleepingcomp/pages/2026/05/01/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly.md",
-      "committedAt": "2026-05-02T20:02:24.406+05:30",
-      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly"
+      "id": "nnurby0000",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "filePath": "bleepingcomp/pages/2026/05/02/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse.md",
+      "committedAt": "2026-05-02T21:00:43.990+05:30",
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse"
     }
   ]
 }

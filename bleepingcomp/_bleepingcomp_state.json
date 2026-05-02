@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T01:00:23.449-04:00",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-  "lastId": "ghy4dt0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/01/windows-11-kb5083631-update-released-with-34-changes-and-fixes.md",
+  "updatedAt": "2026-05-02T11:00:37.179+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+  "lastId": "113wywu000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/01/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks.md",
   "items": [
     {
-      "id": "ghy4dt0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-      "filePath": "bleepingcomp/pages/2026/05/01/windows-11-kb5083631-update-released-with-34-changes-and-fixes.md",
-      "committedAt": "2026-05-02T01:00:23.449-04:00",
-      "title": "Windows 11 KB5083631 update released with 34 changes and fixes"
+      "id": "113wywu000",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/01/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks.md",
+      "committedAt": "2026-05-02T11:00:37.179+05:30",
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks"
     }
   ]
 }

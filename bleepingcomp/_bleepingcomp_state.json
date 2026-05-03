@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-03T04:00:12.086+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-  "lastId": "1uz28r7000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/02/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks.md",
+  "updatedAt": "2026-05-03T20:00:36.832+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+  "lastId": "1edhvrz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/03/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery.md",
   "items": [
     {
-      "id": "1uz28r7000",
-      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/02/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks.md",
-      "committedAt": "2026-05-03T04:00:12.086+05:30",
-      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks"
+      "id": "1edhvrz000",
+      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+      "filePath": "bleepingcomp/pages/2026/05/03/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery.md",
+      "committedAt": "2026-05-03T20:00:36.832+05:30",
+      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery"
     }
   ]
 }

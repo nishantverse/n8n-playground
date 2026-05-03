@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T02:00:58.923+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-  "lastId": "16ts489000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/03/microsoft-defender-wrongly-flags-digicert-certs-as-trojanwin32cerdigentadha.md",
+  "updatedAt": "2026-05-04T04:00:24.120+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+  "lastId": "1ek56cy000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/03/instructure-confirms-data-breach-shinyhunters-claims-attack.md",
   "items": [
     {
-      "id": "16ts489000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-      "filePath": "bleepingcomp/pages/2026/05/03/microsoft-defender-wrongly-flags-digicert-certs-as-trojanwin32cerdigentadha.md",
-      "committedAt": "2026-05-04T02:00:58.923+05:30",
-      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha"
+      "id": "1ek56cy000",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+      "filePath": "bleepingcomp/pages/2026/05/03/instructure-confirms-data-breach-shinyhunters-claims-attack.md",
+      "committedAt": "2026-05-04T04:00:24.120+05:30",
+      "title": "Instructure confirms data breach, ShinyHunters claims attack"
     }
   ]
 }

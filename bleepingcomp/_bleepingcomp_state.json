@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-03T20:00:36.832+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-  "lastId": "1edhvrz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/03/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery.md",
+  "updatedAt": "2026-05-04T02:00:58.923+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+  "lastId": "16ts489000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/03/microsoft-defender-wrongly-flags-digicert-certs-as-trojanwin32cerdigentadha.md",
   "items": [
     {
-      "id": "1edhvrz000",
-      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-      "filePath": "bleepingcomp/pages/2026/05/03/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery.md",
-      "committedAt": "2026-05-03T20:00:36.832+05:30",
-      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery"
+      "id": "16ts489000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "filePath": "bleepingcomp/pages/2026/05/03/microsoft-defender-wrongly-flags-digicert-certs-as-trojanwin32cerdigentadha.md",
+      "committedAt": "2026-05-04T02:00:58.923+05:30",
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T22:00:23.774+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-  "lastId": "15n23jy000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/trellix-discloses-data-breach-after-source-code-repository-hack.md",
+  "updatedAt": "2026-05-05T00:02:08.577+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+  "lastId": "r7y71v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/microsoft-confirms-april-windows-updates-cause-backup-failures.md",
   "items": [
     {
-      "id": "15n23jy000",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-      "filePath": "bleepingcomp/pages/2026/05/04/trellix-discloses-data-breach-after-source-code-repository-hack.md",
-      "committedAt": "2026-05-04T22:00:23.774+05:30",
-      "title": "Trellix discloses data breach after source code repository hack"
+      "id": "r7y71v0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+      "filePath": "bleepingcomp/pages/2026/05/04/microsoft-confirms-april-windows-updates-cause-backup-failures.md",
+      "committedAt": "2026-05-05T00:02:08.577+05:30",
+      "title": "Microsoft confirms April Windows updates cause backup failures"
     }
   ]
 }

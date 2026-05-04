@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T18:00:23.516+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-  "lastId": "nirdh30000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/progress-warns-of-critical-moveit-automation-auth-bypass-flaw.md",
+  "updatedAt": "2026-05-04T20:01:18.912+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+  "lastId": "ql34sf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems.md",
   "items": [
     {
-      "id": "nirdh30000",
-      "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "filePath": "bleepingcomp/pages/2026/05/04/progress-warns-of-critical-moveit-automation-auth-bypass-flaw.md",
-      "committedAt": "2026-05-04T18:00:23.516+05:30",
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw"
+      "id": "ql34sf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "filePath": "bleepingcomp/pages/2026/05/04/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems.md",
+      "committedAt": "2026-05-04T20:01:18.912+05:30",
+      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems"
     }
   ]
 }

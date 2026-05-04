@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T02:01:08.956+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-  "lastId": "vbzy660000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/amazon-ses-increasingly-abused-in-phishing-to-evade-detection.md",
+  "updatedAt": "2026-05-05T04:00:41.371+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+  "lastId": "1upkk66000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/weaver-e-cology-critical-bug-exploited-in-attacks-since-march.md",
   "items": [
     {
-      "id": "vbzy660000",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-      "filePath": "bleepingcomp/pages/2026/05/04/amazon-ses-increasingly-abused-in-phishing-to-evade-detection.md",
-      "committedAt": "2026-05-05T02:01:08.956+05:30",
-      "title": "Amazon SES increasingly abused in phishing to evade detection"
+      "id": "1upkk66000",
+      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "filePath": "bleepingcomp/pages/2026/05/04/weaver-e-cology-critical-bug-exploited-in-attacks-since-march.md",
+      "committedAt": "2026-05-05T04:00:41.371+05:30",
+      "title": "Weaver E-cology critical bug exploited in attacks since March"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T20:01:18.912+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-  "lastId": "ql34sf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems.md",
+  "updatedAt": "2026-05-04T22:00:23.774+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+  "lastId": "15n23jy000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/trellix-discloses-data-breach-after-source-code-repository-hack.md",
   "items": [
     {
-      "id": "ql34sf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-      "filePath": "bleepingcomp/pages/2026/05/04/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems.md",
-      "committedAt": "2026-05-04T20:01:18.912+05:30",
-      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems"
+      "id": "15n23jy000",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+      "filePath": "bleepingcomp/pages/2026/05/04/trellix-discloses-data-breach-after-source-code-repository-hack.md",
+      "committedAt": "2026-05-04T22:00:23.774+05:30",
+      "title": "Trellix discloses data breach after source code repository hack"
     }
   ]
 }

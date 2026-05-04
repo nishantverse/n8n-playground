@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T04:00:24.120+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-  "lastId": "1ek56cy000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/03/instructure-confirms-data-breach-shinyhunters-claims-attack.md",
+  "updatedAt": "2026-05-04T18:00:23.516+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+  "lastId": "nirdh30000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/04/progress-warns-of-critical-moveit-automation-auth-bypass-flaw.md",
   "items": [
     {
-      "id": "1ek56cy000",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-      "filePath": "bleepingcomp/pages/2026/05/03/instructure-confirms-data-breach-shinyhunters-claims-attack.md",
-      "committedAt": "2026-05-04T04:00:24.120+05:30",
-      "title": "Instructure confirms data breach, ShinyHunters claims attack"
+      "id": "nirdh30000",
+      "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+      "filePath": "bleepingcomp/pages/2026/05/04/progress-warns-of-critical-moveit-automation-auth-bypass-flaw.md",
+      "committedAt": "2026-05-04T18:00:23.516+05:30",
+      "title": "Progress warns of critical MOVEit Automation auth bypass flaw"
     }
   ]
 }

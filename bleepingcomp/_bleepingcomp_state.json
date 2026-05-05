@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T00:01:35.586+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-  "lastId": "qpn8o90000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss.md",
+  "updatedAt": "2026-05-06T04:01:10.229+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+  "lastId": "1cjhokz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/new-stealthy-quasar-linux-malware-targets-software-developers.md",
   "items": [
     {
-      "id": "qpn8o90000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "filePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss.md",
-      "committedAt": "2026-05-06T00:01:35.586+05:30",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss"
+      "id": "1cjhokz000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+      "filePath": "bleepingcomp/pages/2026/05/05/new-stealthy-quasar-linux-malware-targets-software-developers.md",
+      "committedAt": "2026-05-06T04:01:10.229+05:30",
+      "title": "New stealthy Quasar Linux malware targets software developers"
     }
   ]
 }

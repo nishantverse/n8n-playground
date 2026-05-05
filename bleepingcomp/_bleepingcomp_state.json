@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T04:00:41.371+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-  "lastId": "1upkk66000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/04/weaver-e-cology-critical-bug-exploited-in-attacks-since-march.md",
+  "updatedAt": "2026-05-05T16:01:39.640+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+  "lastId": "1na96xq000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps.md",
   "items": [
     {
-      "id": "1upkk66000",
-      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "filePath": "bleepingcomp/pages/2026/05/04/weaver-e-cology-critical-bug-exploited-in-attacks-since-march.md",
-      "committedAt": "2026-05-05T04:00:41.371+05:30",
-      "title": "Weaver E-cology critical bug exploited in attacks since March"
+      "id": "1na96xq000",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "filePath": "bleepingcomp/pages/2026/05/05/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps.md",
+      "committedAt": "2026-05-05T16:01:39.640+05:30",
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs"
     }
   ]
 }

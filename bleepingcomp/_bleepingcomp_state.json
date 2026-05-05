@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T16:01:39.640+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-  "lastId": "1na96xq000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps.md",
+  "updatedAt": "2026-05-05T18:01:10.214+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
+  "lastId": "bwqv780000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/google-now-offers-up-to-15-million-for-some-android-exploits.md",
   "items": [
     {
-      "id": "1na96xq000",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "filePath": "bleepingcomp/pages/2026/05/05/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps.md",
-      "committedAt": "2026-05-05T16:01:39.640+05:30",
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs"
+      "id": "bwqv780000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
+      "filePath": "bleepingcomp/pages/2026/05/05/google-now-offers-up-to-15-million-for-some-android-exploits.md",
+      "committedAt": "2026-05-05T18:01:10.214+05:30",
+      "title": "Google now offers up to $1.5 million for some Android exploits"
     }
   ]
 }

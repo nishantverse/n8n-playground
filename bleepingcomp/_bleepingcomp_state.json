@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T22:01:22.202+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
-  "lastId": "19rf1nx000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check.md",
+  "updatedAt": "2026-05-06T00:01:35.586+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
+  "lastId": "qpn8o90000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss.md",
   "items": [
     {
-      "id": "19rf1nx000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
-      "filePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check.md",
-      "committedAt": "2026-05-05T22:01:22.202+05:30",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check."
+      "id": "qpn8o90000",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
+      "filePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss.md",
+      "committedAt": "2026-05-06T00:01:35.586+05:30",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss"
     }
   ]
 }

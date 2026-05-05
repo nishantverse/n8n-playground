@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T18:01:10.214+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
-  "lastId": "bwqv780000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/google-now-offers-up-to-15-million-for-some-android-exploits.md",
+  "updatedAt": "2026-05-05T20:00:53.643+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+  "lastId": "1w9m9vj000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/vimeo-data-breach-exposes-personal-information-of-119000-people.md",
   "items": [
     {
-      "id": "bwqv780000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
-      "filePath": "bleepingcomp/pages/2026/05/05/google-now-offers-up-to-15-million-for-some-android-exploits.md",
-      "committedAt": "2026-05-05T18:01:10.214+05:30",
-      "title": "Google now offers up to $1.5 million for some Android exploits"
+      "id": "1w9m9vj000",
+      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "filePath": "bleepingcomp/pages/2026/05/05/vimeo-data-breach-exposes-personal-information-of-119000-people.md",
+      "committedAt": "2026-05-05T20:00:53.643+05:30",
+      "title": "Vimeo data breach exposes personal information of 119,000 people"
     }
   ]
 }

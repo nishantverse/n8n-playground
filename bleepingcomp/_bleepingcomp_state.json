@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T20:00:53.643+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-  "lastId": "1w9m9vj000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/vimeo-data-breach-exposes-personal-information-of-119000-people.md",
+  "updatedAt": "2026-05-05T22:01:22.202+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+  "lastId": "19rf1nx000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check.md",
   "items": [
     {
-      "id": "1w9m9vj000",
-      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "filePath": "bleepingcomp/pages/2026/05/05/vimeo-data-breach-exposes-personal-information-of-119000-people.md",
-      "committedAt": "2026-05-05T20:00:53.643+05:30",
-      "title": "Vimeo data breach exposes personal information of 119,000 people"
+      "id": "19rf1nx000",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+      "filePath": "bleepingcomp/pages/2026/05/05/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check.md",
+      "committedAt": "2026-05-05T22:01:22.202+05:30",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check."
     }
   ]
 }

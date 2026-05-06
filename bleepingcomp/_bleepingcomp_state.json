@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T00:00:35.196+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
-  "lastId": "148maxr000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/06/daemon-tools-devs-confirm-breach-release-malware-free-version.md",
+  "updatedAt": "2026-05-07T02:01:08.152+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+  "lastId": "v87sdv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/06/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts.md",
   "items": [
     {
-      "id": "148maxr000",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
-      "filePath": "bleepingcomp/pages/2026/05/06/daemon-tools-devs-confirm-breach-release-malware-free-version.md",
-      "committedAt": "2026-05-07T00:00:35.196+05:30",
-      "title": "DAEMON Tools devs confirm breach, release malware-free version"
+      "id": "v87sdv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "filePath": "bleepingcomp/pages/2026/05/06/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts.md",
+      "committedAt": "2026-05-07T02:01:08.152+05:30",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts"
     }
   ]
 }

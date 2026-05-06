@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T18:05:18.666+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-  "lastId": "ub142m0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes.md",
+  "updatedAt": "2026-05-06T20:00:50.546+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+  "lastId": "bpf56b0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/06/why-ransomware-attacks-succeed-even-when-backups-exist.md",
   "items": [
     {
-      "id": "ub142m0000",
-      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-      "filePath": "bleepingcomp/pages/2026/05/05/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes.md",
-      "committedAt": "2026-05-06T18:05:18.666+05:30",
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes"
+      "id": "bpf56b0000",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "filePath": "bleepingcomp/pages/2026/05/06/why-ransomware-attacks-succeed-even-when-backups-exist.md",
+      "committedAt": "2026-05-06T20:00:50.546+05:30",
+      "title": "Why ransomware attacks succeed even when backups exist"
     }
   ]
 }

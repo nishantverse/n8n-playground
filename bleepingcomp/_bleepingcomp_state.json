@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T16:00:23.204+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
-  "lastId": "13132of000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/06/palo-alto-networks-warns-of-firewall-rce-zero-day-exploited-in-attacks.md",
+  "updatedAt": "2026-05-06T18:05:18.666+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+  "lastId": "ub142m0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/05/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes.md",
   "items": [
     {
-      "id": "13132of000",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
-      "filePath": "bleepingcomp/pages/2026/05/06/palo-alto-networks-warns-of-firewall-rce-zero-day-exploited-in-attacks.md",
-      "committedAt": "2026-05-06T16:00:23.204+05:30",
-      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks"
+      "id": "ub142m0000",
+      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+      "filePath": "bleepingcomp/pages/2026/05/05/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes.md",
+      "committedAt": "2026-05-06T18:05:18.666+05:30",
+      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes"
     }
   ]
 }

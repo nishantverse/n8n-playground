@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T20:00:50.546+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-  "lastId": "bpf56b0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/06/why-ransomware-attacks-succeed-even-when-backups-exist.md",
+  "updatedAt": "2026-05-07T00:00:35.196+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+  "lastId": "148maxr000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/06/daemon-tools-devs-confirm-breach-release-malware-free-version.md",
   "items": [
     {
-      "id": "bpf56b0000",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-      "filePath": "bleepingcomp/pages/2026/05/06/why-ransomware-attacks-succeed-even-when-backups-exist.md",
-      "committedAt": "2026-05-06T20:00:50.546+05:30",
-      "title": "Why ransomware attacks succeed even when backups exist"
+      "id": "148maxr000",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+      "filePath": "bleepingcomp/pages/2026/05/06/daemon-tools-devs-confirm-breach-release-malware-free-version.md",
+      "committedAt": "2026-05-07T00:00:35.196+05:30",
+      "title": "DAEMON Tools devs confirm breach, release malware-free version"
     }
   ]
 }

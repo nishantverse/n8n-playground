@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T04:01:10.229+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-  "lastId": "1cjhokz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/05/new-stealthy-quasar-linux-malware-targets-software-developers.md",
+  "updatedAt": "2026-05-06T16:00:23.204+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
+  "lastId": "13132of000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/06/palo-alto-networks-warns-of-firewall-rce-zero-day-exploited-in-attacks.md",
   "items": [
     {
-      "id": "1cjhokz000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-      "filePath": "bleepingcomp/pages/2026/05/05/new-stealthy-quasar-linux-malware-targets-software-developers.md",
-      "committedAt": "2026-05-06T04:01:10.229+05:30",
-      "title": "New stealthy Quasar Linux malware targets software developers"
+      "id": "13132of000",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
+      "filePath": "bleepingcomp/pages/2026/05/06/palo-alto-networks-warns-of-firewall-rce-zero-day-exploited-in-attacks.md",
+      "committedAt": "2026-05-06T16:00:23.204+05:30",
+      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks"
     }
   ]
 }

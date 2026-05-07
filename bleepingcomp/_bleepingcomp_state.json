@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T22:00:35.311+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-  "lastId": "1j6oyxf000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/07/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks.md",
+  "updatedAt": "2026-05-08T00:01:08.403+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+  "lastId": "ey86ym0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/07/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware.md",
   "items": [
     {
-      "id": "1j6oyxf000",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/07/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks.md",
-      "committedAt": "2026-05-07T22:00:35.311+05:30",
-      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks"
+      "id": "ey86ym0000",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/07/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware.md",
+      "committedAt": "2026-05-08T00:01:08.403+05:30",
+      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware"
     }
   ]
 }

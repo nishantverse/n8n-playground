@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T23:45:43.818+05:30",
-  "lastLink": "https://cyberpress.org/linux-kernel-zero-day-vulnerability/",
-  "lastId": "165x73n000",
-  "lastFilePath": "cyberpress/pages/2026/05/04/cisa-warns-of-linux-kernel-zero-day-vulnerability-exploited-in-active-attacks_165x73n000.md",
+  "updatedAt": "2026-05-07T23:45:14.704+05:30",
+  "lastLink": "https://cyberpress.org/redis-vulnerabilities/",
+  "lastId": "1ulpehf000",
+  "lastFilePath": "cyberpress/pages/2026/05/07/critical-redis-vulnerabilities-enable-remote-code-execution-attacks_1ulpehf000.md",
   "items": [
     {
-      "id": "165x73n000",
-      "link": "https://cyberpress.org/linux-kernel-zero-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/04/cisa-warns-of-linux-kernel-zero-day-vulnerability-exploited-in-active-attacks_165x73n000.md",
-      "committedAt": "2026-05-04T23:45:43.818+05:30",
-      "title": "CISA Warns of Linux Kernel Zero-Day Vulnerability Exploited in Active Attacks"
+      "id": "1ulpehf000",
+      "link": "https://cyberpress.org/redis-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/05/07/critical-redis-vulnerabilities-enable-remote-code-execution-attacks_1ulpehf000.md",
+      "committedAt": "2026-05-07T23:45:14.704+05:30",
+      "title": "Critical Redis Vulnerabilities Enable Remote Code Execution Attacks"
     }
   ]
 }

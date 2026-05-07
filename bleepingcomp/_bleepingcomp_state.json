@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T16:00:56.147+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-  "lastId": "11ullsu000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/07/fake-claude-ai-website-delivers-new-beagle-windows-malware.md",
+  "updatedAt": "2026-05-07T18:00:39.893+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+  "lastId": "1iohoeu000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/07/palo-alto-networks-firewall-zero-day-exploited-for-nearly-a-month.md",
   "items": [
     {
-      "id": "11ullsu000",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/07/fake-claude-ai-website-delivers-new-beagle-windows-malware.md",
-      "committedAt": "2026-05-07T16:00:56.147+05:30",
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware"
+      "id": "1iohoeu000",
+      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "filePath": "bleepingcomp/pages/2026/05/07/palo-alto-networks-firewall-zero-day-exploited-for-nearly-a-month.md",
+      "committedAt": "2026-05-07T18:00:39.893+05:30",
+      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month"
     }
   ]
 }

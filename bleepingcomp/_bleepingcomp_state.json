@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T18:00:39.893+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-  "lastId": "1iohoeu000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/07/palo-alto-networks-firewall-zero-day-exploited-for-nearly-a-month.md",
+  "updatedAt": "2026-05-07T22:00:35.311+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+  "lastId": "1j6oyxf000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/07/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks.md",
   "items": [
     {
-      "id": "1iohoeu000",
-      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-      "filePath": "bleepingcomp/pages/2026/05/07/palo-alto-networks-firewall-zero-day-exploited-for-nearly-a-month.md",
-      "committedAt": "2026-05-07T18:00:39.893+05:30",
-      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month"
+      "id": "1j6oyxf000",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/07/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks.md",
+      "committedAt": "2026-05-07T22:00:35.311+05:30",
+      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks"
     }
   ]
 }

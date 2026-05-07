@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T02:01:08.152+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-  "lastId": "v87sdv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/06/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts.md",
+  "updatedAt": "2026-05-07T16:00:56.147+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
+  "lastId": "11ullsu000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/07/fake-claude-ai-website-delivers-new-beagle-windows-malware.md",
   "items": [
     {
-      "id": "v87sdv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-      "filePath": "bleepingcomp/pages/2026/05/06/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts.md",
-      "committedAt": "2026-05-07T02:01:08.152+05:30",
-      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts"
+      "id": "11ullsu000",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/07/fake-claude-ai-website-delivers-new-beagle-windows-malware.md",
+      "committedAt": "2026-05-07T16:00:56.147+05:30",
+      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware"
     }
   ]
 }

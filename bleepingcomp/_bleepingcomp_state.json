@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T22:00:21.062+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-  "lastId": "6nvn7i0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/08/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md",
+  "updatedAt": "2026-05-09T00:00:59.225+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+  "lastId": "1dckmrj000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/08/zara-data-breach-exposed-personal-information-of-197000-people.md",
   "items": [
     {
-      "id": "6nvn7i0000",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "filePath": "bleepingcomp/pages/2026/05/08/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md",
-      "committedAt": "2026-05-08T22:00:21.062+05:30",
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users"
+      "id": "1dckmrj000",
+      "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+      "filePath": "bleepingcomp/pages/2026/05/08/zara-data-breach-exposed-personal-information-of-197000-people.md",
+      "committedAt": "2026-05-09T00:00:59.225+05:30",
+      "title": "Zara data breach exposed personal information of 197,000 people"
     }
   ]
 }

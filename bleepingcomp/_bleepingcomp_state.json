@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T04:01:07.658+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-  "lastId": "xqbkpf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/07/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook.md",
+  "updatedAt": "2026-05-08T14:00:51.022+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+  "lastId": "1l0jfa8000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/08/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md",
   "items": [
     {
-      "id": "xqbkpf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "filePath": "bleepingcomp/pages/2026/05/07/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook.md",
-      "committedAt": "2026-05-08T04:01:07.658+05:30",
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook"
+      "id": "1l0jfa8000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+      "filePath": "bleepingcomp/pages/2026/05/08/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md",
+      "committedAt": "2026-05-08T14:00:51.022+05:30",
+      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros"
     }
   ]
 }

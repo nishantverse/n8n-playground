@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T20:00:50.861+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-  "lastId": "1l3h82b000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/08/trellix-source-code-breach-claimed-by-ransomhouse-hackers.md",
+  "updatedAt": "2026-05-08T22:00:21.062+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+  "lastId": "6nvn7i0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/08/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md",
   "items": [
     {
-      "id": "1l3h82b000",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-      "filePath": "bleepingcomp/pages/2026/05/08/trellix-source-code-breach-claimed-by-ransomhouse-hackers.md",
-      "committedAt": "2026-05-08T20:00:50.861+05:30",
-      "title": "Trellix source code breach claimed by RansomHouse hackers"
+      "id": "6nvn7i0000",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "filePath": "bleepingcomp/pages/2026/05/08/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md",
+      "committedAt": "2026-05-08T22:00:21.062+05:30",
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users"
     }
   ]
 }

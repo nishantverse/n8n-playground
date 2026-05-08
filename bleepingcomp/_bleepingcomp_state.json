@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T14:00:51.022+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-  "lastId": "1l0jfa8000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/08/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md",
+  "updatedAt": "2026-05-08T18:00:29.703+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+  "lastId": "1q1thbn000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/08/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day.md",
   "items": [
     {
-      "id": "1l0jfa8000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "filePath": "bleepingcomp/pages/2026/05/08/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md",
-      "committedAt": "2026-05-08T14:00:51.022+05:30",
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros"
+      "id": "1q1thbn000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "filePath": "bleepingcomp/pages/2026/05/08/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day.md",
+      "committedAt": "2026-05-08T18:00:29.703+05:30",
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day"
     }
   ]
 }

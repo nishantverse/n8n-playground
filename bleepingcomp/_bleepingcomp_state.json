@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T22:01:36.748+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-  "lastId": "1umc2xq000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/09/fake-openai-repository-on-hugging-face-pushes-infostealer-malware.md",
+  "updatedAt": "2026-05-10T02:01:29.746+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+  "lastId": "sc9h1v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/09/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware.md",
   "items": [
     {
-      "id": "1umc2xq000",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/09/fake-openai-repository-on-hugging-face-pushes-infostealer-malware.md",
-      "committedAt": "2026-05-09T22:01:36.748+05:30",
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware"
+      "id": "sc9h1v0000",
+      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/09/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware.md",
+      "committedAt": "2026-05-10T02:01:29.746+05:30",
+      "title": "JDownloader site hacked to replace installers with Python RAT malware"
     }
   ]
 }

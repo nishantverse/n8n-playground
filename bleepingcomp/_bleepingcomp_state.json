@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T00:00:59.225+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-  "lastId": "1dckmrj000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/08/zara-data-breach-exposed-personal-information-of-197000-people.md",
+  "updatedAt": "2026-05-09T22:01:36.748+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+  "lastId": "1umc2xq000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/09/fake-openai-repository-on-hugging-face-pushes-infostealer-malware.md",
   "items": [
     {
-      "id": "1dckmrj000",
-      "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-      "filePath": "bleepingcomp/pages/2026/05/08/zara-data-breach-exposed-personal-information-of-197000-people.md",
-      "committedAt": "2026-05-09T00:00:59.225+05:30",
-      "title": "Zara data breach exposed personal information of 197,000 people"
+      "id": "1umc2xq000",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/09/fake-openai-repository-on-hugging-face-pushes-infostealer-malware.md",
+      "committedAt": "2026-05-09T22:01:36.748+05:30",
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware"
     }
   ]
 }

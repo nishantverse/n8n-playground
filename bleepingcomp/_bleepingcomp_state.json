@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T02:01:29.746+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-  "lastId": "sc9h1v0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/09/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware.md",
+  "updatedAt": "2026-05-11T00:01:27.057+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+  "lastId": "1j0s350000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/10/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware.md",
   "items": [
     {
-      "id": "sc9h1v0000",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/09/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware.md",
-      "committedAt": "2026-05-10T02:01:29.746+05:30",
-      "title": "JDownloader site hacked to replace installers with Python RAT malware"
+      "id": "1j0s350000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/10/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware.md",
+      "committedAt": "2026-05-11T00:01:27.057+05:30",
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware"
     }
   ]
 }

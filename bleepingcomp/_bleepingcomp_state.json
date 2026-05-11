@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T22:01:54.809+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-  "lastId": "sr7xuv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/why-changing-passwords-doesnt-end-an-active-directory-breach.md",
+  "updatedAt": "2026-05-12T04:01:33.482+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+  "lastId": "1if47dq000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/official-checkmarx-jenkins-package-compromised-with-infostealer.md",
   "items": [
     {
-      "id": "sr7xuv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-      "filePath": "bleepingcomp/pages/2026/05/11/why-changing-passwords-doesnt-end-an-active-directory-breach.md",
-      "committedAt": "2026-05-11T22:01:54.809+05:30",
-      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach"
+      "id": "1if47dq000",
+      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "filePath": "bleepingcomp/pages/2026/05/11/official-checkmarx-jenkins-package-compromised-with-infostealer.md",
+      "committedAt": "2026-05-12T04:01:33.482+05:30",
+      "title": "Official CheckMarx Jenkins package compromised with infostealer"
     }
   ]
 }

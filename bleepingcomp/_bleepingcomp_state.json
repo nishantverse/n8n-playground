@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T00:01:27.057+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-  "lastId": "1j0s350000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/10/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware.md",
+  "updatedAt": "2026-05-11T16:02:59.610+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+  "lastId": "klah6m0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms.md",
   "items": [
     {
-      "id": "1j0s350000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/10/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware.md",
-      "committedAt": "2026-05-11T00:01:27.057+05:30",
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware"
+      "id": "klah6m0000",
+      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+      "filePath": "bleepingcomp/pages/2026/05/11/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms.md",
+      "committedAt": "2026-05-11T16:02:59.610+05:30",
+      "title": "TrickMo Android banker adopts TON blockchain for covert comms"
     }
   ]
 }

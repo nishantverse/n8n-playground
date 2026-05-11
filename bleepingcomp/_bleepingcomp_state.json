@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T20:00:57.843+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
-  "lastId": "15wwnyh000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool.md",
+  "updatedAt": "2026-05-11T22:01:54.809+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+  "lastId": "sr7xuv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/why-changing-passwords-doesnt-end-an-active-directory-breach.md",
   "items": [
     {
-      "id": "15wwnyh000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
-      "filePath": "bleepingcomp/pages/2026/05/11/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool.md",
-      "committedAt": "2026-05-11T20:00:57.843+05:30",
-      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool"
+      "id": "sr7xuv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+      "filePath": "bleepingcomp/pages/2026/05/11/why-changing-passwords-doesnt-end-an-active-directory-breach.md",
+      "committedAt": "2026-05-11T22:01:54.809+05:30",
+      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach"
     }
   ]
 }

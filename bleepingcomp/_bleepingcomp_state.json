@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T20:01:30.053+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-  "lastId": "1gambun000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages.md",
+  "updatedAt": "2026-05-13T00:00:28.477+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+  "lastId": "4gcc430000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator.md",
   "items": [
     {
-      "id": "1gambun000",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "filePath": "bleepingcomp/pages/2026/05/12/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages.md",
-      "committedAt": "2026-05-12T20:01:30.053+05:30",
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages"
+      "id": "4gcc430000",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "filePath": "bleepingcomp/pages/2026/05/12/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator.md",
+      "committedAt": "2026-05-13T00:00:28.477+05:30",
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator"
     }
   ]
 }

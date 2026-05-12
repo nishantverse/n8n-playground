@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T02:00:41.447+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-  "lastId": "1a3lyl9000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days.md",
+  "updatedAt": "2026-05-13T04:00:45.307+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+  "lastId": "fglev40000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/koda-warns-of-customer-data-breach-after-online-shop-hack.md",
   "items": [
     {
-      "id": "1a3lyl9000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "filePath": "bleepingcomp/pages/2026/05/12/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days.md",
-      "committedAt": "2026-05-13T02:00:41.447+05:30",
-      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days"
+      "id": "fglev40000",
+      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "filePath": "bleepingcomp/pages/2026/05/12/koda-warns-of-customer-data-breach-after-online-shop-hack.md",
+      "committedAt": "2026-05-13T04:00:45.307+05:30",
+      "title": "Škoda warns of customer data breach after online shop hack"
     }
   ]
 }

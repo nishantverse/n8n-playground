@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T00:00:28.477+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-  "lastId": "4gcc430000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator.md",
+  "updatedAt": "2026-05-13T02:00:41.447+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+  "lastId": "1a3lyl9000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days.md",
   "items": [
     {
-      "id": "4gcc430000",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-      "filePath": "bleepingcomp/pages/2026/05/12/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator.md",
-      "committedAt": "2026-05-13T00:00:28.477+05:30",
-      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator"
+      "id": "1a3lyl9000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "filePath": "bleepingcomp/pages/2026/05/12/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days.md",
+      "committedAt": "2026-05-13T02:00:41.447+05:30",
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days"
     }
   ]
 }

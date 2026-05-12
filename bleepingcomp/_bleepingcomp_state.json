@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T06:02:26.671+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-  "lastId": "7ra3zs0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data.md",
+  "updatedAt": "2026-05-12T08:02:48.056+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+  "lastId": "k75ylv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/new-ghostlock-tool-abuses-windows-api-to-block-file-access.md",
   "items": [
     {
-      "id": "7ra3zs0000",
-      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-      "filePath": "bleepingcomp/pages/2026/05/11/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data.md",
-      "committedAt": "2026-05-12T06:02:26.671+05:30",
-      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data"
+      "id": "k75ylv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "filePath": "bleepingcomp/pages/2026/05/11/new-ghostlock-tool-abuses-windows-api-to-block-file-access.md",
+      "committedAt": "2026-05-12T08:02:48.056+05:30",
+      "title": "New GhostLock tool abuses Windows API to block file access"
     }
   ]
 }

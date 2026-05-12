@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T16:00:42.038+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-  "lastId": "1fcxv3y000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak.md",
+  "updatedAt": "2026-05-12T18:00:24.803+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+  "lastId": "474ofw0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s4hana.md",
   "items": [
     {
-      "id": "1fcxv3y000",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-      "filePath": "bleepingcomp/pages/2026/05/12/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak.md",
-      "committedAt": "2026-05-12T16:00:42.038+05:30",
-      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak"
+      "id": "474ofw0000",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "filePath": "bleepingcomp/pages/2026/05/12/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s4hana.md",
+      "committedAt": "2026-05-12T18:00:24.803+05:30",
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA"
     }
   ]
 }

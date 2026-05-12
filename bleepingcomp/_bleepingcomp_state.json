@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T04:01:33.482+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-  "lastId": "1if47dq000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/official-checkmarx-jenkins-package-compromised-with-infostealer.md",
+  "updatedAt": "2026-05-12T06:02:26.671+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+  "lastId": "7ra3zs0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/11/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data.md",
   "items": [
     {
-      "id": "1if47dq000",
-      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-      "filePath": "bleepingcomp/pages/2026/05/11/official-checkmarx-jenkins-package-compromised-with-infostealer.md",
-      "committedAt": "2026-05-12T04:01:33.482+05:30",
-      "title": "Official CheckMarx Jenkins package compromised with infostealer"
+      "id": "7ra3zs0000",
+      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+      "filePath": "bleepingcomp/pages/2026/05/11/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data.md",
+      "committedAt": "2026-05-12T06:02:26.671+05:30",
+      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data"
     }
   ]
 }

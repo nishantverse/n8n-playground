@@ -1,4 +1,4 @@
-currentl only two workflows are working:
+currently only two workflows are working:
 1. bleepingcomp
 2. cyberpress
 

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T08:02:48.056+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-  "lastId": "k75ylv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/11/new-ghostlock-tool-abuses-windows-api-to-block-file-access.md",
+  "updatedAt": "2026-05-12T16:00:42.038+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+  "lastId": "1fcxv3y000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak.md",
   "items": [
     {
-      "id": "k75ylv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-      "filePath": "bleepingcomp/pages/2026/05/11/new-ghostlock-tool-abuses-windows-api-to-block-file-access.md",
-      "committedAt": "2026-05-12T08:02:48.056+05:30",
-      "title": "New GhostLock tool abuses Windows API to block file access"
+      "id": "1fcxv3y000",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "filePath": "bleepingcomp/pages/2026/05/12/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak.md",
+      "committedAt": "2026-05-12T16:00:42.038+05:30",
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak"
     }
   ]
 }

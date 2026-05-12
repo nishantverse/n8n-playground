@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T23:45:14.704+05:30",
-  "lastLink": "https://cyberpress.org/redis-vulnerabilities/",
-  "lastId": "1ulpehf000",
-  "lastFilePath": "cyberpress/pages/2026/05/07/critical-redis-vulnerabilities-enable-remote-code-execution-attacks_1ulpehf000.md",
+  "updatedAt": "2026-05-12T18:06:20.858+05:30",
+  "lastLink": "https://cyberpress.org/critical-cline-ai-agent-vulnerability/",
+  "lastId": "6qsw1y0000",
+  "lastFilePath": "cyberpress/pages/2026/05/12/critical-cline-ai-agent-vulnerability-enables-remote-code-execution-attacks_6qsw1y0000.md",
   "items": [
     {
-      "id": "1ulpehf000",
-      "link": "https://cyberpress.org/redis-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/05/07/critical-redis-vulnerabilities-enable-remote-code-execution-attacks_1ulpehf000.md",
-      "committedAt": "2026-05-07T23:45:14.704+05:30",
-      "title": "Critical Redis Vulnerabilities Enable Remote Code Execution Attacks"
+      "id": "6qsw1y0000",
+      "link": "https://cyberpress.org/critical-cline-ai-agent-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/12/critical-cline-ai-agent-vulnerability-enables-remote-code-execution-attacks_6qsw1y0000.md",
+      "committedAt": "2026-05-12T18:06:20.858+05:30",
+      "title": "Critical Cline AI Agent Vulnerability Enables Remote Code Execution Attacks"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T22:01:45.464+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-  "lastId": "g12ek10000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers.md",
+  "updatedAt": "2026-05-14T00:00:49.512+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+  "lastId": "y3ag730000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released.md",
   "items": [
     {
-      "id": "g12ek10000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "filePath": "bleepingcomp/pages/2026/05/13/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers.md",
-      "committedAt": "2026-05-13T22:01:45.464+05:30",
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers"
+      "id": "y3ag730000",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "filePath": "bleepingcomp/pages/2026/05/13/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released.md",
+      "committedAt": "2026-05-14T00:00:49.512+05:30",
+      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T00:00:49.512+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-  "lastId": "y3ag730000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released.md",
+  "updatedAt": "2026-05-14T02:00:54.658+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+  "lastId": "mme55q0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/new-critical-exim-mailer-flaw-allows-remote-code-execution.md",
   "items": [
     {
-      "id": "y3ag730000",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "filePath": "bleepingcomp/pages/2026/05/13/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released.md",
-      "committedAt": "2026-05-14T00:00:49.512+05:30",
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released"
+      "id": "mme55q0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "filePath": "bleepingcomp/pages/2026/05/13/new-critical-exim-mailer-flaw-allows-remote-code-execution.md",
+      "committedAt": "2026-05-14T02:00:54.658+05:30",
+      "title": "New critical Exim mailer flaw allows remote code execution"
     }
   ]
 }

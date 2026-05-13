@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T06:00:52.642+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-  "lastId": "129y79u000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/signal-adds-security-warnings-for-social-engineering-phishing-attacks.md",
+  "updatedAt": "2026-05-13T08:01:43.652+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+  "lastId": "qpynzl0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/microsoft-releases-windows-10-kb5087544-extended-security-update.md",
   "items": [
     {
-      "id": "129y79u000",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/12/signal-adds-security-warnings-for-social-engineering-phishing-attacks.md",
-      "committedAt": "2026-05-13T06:00:52.642+05:30",
-      "title": "Signal adds security warnings for social engineering, phishing attacks"
+      "id": "qpynzl0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "filePath": "bleepingcomp/pages/2026/05/12/microsoft-releases-windows-10-kb5087544-extended-security-update.md",
+      "committedAt": "2026-05-13T08:01:43.652+05:30",
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update"
     }
   ]
 }

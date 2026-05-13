@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T02:00:54.658+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-  "lastId": "mme55q0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/13/new-critical-exim-mailer-flaw-allows-remote-code-execution.md",
+  "updatedAt": "2026-05-14T04:01:50.191+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+  "lastId": "1ohmtpk000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/13/foxconn-confirms-cyberattack-claimed-by-nitrogen-ransomware-gang.md",
   "items": [
     {
-      "id": "mme55q0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "filePath": "bleepingcomp/pages/2026/05/13/new-critical-exim-mailer-flaw-allows-remote-code-execution.md",
-      "committedAt": "2026-05-14T02:00:54.658+05:30",
-      "title": "New critical Exim mailer flaw allows remote code execution"
+      "id": "1ohmtpk000",
+      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "filePath": "bleepingcomp/pages/2026/05/13/foxconn-confirms-cyberattack-claimed-by-nitrogen-ransomware-gang.md",
+      "committedAt": "2026-05-14T04:01:50.191+05:30",
+      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang"
     }
   ]
 }

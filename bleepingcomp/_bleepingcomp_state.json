@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T04:00:45.307+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-  "lastId": "fglev40000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/12/koda-warns-of-customer-data-breach-after-online-shop-hack.md",
+  "updatedAt": "2026-05-13T06:00:52.642+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+  "lastId": "129y79u000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/12/signal-adds-security-warnings-for-social-engineering-phishing-attacks.md",
   "items": [
     {
-      "id": "fglev40000",
-      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "filePath": "bleepingcomp/pages/2026/05/12/koda-warns-of-customer-data-breach-after-online-shop-hack.md",
-      "committedAt": "2026-05-13T04:00:45.307+05:30",
-      "title": "Škoda warns of customer data breach after online shop hack"
+      "id": "129y79u000",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/12/signal-adds-security-warnings-for-social-engineering-phishing-attacks.md",
+      "committedAt": "2026-05-13T06:00:52.642+05:30",
+      "title": "Signal adds security warnings for social engineering, phishing attacks"
     }
   ]
 }

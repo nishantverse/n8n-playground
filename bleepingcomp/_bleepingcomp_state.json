@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T22:00:55.031+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-  "lastId": "1hpzuhe000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/18-year-old-nginx-vulnerability-allows-dos-potential-rce.md",
+  "updatedAt": "2026-05-15T02:00:50.149+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+  "lastId": "mw67pa0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks.md",
   "items": [
     {
-      "id": "1hpzuhe000",
-      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-      "filePath": "bleepingcomp/pages/2026/05/14/18-year-old-nginx-vulnerability-allows-dos-potential-rce.md",
-      "committedAt": "2026-05-14T22:00:55.031+05:30",
-      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE"
+      "id": "mw67pa0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/14/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks.md",
+      "committedAt": "2026-05-15T02:00:50.149+05:30",
+      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks"
     }
   ]
 }

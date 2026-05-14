@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T14:02:22.809+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-  "lastId": "elxym60000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges.md",
+  "updatedAt": "2026-05-14T16:01:50.830+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+  "lastId": "1jyffdz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes.md",
   "items": [
     {
-      "id": "elxym60000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "filePath": "bleepingcomp/pages/2026/05/14/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges.md",
-      "committedAt": "2026-05-14T14:02:22.809+05:30",
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges"
+      "id": "1jyffdz000",
+      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "filePath": "bleepingcomp/pages/2026/05/14/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes.md",
+      "committedAt": "2026-05-14T16:01:50.830+05:30",
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes"
     }
   ]
 }

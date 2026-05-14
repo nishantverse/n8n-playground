@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T18:01:36.118+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
-  "lastId": "1khtnr2000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches.md",
+  "updatedAt": "2026-05-14T22:00:55.031+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+  "lastId": "1hpzuhe000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/18-year-old-nginx-vulnerability-allows-dos-potential-rce.md",
   "items": [
     {
-      "id": "1khtnr2000",
-      "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
-      "filePath": "bleepingcomp/pages/2026/05/14/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches.md",
-      "committedAt": "2026-05-14T18:01:36.118+05:30",
-      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches"
+      "id": "1hpzuhe000",
+      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+      "filePath": "bleepingcomp/pages/2026/05/14/18-year-old-nginx-vulnerability-allows-dos-potential-rce.md",
+      "committedAt": "2026-05-14T22:00:55.031+05:30",
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE"
     }
   ]
 }

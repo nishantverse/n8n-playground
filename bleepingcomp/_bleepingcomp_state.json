@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T16:01:50.830+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-  "lastId": "1jyffdz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes.md",
+  "updatedAt": "2026-05-14T18:01:36.118+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+  "lastId": "1khtnr2000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches.md",
   "items": [
     {
-      "id": "1jyffdz000",
-      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-      "filePath": "bleepingcomp/pages/2026/05/14/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes.md",
-      "committedAt": "2026-05-14T16:01:50.830+05:30",
-      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes"
+      "id": "1khtnr2000",
+      "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "filePath": "bleepingcomp/pages/2026/05/14/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches.md",
+      "committedAt": "2026-05-14T18:01:36.118+05:30",
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches"
     }
   ]
 }

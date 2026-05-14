@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T02:00:50.149+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-  "lastId": "mw67pa0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks.md",
+  "updatedAt": "2026-05-15T04:01:01.390+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+  "lastId": "1pgdpf7000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin.md",
   "items": [
     {
-      "id": "mw67pa0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/14/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks.md",
-      "committedAt": "2026-05-15T02:00:50.149+05:30",
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks"
+      "id": "1pgdpf7000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+      "filePath": "bleepingcomp/pages/2026/05/14/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin.md",
+      "committedAt": "2026-05-15T04:01:01.390+05:30",
+      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin"
     }
   ]
 }

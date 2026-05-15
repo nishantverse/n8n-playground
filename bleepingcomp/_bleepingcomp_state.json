@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T08:02:37.699+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-  "lastId": "p6qrby0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale.md",
+  "updatedAt": "2026-05-15T16:01:10.619+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+  "lastId": "1rl9me4000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks.md",
   "items": [
     {
-      "id": "p6qrby0000",
-      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-      "filePath": "bleepingcomp/pages/2026/05/14/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale.md",
-      "committedAt": "2026-05-15T08:02:37.699+05:30",
-      "title": "TeamPCP hackers advertise Mistral AI code repos for sale"
+      "id": "1rl9me4000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks.md",
+      "committedAt": "2026-05-15T16:01:10.619+05:30",
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks"
     }
   ]
 }

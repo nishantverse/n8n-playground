@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T16:01:10.619+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-  "lastId": "1rl9me4000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks.md",
+  "updatedAt": "2026-05-15T18:04:16.640+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+  "lastId": "1j821es000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight.md",
   "items": [
     {
-      "id": "1rl9me4000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks.md",
-      "committedAt": "2026-05-15T16:01:10.619+05:30",
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks"
+      "id": "1j821es000",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "filePath": "bleepingcomp/pages/2026/05/14/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight.md",
+      "committedAt": "2026-05-15T18:04:16.640+05:30",
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight"
     }
   ]
 }

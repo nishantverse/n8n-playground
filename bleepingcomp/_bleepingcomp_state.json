@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T20:02:17.181+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-  "lastId": "td9nm10000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution.md",
+  "updatedAt": "2026-05-16T00:02:00.012+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+  "lastId": "jyaoj00000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/popular-node-ipc-npm-package-compromised-to-steal-credentials.md",
   "items": [
     {
-      "id": "td9nm10000",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-      "filePath": "bleepingcomp/pages/2026/05/15/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution.md",
-      "committedAt": "2026-05-15T20:02:17.181+05:30",
-      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution"
+      "id": "jyaoj00000",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "filePath": "bleepingcomp/pages/2026/05/15/popular-node-ipc-npm-package-compromised-to-steal-credentials.md",
+      "committedAt": "2026-05-16T00:02:00.012+05:30",
+      "title": "Popular node-ipc npm package compromised to steal credentials"
     }
   ]
 }

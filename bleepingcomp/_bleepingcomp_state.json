@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T06:01:30.068+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-  "lastId": "1pppq72000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/openai-confirms-security-breach-in-tanstack-supply-chain-attack.md",
+  "updatedAt": "2026-05-15T08:02:37.699+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+  "lastId": "p6qrby0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/14/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale.md",
   "items": [
     {
-      "id": "1pppq72000",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-      "filePath": "bleepingcomp/pages/2026/05/14/openai-confirms-security-breach-in-tanstack-supply-chain-attack.md",
-      "committedAt": "2026-05-15T06:01:30.068+05:30",
-      "title": "OpenAI confirms security breach in TanStack supply chain attack"
+      "id": "p6qrby0000",
+      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "filePath": "bleepingcomp/pages/2026/05/14/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale.md",
+      "committedAt": "2026-05-15T08:02:37.699+05:30",
+      "title": "TeamPCP hackers advertise Mistral AI code repos for sale"
     }
   ]
 }

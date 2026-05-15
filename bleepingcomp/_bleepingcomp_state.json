@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T18:04:16.640+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-  "lastId": "1j821es000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/14/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight.md",
+  "updatedAt": "2026-05-15T20:02:17.181+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+  "lastId": "td9nm10000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution.md",
   "items": [
     {
-      "id": "1j821es000",
-      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-      "filePath": "bleepingcomp/pages/2026/05/14/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight.md",
-      "committedAt": "2026-05-15T18:04:16.640+05:30",
-      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight"
+      "id": "td9nm10000",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+      "filePath": "bleepingcomp/pages/2026/05/15/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution.md",
+      "committedAt": "2026-05-15T20:02:17.181+05:30",
+      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution"
     }
   ]
 }

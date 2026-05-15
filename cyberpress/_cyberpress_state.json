@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T23:46:07.747+05:30",
-  "lastLink": "https://cyberpress.org/critical-fortinet-fortisandbox-flaw/",
-  "lastId": "ios00g0000",
-  "lastFilePath": "cyberpress/pages/2026/05/13/critical-fortinet-fortisandbox-flaw-enables-remote-code-execution_ios00g0000.md",
+  "updatedAt": "2026-05-15T23:46:22.099+05:30",
+  "lastLink": "https://cyberpress.org/79-chrome-vulnerabilities-patched/",
+  "lastId": "p5p42h0000",
+  "lastFilePath": "cyberpress/pages/2026/05/15/79-chrome-vulnerabilities-patched-including-14-critical-flaws-update-now_p5p42h0000.md",
   "items": [
     {
-      "id": "ios00g0000",
-      "link": "https://cyberpress.org/critical-fortinet-fortisandbox-flaw/",
-      "filePath": "cyberpress/pages/2026/05/13/critical-fortinet-fortisandbox-flaw-enables-remote-code-execution_ios00g0000.md",
-      "committedAt": "2026-05-13T23:46:07.747+05:30",
-      "title": "Critical Fortinet FortiSandbox Flaw Enables Remote Code Execution"
+      "id": "p5p42h0000",
+      "link": "https://cyberpress.org/79-chrome-vulnerabilities-patched/",
+      "filePath": "cyberpress/pages/2026/05/15/79-chrome-vulnerabilities-patched-including-14-critical-flaws-update-now_p5p42h0000.md",
+      "committedAt": "2026-05-15T23:46:22.099+05:30",
+      "title": "79 Chrome Vulnerabilities Patched, Including 14 Critical Flaws – Update Now"
     }
   ]
 }

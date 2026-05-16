@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T12:02:45.916+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-  "lastId": "q78o660000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft.md",
+  "updatedAt": "2026-05-16T22:01:57.444+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+  "lastId": "nbx5em0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/16/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet.md",
   "items": [
     {
-      "id": "q78o660000",
-      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "filePath": "bleepingcomp/pages/2026/05/15/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft.md",
-      "committedAt": "2026-05-16T12:02:45.916+05:30",
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft"
+      "id": "nbx5em0000",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "filePath": "bleepingcomp/pages/2026/05/16/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet.md",
+      "committedAt": "2026-05-16T22:01:57.444+05:30",
+      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet"
     }
   ]
 }

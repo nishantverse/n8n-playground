@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T04:02:31.564+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-  "lastId": "1y1mork000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/15/microsoft-exchange-windows-11-hacked-on-second-day-of-pwn2own.md",
+  "updatedAt": "2026-05-16T12:02:45.916+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+  "lastId": "q78o660000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/15/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft.md",
   "items": [
     {
-      "id": "1y1mork000",
-      "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-      "filePath": "bleepingcomp/pages/2026/05/15/microsoft-exchange-windows-11-hacked-on-second-day-of-pwn2own.md",
-      "committedAt": "2026-05-16T04:02:31.564+05:30",
-      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own"
+      "id": "q78o660000",
+      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+      "filePath": "bleepingcomp/pages/2026/05/15/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft.md",
+      "committedAt": "2026-05-16T12:02:45.916+05:30",
+      "title": "Avada Builder WordPress plugin flaws allow site credential theft"
     }
   ]
 }

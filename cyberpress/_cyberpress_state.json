@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T23:46:22.099+05:30",
-  "lastLink": "https://cyberpress.org/79-chrome-vulnerabilities-patched/",
-  "lastId": "p5p42h0000",
-  "lastFilePath": "cyberpress/pages/2026/05/15/79-chrome-vulnerabilities-patched-including-14-critical-flaws-update-now_p5p42h0000.md",
+  "updatedAt": "2026-05-16T23:45:52.158+05:30",
+  "lastLink": "https://cyberpress.org/weaponized-jpeg-images-exploitation-of-php-memory-flaws/",
+  "lastId": "1p7wex5000",
+  "lastFilePath": "cyberpress/pages/2026/05/16/weaponized-jpeg-images-could-enable-exploitation-of-php-memory-flaws_1p7wex5000.md",
   "items": [
     {
-      "id": "p5p42h0000",
-      "link": "https://cyberpress.org/79-chrome-vulnerabilities-patched/",
-      "filePath": "cyberpress/pages/2026/05/15/79-chrome-vulnerabilities-patched-including-14-critical-flaws-update-now_p5p42h0000.md",
-      "committedAt": "2026-05-15T23:46:22.099+05:30",
-      "title": "79 Chrome Vulnerabilities Patched, Including 14 Critical Flaws – Update Now"
+      "id": "1p7wex5000",
+      "link": "https://cyberpress.org/weaponized-jpeg-images-exploitation-of-php-memory-flaws/",
+      "filePath": "cyberpress/pages/2026/05/16/weaponized-jpeg-images-could-enable-exploitation-of-php-memory-flaws_1p7wex5000.md",
+      "committedAt": "2026-05-16T23:45:52.158+05:30",
+      "title": "Weaponized JPEG Images Could Enable Exploitation of PHP Memory Flaws"
     }
   ]
 }

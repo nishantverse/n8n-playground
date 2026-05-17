@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T22:02:22.252+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-  "lastId": "1aue5f7000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/17/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing.md",
+  "updatedAt": "2026-05-18T04:01:00.298+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+  "lastId": "ql7v250000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/17/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released.md",
   "items": [
     {
-      "id": "1aue5f7000",
-      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-      "filePath": "bleepingcomp/pages/2026/05/17/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing.md",
-      "committedAt": "2026-05-17T22:02:22.252+05:30",
-      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing"
+      "id": "ql7v250000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "filePath": "bleepingcomp/pages/2026/05/17/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released.md",
+      "committedAt": "2026-05-18T04:01:00.298+05:30",
+      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released"
     }
   ]
 }

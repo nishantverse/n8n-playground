@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T04:01:01.210+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-  "lastId": "jpyitu0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/16/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued.md",
+  "updatedAt": "2026-05-17T22:02:22.252+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+  "lastId": "1aue5f7000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/17/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing.md",
   "items": [
     {
-      "id": "jpyitu0000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-      "filePath": "bleepingcomp/pages/2026/05/16/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued.md",
-      "committedAt": "2026-05-17T04:01:01.210+05:30",
-      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued"
+      "id": "1aue5f7000",
+      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "filePath": "bleepingcomp/pages/2026/05/17/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing.md",
+      "committedAt": "2026-05-17T22:02:22.252+05:30",
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing"
     }
   ]
 }

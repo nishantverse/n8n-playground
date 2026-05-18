@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T00:01:41.312+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
-  "lastId": "1pozwc3000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/18/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign.md",
+  "updatedAt": "2026-05-19T04:01:30.929+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+  "lastId": "15sltfi000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/18/interpol-operation-ramz-seizes-53-malware-phishing-servers.md",
   "items": [
     {
-      "id": "1pozwc3000",
-      "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
-      "filePath": "bleepingcomp/pages/2026/05/18/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign.md",
-      "committedAt": "2026-05-19T00:01:41.312+05:30",
-      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign"
+      "id": "15sltfi000",
+      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "filePath": "bleepingcomp/pages/2026/05/18/interpol-operation-ramz-seizes-53-malware-phishing-servers.md",
+      "committedAt": "2026-05-19T04:01:30.929+05:30",
+      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers"
     }
   ]
 }

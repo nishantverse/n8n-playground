@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T12:01:53.284+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-  "lastId": "79il4n0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/18/hackers-earn-1298250-for-47-zero-days-at-pwn2own-berlin-2026.md",
+  "updatedAt": "2026-05-18T14:01:38.534+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+  "lastId": "1wiz8im000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/18/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw.md",
   "items": [
     {
-      "id": "79il4n0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-      "filePath": "bleepingcomp/pages/2026/05/18/hackers-earn-1298250-for-47-zero-days-at-pwn2own-berlin-2026.md",
-      "committedAt": "2026-05-18T12:01:53.284+05:30",
-      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026"
+      "id": "1wiz8im000",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "filePath": "bleepingcomp/pages/2026/05/18/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw.md",
+      "committedAt": "2026-05-18T14:01:38.534+05:30",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw"
     }
   ]
 }

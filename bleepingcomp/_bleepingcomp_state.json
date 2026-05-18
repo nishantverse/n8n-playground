@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T16:01:51.209+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
-  "lastId": "11676g9000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/18/microsoft-confirms-windows-11-security-update-install-issues.md",
+  "updatedAt": "2026-05-19T00:01:41.312+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+  "lastId": "1pozwc3000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/18/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign.md",
   "items": [
     {
-      "id": "11676g9000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
-      "filePath": "bleepingcomp/pages/2026/05/18/microsoft-confirms-windows-11-security-update-install-issues.md",
-      "committedAt": "2026-05-18T16:01:51.209+05:30",
-      "title": "Microsoft confirms Windows 11 security update install issues"
+      "id": "1pozwc3000",
+      "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "filePath": "bleepingcomp/pages/2026/05/18/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign.md",
+      "committedAt": "2026-05-19T00:01:41.312+05:30",
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T14:01:38.534+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-  "lastId": "1wiz8im000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/18/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw.md",
+  "updatedAt": "2026-05-18T16:01:51.209+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+  "lastId": "11676g9000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/18/microsoft-confirms-windows-11-security-update-install-issues.md",
   "items": [
     {
-      "id": "1wiz8im000",
-      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-      "filePath": "bleepingcomp/pages/2026/05/18/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw.md",
-      "committedAt": "2026-05-18T14:01:38.534+05:30",
-      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw"
+      "id": "11676g9000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "filePath": "bleepingcomp/pages/2026/05/18/microsoft-confirms-windows-11-security-update-install-issues.md",
+      "committedAt": "2026-05-18T16:01:51.209+05:30",
+      "title": "Microsoft confirms Windows 11 security update install issues"
     }
   ]
 }

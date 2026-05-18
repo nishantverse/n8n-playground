@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T04:01:00.298+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-  "lastId": "ql7v250000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/17/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released.md",
+  "updatedAt": "2026-05-18T12:01:53.284+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+  "lastId": "79il4n0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/18/hackers-earn-1298250-for-47-zero-days-at-pwn2own-berlin-2026.md",
   "items": [
     {
-      "id": "ql7v250000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "filePath": "bleepingcomp/pages/2026/05/17/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released.md",
-      "committedAt": "2026-05-18T04:01:00.298+05:30",
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released"
+      "id": "79il4n0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "filePath": "bleepingcomp/pages/2026/05/18/hackers-earn-1298250-for-47-zero-days-at-pwn2own-berlin-2026.md",
+      "committedAt": "2026-05-18T12:01:53.284+05:30",
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026"
     }
   ]
 }

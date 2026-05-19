@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T20:00:51.404+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-  "lastId": "1qamjgz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/new-shai-hulud-malware-wave-compromises-600-npm-packages.md",
+  "updatedAt": "2026-05-19T22:00:58.672+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
+  "lastId": "au92f20000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang.md",
   "items": [
     {
-      "id": "1qamjgz000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "filePath": "bleepingcomp/pages/2026/05/19/new-shai-hulud-malware-wave-compromises-600-npm-packages.md",
-      "committedAt": "2026-05-19T20:00:51.404+05:30",
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages"
+      "id": "au92f20000",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
+      "filePath": "bleepingcomp/pages/2026/05/19/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang.md",
+      "committedAt": "2026-05-19T22:00:58.672+05:30",
+      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang"
     }
   ]
 }

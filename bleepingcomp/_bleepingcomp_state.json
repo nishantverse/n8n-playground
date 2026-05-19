@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T22:00:58.672+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-  "lastId": "au92f20000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang.md",
+  "updatedAt": "2026-05-20T00:00:57.043+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+  "lastId": "epblrd0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation.md",
   "items": [
     {
-      "id": "au92f20000",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-      "filePath": "bleepingcomp/pages/2026/05/19/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang.md",
-      "committedAt": "2026-05-19T22:00:58.672+05:30",
-      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang"
+      "id": "epblrd0000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+      "filePath": "bleepingcomp/pages/2026/05/19/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation.md",
+      "committedAt": "2026-05-20T00:00:57.043+05:30",
+      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T02:01:22.181+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-  "lastId": "lsfypy0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/microsoft-blames-macos-update-for-undismissible-teams-location-prompts.md",
+  "updatedAt": "2026-05-20T04:01:09.188+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+  "lastId": "zgxn1v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware.md",
   "items": [
     {
-      "id": "lsfypy0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-      "filePath": "bleepingcomp/pages/2026/05/19/microsoft-blames-macos-update-for-undismissible-teams-location-prompts.md",
-      "committedAt": "2026-05-20T02:01:22.181+05:30",
-      "title": "Microsoft blames macOS update for undismissible Teams location prompts"
+      "id": "zgxn1v0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/19/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware.md",
+      "committedAt": "2026-05-20T04:01:09.188+05:30",
+      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware"
     }
   ]
 }

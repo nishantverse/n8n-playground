@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T23:45:52.158+05:30",
-  "lastLink": "https://cyberpress.org/weaponized-jpeg-images-exploitation-of-php-memory-flaws/",
-  "lastId": "1p7wex5000",
-  "lastFilePath": "cyberpress/pages/2026/05/16/weaponized-jpeg-images-could-enable-exploitation-of-php-memory-flaws_1p7wex5000.md",
+  "updatedAt": "2026-05-19T18:45:20.140+05:30",
+  "lastLink": "https://cyberpress.org/poc-20-year-old-postgresql/",
+  "lastId": "1yhptrb000",
+  "lastFilePath": "cyberpress/pages/2026/05/19/poc-released-for-20-year-old-postgresql-rce-flaw_1yhptrb000.md",
   "items": [
     {
-      "id": "1p7wex5000",
-      "link": "https://cyberpress.org/weaponized-jpeg-images-exploitation-of-php-memory-flaws/",
-      "filePath": "cyberpress/pages/2026/05/16/weaponized-jpeg-images-could-enable-exploitation-of-php-memory-flaws_1p7wex5000.md",
-      "committedAt": "2026-05-16T23:45:52.158+05:30",
-      "title": "Weaponized JPEG Images Could Enable Exploitation of PHP Memory Flaws"
+      "id": "1yhptrb000",
+      "link": "https://cyberpress.org/poc-20-year-old-postgresql/",
+      "filePath": "cyberpress/pages/2026/05/19/poc-released-for-20-year-old-postgresql-rce-flaw_1yhptrb000.md",
+      "committedAt": "2026-05-19T18:45:20.140+05:30",
+      "title": "PoC Released for 20-Year Old PostgreSQL RCE Flaw"
     }
   ]
 }

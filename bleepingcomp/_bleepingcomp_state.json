@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T18:01:02.783+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-  "lastId": "jtwhf50000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/microsoft-confirms-patching-issues-in-restricted-windows-networks.md",
+  "updatedAt": "2026-05-19T20:00:51.404+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+  "lastId": "1qamjgz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/new-shai-hulud-malware-wave-compromises-600-npm-packages.md",
   "items": [
     {
-      "id": "jtwhf50000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "filePath": "bleepingcomp/pages/2026/05/19/microsoft-confirms-patching-issues-in-restricted-windows-networks.md",
-      "committedAt": "2026-05-19T18:01:02.783+05:30",
-      "title": "Microsoft confirms patching issues in restricted Windows networks"
+      "id": "1qamjgz000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+      "filePath": "bleepingcomp/pages/2026/05/19/new-shai-hulud-malware-wave-compromises-600-npm-packages.md",
+      "committedAt": "2026-05-19T20:00:51.404+05:30",
+      "title": "New Shai-Hulud malware wave compromises 600 npm packages"
     }
   ]
 }

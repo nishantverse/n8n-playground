@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T06:01:54.447+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-  "lastId": "apalv00000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/18/shub-macos-infostealer-variant-spoofs-apple-security-updates.md",
+  "updatedAt": "2026-05-19T18:01:02.783+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+  "lastId": "jtwhf50000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/microsoft-confirms-patching-issues-in-restricted-windows-networks.md",
   "items": [
     {
-      "id": "apalv00000",
-      "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-      "filePath": "bleepingcomp/pages/2026/05/18/shub-macos-infostealer-variant-spoofs-apple-security-updates.md",
-      "committedAt": "2026-05-19T06:01:54.447+05:30",
-      "title": "SHub macOS infostealer variant spoofs Apple security updates"
+      "id": "jtwhf50000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+      "filePath": "bleepingcomp/pages/2026/05/19/microsoft-confirms-patching-issues-in-restricted-windows-networks.md",
+      "committedAt": "2026-05-19T18:01:02.783+05:30",
+      "title": "Microsoft confirms patching issues in restricted Windows networks"
     }
   ]
 }

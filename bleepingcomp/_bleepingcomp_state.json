@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T00:00:57.043+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-  "lastId": "epblrd0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation.md",
+  "updatedAt": "2026-05-20T02:01:22.181+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
+  "lastId": "lsfypy0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/microsoft-blames-macos-update-for-undismissible-teams-location-prompts.md",
   "items": [
     {
-      "id": "epblrd0000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-      "filePath": "bleepingcomp/pages/2026/05/19/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation.md",
-      "committedAt": "2026-05-20T00:00:57.043+05:30",
-      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation"
+      "id": "lsfypy0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
+      "filePath": "bleepingcomp/pages/2026/05/19/microsoft-blames-macos-update-for-undismissible-teams-location-prompts.md",
+      "committedAt": "2026-05-20T02:01:22.181+05:30",
+      "title": "Microsoft blames macOS update for undismissible Teams location prompts"
     }
   ]
 }

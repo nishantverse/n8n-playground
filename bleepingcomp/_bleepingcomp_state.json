@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T20:00:45.261+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-  "lastId": "1oaoln7000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/drupal-critical-update-to-fix-bug-with-high-exploitation-risk.md",
+  "updatedAt": "2026-05-20T22:01:01.580+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+  "lastId": "1jrckwj000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack.md",
   "items": [
     {
-      "id": "1oaoln7000",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "filePath": "bleepingcomp/pages/2026/05/20/drupal-critical-update-to-fix-bug-with-high-exploitation-risk.md",
-      "committedAt": "2026-05-20T20:00:45.261+05:30",
-      "title": "Drupal critical update to fix bug with high exploitation risk"
+      "id": "1jrckwj000",
+      "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+      "filePath": "bleepingcomp/pages/2026/05/20/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack.md",
+      "committedAt": "2026-05-20T22:01:01.580+05:30",
+      "title": "Grafana breach caused by missed token rotation after TanStack attack"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T04:01:09.188+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-  "lastId": "zgxn1v0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware.md",
+  "updatedAt": "2026-05-20T06:01:49.177+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+  "lastId": "1rulzoz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking.md",
   "items": [
     {
-      "id": "zgxn1v0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/19/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware.md",
-      "committedAt": "2026-05-20T04:01:09.188+05:30",
-      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware"
+      "id": "1rulzoz000",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+      "filePath": "bleepingcomp/pages/2026/05/19/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking.md",
+      "committedAt": "2026-05-20T06:01:49.177+05:30",
+      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking"
     }
   ]
 }

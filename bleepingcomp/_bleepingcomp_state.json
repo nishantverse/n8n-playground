@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T00:01:50.512+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
-  "lastId": "w5xu3y0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/identity-alone-isnt-enough-why-device-security-has-to-share-the-load.md",
+  "updatedAt": "2026-05-21T04:00:51.277+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+  "lastId": "b9bt4u0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching.md",
   "items": [
     {
-      "id": "w5xu3y0000",
-      "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
-      "filePath": "bleepingcomp/pages/2026/05/20/identity-alone-isnt-enough-why-device-security-has-to-share-the-load.md",
-      "committedAt": "2026-05-21T00:01:50.512+05:30",
-      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load"
+      "id": "b9bt4u0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "filePath": "bleepingcomp/pages/2026/05/20/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching.md",
+      "committedAt": "2026-05-21T04:00:51.277+05:30",
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T14:01:13.557+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-  "lastId": "1eftg9e000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/github-confirms-breach-of-3800-repos-via-malicious-vscode-extension.md",
+  "updatedAt": "2026-05-20T16:01:18.748+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+  "lastId": "1cwp88s000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/microsoft-shares-mitigation-for-yellowkey-windows-zero-day.md",
   "items": [
     {
-      "id": "1eftg9e000",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "filePath": "bleepingcomp/pages/2026/05/20/github-confirms-breach-of-3800-repos-via-malicious-vscode-extension.md",
-      "committedAt": "2026-05-20T14:01:13.557+05:30",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension"
+      "id": "1cwp88s000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "filePath": "bleepingcomp/pages/2026/05/20/microsoft-shares-mitigation-for-yellowkey-windows-zero-day.md",
+      "committedAt": "2026-05-20T16:01:18.748+05:30",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day"
     }
   ]
 }

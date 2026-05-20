@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T18:01:08.786+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-  "lastId": "1vtntj7000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw.md",
+  "updatedAt": "2026-05-20T20:00:45.261+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+  "lastId": "1oaoln7000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/drupal-critical-update-to-fix-bug-with-high-exploitation-risk.md",
   "items": [
     {
-      "id": "1vtntj7000",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "filePath": "bleepingcomp/pages/2026/05/20/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw.md",
-      "committedAt": "2026-05-20T18:01:08.786+05:30",
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw"
+      "id": "1oaoln7000",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+      "filePath": "bleepingcomp/pages/2026/05/20/drupal-critical-update-to-fix-bug-with-high-exploitation-risk.md",
+      "committedAt": "2026-05-20T20:00:45.261+05:30",
+      "title": "Drupal critical update to fix bug with high exploitation risk"
     }
   ]
 }

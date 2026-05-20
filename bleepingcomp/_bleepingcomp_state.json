@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T06:01:49.177+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-  "lastId": "1rulzoz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking.md",
+  "updatedAt": "2026-05-20T08:01:43.477+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
+  "lastId": "130reoi000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/19/discord-rolls-out-end-to-end-encryption-on-voice-video-calls.md",
   "items": [
     {
-      "id": "1rulzoz000",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "filePath": "bleepingcomp/pages/2026/05/19/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking.md",
-      "committedAt": "2026-05-20T06:01:49.177+05:30",
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking"
+      "id": "130reoi000",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
+      "filePath": "bleepingcomp/pages/2026/05/19/discord-rolls-out-end-to-end-encryption-on-voice-video-calls.md",
+      "committedAt": "2026-05-20T08:01:43.477+05:30",
+      "title": "Discord rolls out end-to-end encryption on voice, video calls"
     }
   ]
 }

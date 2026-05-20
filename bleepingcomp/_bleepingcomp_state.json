@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T10:01:54.579+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-  "lastId": "h5bqhs0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/19/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025.md",
+  "updatedAt": "2026-05-20T12:01:15.201+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+  "lastId": "1l10nxv000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/github-investigates-internal-repositories-breach-claimed-by-teampcp.md",
   "items": [
     {
-      "id": "h5bqhs0000",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "filePath": "bleepingcomp/pages/2026/05/19/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025.md",
-      "committedAt": "2026-05-20T10:01:54.579+05:30",
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025"
+      "id": "1l10nxv000",
+      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "filePath": "bleepingcomp/pages/2026/05/20/github-investigates-internal-repositories-breach-claimed-by-teampcp.md",
+      "committedAt": "2026-05-20T12:01:15.201+05:30",
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP"
     }
   ]
 }

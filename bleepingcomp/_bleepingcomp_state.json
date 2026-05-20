@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T16:01:18.748+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-  "lastId": "1cwp88s000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/microsoft-shares-mitigation-for-yellowkey-windows-zero-day.md",
+  "updatedAt": "2026-05-20T18:01:08.786+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+  "lastId": "1vtntj7000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw.md",
   "items": [
     {
-      "id": "1cwp88s000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-      "filePath": "bleepingcomp/pages/2026/05/20/microsoft-shares-mitigation-for-yellowkey-windows-zero-day.md",
-      "committedAt": "2026-05-20T16:01:18.748+05:30",
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day"
+      "id": "1vtntj7000",
+      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "filePath": "bleepingcomp/pages/2026/05/20/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw.md",
+      "committedAt": "2026-05-20T18:01:08.786+05:30",
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw"
     }
   ]
 }

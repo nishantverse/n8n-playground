@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T12:01:15.201+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-  "lastId": "1l10nxv000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/github-investigates-internal-repositories-breach-claimed-by-teampcp.md",
+  "updatedAt": "2026-05-20T14:01:13.557+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+  "lastId": "1eftg9e000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/20/github-confirms-breach-of-3800-repos-via-malicious-vscode-extension.md",
   "items": [
     {
-      "id": "1l10nxv000",
-      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "filePath": "bleepingcomp/pages/2026/05/20/github-investigates-internal-repositories-breach-claimed-by-teampcp.md",
-      "committedAt": "2026-05-20T12:01:15.201+05:30",
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP"
+      "id": "1eftg9e000",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "filePath": "bleepingcomp/pages/2026/05/20/github-confirms-breach-of-3800-repos-via-malicious-vscode-extension.md",
+      "committedAt": "2026-05-20T14:01:13.557+05:30",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension"
     }
   ]
 }

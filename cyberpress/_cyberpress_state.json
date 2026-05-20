@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T18:45:20.140+05:30",
-  "lastLink": "https://cyberpress.org/poc-20-year-old-postgresql/",
-  "lastId": "1yhptrb000",
-  "lastFilePath": "cyberpress/pages/2026/05/19/poc-released-for-20-year-old-postgresql-rce-flaw_1yhptrb000.md",
+  "updatedAt": "2026-05-20T17:45:15.023+05:30",
+  "lastLink": "https://cyberpress.org/pardus-linux-vulnerability/",
+  "lastId": "5y1gm00000",
+  "lastFilePath": "cyberpress/pages/2026/05/20/pardus-linux-vulnerability-allows-silent-local-root-privilege-escalation_5y1gm00000.md",
   "items": [
     {
-      "id": "1yhptrb000",
-      "link": "https://cyberpress.org/poc-20-year-old-postgresql/",
-      "filePath": "cyberpress/pages/2026/05/19/poc-released-for-20-year-old-postgresql-rce-flaw_1yhptrb000.md",
-      "committedAt": "2026-05-19T18:45:20.140+05:30",
-      "title": "PoC Released for 20-Year Old PostgreSQL RCE Flaw"
+      "id": "5y1gm00000",
+      "link": "https://cyberpress.org/pardus-linux-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/20/pardus-linux-vulnerability-allows-silent-local-root-privilege-escalation_5y1gm00000.md",
+      "committedAt": "2026-05-20T17:45:15.023+05:30",
+      "title": "Pardus Linux Vulnerability Allows Silent Local Root Privilege Escalation"
     }
   ]
 }

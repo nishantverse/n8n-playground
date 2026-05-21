@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T06:01:41.476+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-  "lastId": "19oxcan000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/20/ukraine-identifies-infostealer-operator-tied-to-28000-stolen-accounts.md",
+  "updatedAt": "2026-05-21T14:00:50.829+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+  "lastId": "xgbb3y0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/21/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks.md",
   "items": [
     {
-      "id": "19oxcan000",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "filePath": "bleepingcomp/pages/2026/05/20/ukraine-identifies-infostealer-operator-tied-to-28000-stolen-accounts.md",
-      "committedAt": "2026-05-21T06:01:41.476+05:30",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts"
+      "id": "xgbb3y0000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/21/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks.md",
+      "committedAt": "2026-05-21T14:00:50.829+05:30",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks"
     }
   ]
 }

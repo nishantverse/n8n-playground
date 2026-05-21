@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T22:01:04.045+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
-  "lastId": "kv0jxu0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/21/chinese-hackers-target-telcos-with-new-linux-windows-malware.md",
+  "updatedAt": "2026-05-22T00:01:09.489+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
+  "lastId": "6vnv8z0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/21/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks.md",
   "items": [
     {
-      "id": "kv0jxu0000",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/21/chinese-hackers-target-telcos-with-new-linux-windows-malware.md",
-      "committedAt": "2026-05-21T22:01:04.045+05:30",
-      "title": "Chinese hackers target telcos with new Linux, Windows malware"
+      "id": "6vnv8z0000",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/21/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks.md",
+      "committedAt": "2026-05-22T00:01:09.489+05:30",
+      "title": "Police seize “First VPN” service used in ransomware, data theft attacks"
     }
   ]
 }

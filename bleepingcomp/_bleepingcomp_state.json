@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T18:02:00.993+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
-  "lastId": "1kfedva000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/21/flipper-one-project-needs-community-help-to-build-open-linux-platform.md",
+  "updatedAt": "2026-05-21T22:01:04.045+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+  "lastId": "kv0jxu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/21/chinese-hackers-target-telcos-with-new-linux-windows-malware.md",
   "items": [
     {
-      "id": "1kfedva000",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
-      "filePath": "bleepingcomp/pages/2026/05/21/flipper-one-project-needs-community-help-to-build-open-linux-platform.md",
-      "committedAt": "2026-05-21T18:02:00.993+05:30",
-      "title": "Flipper One project needs community help to build open Linux platform"
+      "id": "kv0jxu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/21/chinese-hackers-target-telcos-with-new-linux-windows-malware.md",
+      "committedAt": "2026-05-21T22:01:04.045+05:30",
+      "title": "Chinese hackers target telcos with new Linux, Windows malware"
     }
   ]
 }

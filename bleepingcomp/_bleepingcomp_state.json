@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T00:01:09.489+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-  "lastId": "6vnv8z0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/21/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks.md",
+  "updatedAt": "2026-05-22T02:01:44.825+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+  "lastId": "gcrb4j0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/21/google-accidentally-exposed-details-of-unfixed-chromium-flaw.md",
   "items": [
     {
-      "id": "6vnv8z0000",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/21/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks.md",
-      "committedAt": "2026-05-22T00:01:09.489+05:30",
-      "title": "Police seize “First VPN” service used in ransomware, data theft attacks"
+      "id": "gcrb4j0000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "filePath": "bleepingcomp/pages/2026/05/21/google-accidentally-exposed-details-of-unfixed-chromium-flaw.md",
+      "committedAt": "2026-05-22T02:01:44.825+05:30",
+      "title": "Google accidentally exposed details of unfixed Chromium flaw"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T17:45:15.023+05:30",
-  "lastLink": "https://cyberpress.org/pardus-linux-vulnerability/",
-  "lastId": "5y1gm00000",
-  "lastFilePath": "cyberpress/pages/2026/05/20/pardus-linux-vulnerability-allows-silent-local-root-privilege-escalation_5y1gm00000.md",
+  "updatedAt": "2026-05-21T11:45:16.636+05:30",
+  "lastLink": "https://cyberpress.org/exiftool-flaw-compromise-mac/",
+  "lastId": "5ljf3y0000",
+  "lastFilePath": "cyberpress/pages/2026/05/20/critical-exiftool-flaw-allow-attackers-to-compromise-your-mac-via-malicious-imag_5ljf3y0000.md",
   "items": [
     {
-      "id": "5y1gm00000",
-      "link": "https://cyberpress.org/pardus-linux-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/20/pardus-linux-vulnerability-allows-silent-local-root-privilege-escalation_5y1gm00000.md",
-      "committedAt": "2026-05-20T17:45:15.023+05:30",
-      "title": "Pardus Linux Vulnerability Allows Silent Local Root Privilege Escalation"
+      "id": "5ljf3y0000",
+      "link": "https://cyberpress.org/exiftool-flaw-compromise-mac/",
+      "filePath": "cyberpress/pages/2026/05/20/critical-exiftool-flaw-allow-attackers-to-compromise-your-mac-via-malicious-imag_5ljf3y0000.md",
+      "committedAt": "2026-05-21T11:45:16.636+05:30",
+      "title": "Critical ExifTool Flaw Allow Attackers to Compromise Your Mac Via Malicious Image"
     }
   ]
 }

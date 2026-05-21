@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T02:01:44.825+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-  "lastId": "gcrb4j0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/21/google-accidentally-exposed-details-of-unfixed-chromium-flaw.md",
+  "updatedAt": "2026-05-22T04:01:47.512+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+  "lastId": "19scp6c000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/21/apple-blocked-over-11-billion-in-app-store-fraud-in-6-years.md",
   "items": [
     {
-      "id": "gcrb4j0000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "filePath": "bleepingcomp/pages/2026/05/21/google-accidentally-exposed-details-of-unfixed-chromium-flaw.md",
-      "committedAt": "2026-05-22T02:01:44.825+05:30",
-      "title": "Google accidentally exposed details of unfixed Chromium flaw"
+      "id": "19scp6c000",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+      "filePath": "bleepingcomp/pages/2026/05/21/apple-blocked-over-11-billion-in-app-store-fraud-in-6-years.md",
+      "committedAt": "2026-05-22T04:01:47.512+05:30",
+      "title": "Apple blocked over $11 billion in App Store fraud in 6 years"
     }
   ]
 }

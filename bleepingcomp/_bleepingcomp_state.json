@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T16:01:01.429+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-  "lastId": "33ldg30000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/22/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin.md",
+  "updatedAt": "2026-05-22T18:00:44.311+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+  "lastId": "1276hkj000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/22/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities.md",
   "items": [
     {
-      "id": "33ldg30000",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-      "filePath": "bleepingcomp/pages/2026/05/22/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin.md",
-      "committedAt": "2026-05-22T16:01:01.429+05:30",
-      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin"
+      "id": "1276hkj000",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+      "filePath": "bleepingcomp/pages/2026/05/22/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities.md",
+      "committedAt": "2026-05-22T18:00:44.311+05:30",
+      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities"
     }
   ]
 }

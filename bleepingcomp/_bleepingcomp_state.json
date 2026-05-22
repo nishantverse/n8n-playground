@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T20:00:51.507+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-  "lastId": "12hhipz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/22/trend-micro-warns-of-apex-one-zero-day-exploited-in-the-wild.md",
+  "updatedAt": "2026-05-22T22:00:50.239+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
+  "lastId": "1tm7qas000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/22/drupal-critical-sql-injection-flaw-now-targeted-in-attacks.md",
   "items": [
     {
-      "id": "12hhipz000",
-      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/22/trend-micro-warns-of-apex-one-zero-day-exploited-in-the-wild.md",
-      "committedAt": "2026-05-22T20:00:51.507+05:30",
-      "title": "Trend Micro warns of Apex One zero-day exploited in the wild"
+      "id": "1tm7qas000",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/22/drupal-critical-sql-injection-flaw-now-targeted-in-attacks.md",
+      "committedAt": "2026-05-22T22:00:50.239+05:30",
+      "title": "Drupal: Critical SQL injection flaw now targeted in attacks"
     }
   ]
 }

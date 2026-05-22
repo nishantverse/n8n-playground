@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T18:00:44.311+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-  "lastId": "1276hkj000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/22/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities.md",
+  "updatedAt": "2026-05-22T20:00:51.507+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
+  "lastId": "12hhipz000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/22/trend-micro-warns-of-apex-one-zero-day-exploited-in-the-wild.md",
   "items": [
     {
-      "id": "1276hkj000",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "filePath": "bleepingcomp/pages/2026/05/22/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities.md",
-      "committedAt": "2026-05-22T18:00:44.311+05:30",
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities"
+      "id": "12hhipz000",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/22/trend-micro-warns-of-apex-one-zero-day-exploited-in-the-wild.md",
+      "committedAt": "2026-05-22T20:00:51.507+05:30",
+      "title": "Trend Micro warns of Apex One zero-day exploited in the wild"
     }
   ]
 }

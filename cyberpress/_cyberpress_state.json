@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T11:45:16.636+05:30",
-  "lastLink": "https://cyberpress.org/exiftool-flaw-compromise-mac/",
-  "lastId": "5ljf3y0000",
-  "lastFilePath": "cyberpress/pages/2026/05/20/critical-exiftool-flaw-allow-attackers-to-compromise-your-mac-via-malicious-imag_5ljf3y0000.md",
+  "updatedAt": "2026-05-22T10:45:14.930+05:30",
+  "lastLink": "https://cyberpress.org/apache-ofbiz-flaw-exploited/",
+  "lastId": "icj9d00000",
+  "lastFilePath": "cyberpress/pages/2026/05/21/apache-ofbiz-flaw-exploited-for-auth-bypass-and-rce-attacks_icj9d00000.md",
   "items": [
     {
-      "id": "5ljf3y0000",
-      "link": "https://cyberpress.org/exiftool-flaw-compromise-mac/",
-      "filePath": "cyberpress/pages/2026/05/20/critical-exiftool-flaw-allow-attackers-to-compromise-your-mac-via-malicious-imag_5ljf3y0000.md",
-      "committedAt": "2026-05-21T11:45:16.636+05:30",
-      "title": "Critical ExifTool Flaw Allow Attackers to Compromise Your Mac Via Malicious Image"
+      "id": "icj9d00000",
+      "link": "https://cyberpress.org/apache-ofbiz-flaw-exploited/",
+      "filePath": "cyberpress/pages/2026/05/21/apache-ofbiz-flaw-exploited-for-auth-bypass-and-rce-attacks_icj9d00000.md",
+      "committedAt": "2026-05-22T10:45:14.930+05:30",
+      "title": "Apache OFBiz Flaw Exploited for Auth Bypass and RCE Attacks"
     }
   ]
 }

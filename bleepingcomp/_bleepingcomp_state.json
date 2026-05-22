@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T08:02:03.568+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-  "lastId": "nab3iz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/21/max-severity-cisco-secure-workload-flaw-gives-site-admin-privileges.md",
+  "updatedAt": "2026-05-22T16:01:01.429+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+  "lastId": "33ldg30000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/22/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin.md",
   "items": [
     {
-      "id": "nab3iz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-      "filePath": "bleepingcomp/pages/2026/05/21/max-severity-cisco-secure-workload-flaw-gives-site-admin-privileges.md",
-      "committedAt": "2026-05-22T08:02:03.568+05:30",
-      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges"
+      "id": "33ldg30000",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "filePath": "bleepingcomp/pages/2026/05/22/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin.md",
+      "committedAt": "2026-05-22T16:01:01.429+05:30",
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin"
     }
   ]
 }

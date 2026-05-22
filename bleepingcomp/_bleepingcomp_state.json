@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T22:00:50.239+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-  "lastId": "1tm7qas000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/22/drupal-critical-sql-injection-flaw-now-targeted-in-attacks.md",
+  "updatedAt": "2026-05-23T00:01:30.832+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+  "lastId": "z4yita0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/22/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks.md",
   "items": [
     {
-      "id": "1tm7qas000",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/22/drupal-critical-sql-injection-flaw-now-targeted-in-attacks.md",
-      "committedAt": "2026-05-22T22:00:50.239+05:30",
-      "title": "Drupal: Critical SQL injection flaw now targeted in attacks"
+      "id": "z4yita0000",
+      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "filePath": "bleepingcomp/pages/2026/05/22/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks.md",
+      "committedAt": "2026-05-23T00:01:30.832+05:30",
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks"
     }
   ]
 }

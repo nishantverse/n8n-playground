@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T10:45:14.930+05:30",
-  "lastLink": "https://cyberpress.org/apache-ofbiz-flaw-exploited/",
-  "lastId": "icj9d00000",
-  "lastFilePath": "cyberpress/pages/2026/05/21/apache-ofbiz-flaw-exploited-for-auth-bypass-and-rce-attacks_icj9d00000.md",
+  "updatedAt": "2026-05-23T09:45:14.148+05:30",
+  "lastLink": "https://cyberpress.org/langflow-known-exploited-vulnerabilities/",
+  "lastId": "1oo8spb000",
+  "lastFilePath": "cyberpress/pages/2026/05/22/cisa-adds-langflow-vulnerability-to-known-exploited-vulnerabilities-catalog_1oo8spb000.md",
   "items": [
     {
-      "id": "icj9d00000",
-      "link": "https://cyberpress.org/apache-ofbiz-flaw-exploited/",
-      "filePath": "cyberpress/pages/2026/05/21/apache-ofbiz-flaw-exploited-for-auth-bypass-and-rce-attacks_icj9d00000.md",
-      "committedAt": "2026-05-22T10:45:14.930+05:30",
-      "title": "Apache OFBiz Flaw Exploited for Auth Bypass and RCE Attacks"
+      "id": "1oo8spb000",
+      "link": "https://cyberpress.org/langflow-known-exploited-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/05/22/cisa-adds-langflow-vulnerability-to-known-exploited-vulnerabilities-catalog_1oo8spb000.md",
+      "committedAt": "2026-05-23T09:45:14.148+05:30",
+      "title": "CISA adds Langflow Vulnerability to Known Exploited Vulnerabilities Catalog"
     }
   ]
 }

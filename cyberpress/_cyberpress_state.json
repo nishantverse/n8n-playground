@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T09:45:14.148+05:30",
-  "lastLink": "https://cyberpress.org/langflow-known-exploited-vulnerabilities/",
-  "lastId": "1oo8spb000",
-  "lastFilePath": "cyberpress/pages/2026/05/22/cisa-adds-langflow-vulnerability-to-known-exploited-vulnerabilities-catalog_1oo8spb000.md",
+  "updatedAt": "2026-05-24T08:45:15.356+05:30",
+  "lastLink": "https://cyberpress.org/ubiquiti-unifi-os-privilege-escalation/",
+  "lastId": "tsntqc0000",
+  "lastFilePath": "cyberpress/pages/2026/05/23/ubiquiti-issues-patches-for-critical-unifi-os-privilege-escalation-vulnerabiliti_tsntqc0000.md",
   "items": [
     {
-      "id": "1oo8spb000",
-      "link": "https://cyberpress.org/langflow-known-exploited-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/05/22/cisa-adds-langflow-vulnerability-to-known-exploited-vulnerabilities-catalog_1oo8spb000.md",
-      "committedAt": "2026-05-23T09:45:14.148+05:30",
-      "title": "CISA adds Langflow Vulnerability to Known Exploited Vulnerabilities Catalog"
+      "id": "tsntqc0000",
+      "link": "https://cyberpress.org/ubiquiti-unifi-os-privilege-escalation/",
+      "filePath": "cyberpress/pages/2026/05/23/ubiquiti-issues-patches-for-critical-unifi-os-privilege-escalation-vulnerabiliti_tsntqc0000.md",
+      "committedAt": "2026-05-24T08:45:15.356+05:30",
+      "title": "Ubiquiti Issues Patches for Critical UniFi OS Privilege Escalation Vulnerabilities"
     }
   ]
 }

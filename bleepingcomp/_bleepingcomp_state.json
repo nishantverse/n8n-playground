@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T04:01:06.611+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-  "lastId": "16vb5bn000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/23/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware.md",
+  "updatedAt": "2026-05-24T20:00:44.462+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+  "lastId": "rt12sz0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/24/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign.md",
   "items": [
     {
-      "id": "16vb5bn000",
-      "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/23/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware.md",
-      "committedAt": "2026-05-24T04:01:06.611+05:30",
-      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware"
+      "id": "rt12sz0000",
+      "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "filePath": "bleepingcomp/pages/2026/05/24/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign.md",
+      "committedAt": "2026-05-24T20:00:44.462+05:30",
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign"
     }
   ]
 }

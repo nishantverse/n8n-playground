@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T20:00:44.462+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-  "lastId": "rt12sz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/24/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign.md",
+  "updatedAt": "2026-05-25T20:01:09.211+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+  "lastId": "15vfpv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/25/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts.md",
   "items": [
     {
-      "id": "rt12sz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-      "filePath": "bleepingcomp/pages/2026/05/24/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign.md",
-      "committedAt": "2026-05-24T20:00:44.462+05:30",
-      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign"
+      "id": "15vfpv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "filePath": "bleepingcomp/pages/2026/05/25/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts.md",
+      "committedAt": "2026-05-25T20:01:09.211+05:30",
+      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts"
     }
   ]
 }

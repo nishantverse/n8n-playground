@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T20:01:09.211+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-  "lastId": "15vfpv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/25/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts.md",
+  "updatedAt": "2026-05-26T00:01:29.489+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+  "lastId": "9muv1r0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/25/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code.md",
   "items": [
     {
-      "id": "15vfpv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-      "filePath": "bleepingcomp/pages/2026/05/25/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts.md",
-      "committedAt": "2026-05-25T20:01:09.211+05:30",
-      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts"
+      "id": "9muv1r0000",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+      "filePath": "bleepingcomp/pages/2026/05/25/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code.md",
+      "committedAt": "2026-05-26T00:01:29.489+05:30",
+      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T00:01:43.368+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-  "lastId": "6v39d00000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/webinar-too-many-tools-are-slowing-network-incident-response.md",
+  "updatedAt": "2026-05-27T02:00:50.146+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+  "lastId": "1cmt47n000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells.md",
   "items": [
     {
-      "id": "6v39d00000",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-      "filePath": "bleepingcomp/pages/2026/05/26/webinar-too-many-tools-are-slowing-network-incident-response.md",
-      "committedAt": "2026-05-27T00:01:43.368+05:30",
-      "title": "Webinar: Too many tools are slowing network incident response"
+      "id": "1cmt47n000",
+      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+      "filePath": "bleepingcomp/pages/2026/05/26/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells.md",
+      "committedAt": "2026-05-27T02:00:50.146+05:30",
+      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells"
     }
   ]
 }

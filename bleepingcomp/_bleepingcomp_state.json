@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T20:01:34.419+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-  "lastId": "pl1fcj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance.md",
+  "updatedAt": "2026-05-26T22:01:45.943+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+  "lastId": "1plmd75000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/microsoft-defender-can-now-automatically-isolate-hacked-endpoints.md",
   "items": [
     {
-      "id": "pl1fcj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-      "filePath": "bleepingcomp/pages/2026/05/26/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance.md",
-      "committedAt": "2026-05-26T20:01:34.419+05:30",
-      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance"
+      "id": "1plmd75000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "filePath": "bleepingcomp/pages/2026/05/26/microsoft-defender-can-now-automatically-isolate-hacked-endpoints.md",
+      "committedAt": "2026-05-26T22:01:45.943+05:30",
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T00:01:29.489+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-  "lastId": "9muv1r0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/25/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code.md",
+  "updatedAt": "2026-05-26T14:00:44.412+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+  "lastId": "11wymu7000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/7-eleven-data-breach-exposes-personal-information-of-185000-people.md",
   "items": [
     {
-      "id": "9muv1r0000",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-      "filePath": "bleepingcomp/pages/2026/05/25/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code.md",
-      "committedAt": "2026-05-26T00:01:29.489+05:30",
-      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code"
+      "id": "11wymu7000",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "filePath": "bleepingcomp/pages/2026/05/26/7-eleven-data-breach-exposes-personal-information-of-185000-people.md",
+      "committedAt": "2026-05-26T14:00:44.412+05:30",
+      "title": "7-Eleven data breach exposes personal information of 185,000 people"
     }
   ]
 }

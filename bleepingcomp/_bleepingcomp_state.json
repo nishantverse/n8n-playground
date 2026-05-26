@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T14:00:44.412+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-  "lastId": "11wymu7000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/7-eleven-data-breach-exposes-personal-information-of-185000-people.md",
+  "updatedAt": "2026-05-26T16:00:44.730+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+  "lastId": "wm1wim0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability.md",
   "items": [
     {
-      "id": "11wymu7000",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "filePath": "bleepingcomp/pages/2026/05/26/7-eleven-data-breach-exposes-personal-information-of-185000-people.md",
-      "committedAt": "2026-05-26T14:00:44.412+05:30",
-      "title": "7-Eleven data breach exposes personal information of 185,000 people"
+      "id": "wm1wim0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "filePath": "bleepingcomp/pages/2026/05/26/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability.md",
+      "committedAt": "2026-05-26T16:00:44.730+05:30",
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability"
     }
   ]
 }

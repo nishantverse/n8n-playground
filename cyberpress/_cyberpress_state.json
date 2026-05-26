@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T07:45:26.722+05:30",
-  "lastLink": "https://cyberpress.org/litespeed-cpanel-plugin-zero-day-exploited/",
-  "lastId": "rbecph0000",
-  "lastFilePath": "cyberpress/pages/2026/05/23/litespeed-cpanel-plugin-zero-day-exploited-for-full-server-root-access_rbecph0000.md",
+  "updatedAt": "2026-05-26T06:45:17.333+05:30",
+  "lastLink": "https://cyberpress.org/exploited-drupal-sql-injection/",
+  "lastId": "6i017x0000",
+  "lastFilePath": "cyberpress/pages/2026/05/25/cisa-warns-of-exploited-drupal-sql-injection-flaw_6i017x0000.md",
   "items": [
     {
-      "id": "rbecph0000",
-      "link": "https://cyberpress.org/litespeed-cpanel-plugin-zero-day-exploited/",
-      "filePath": "cyberpress/pages/2026/05/23/litespeed-cpanel-plugin-zero-day-exploited-for-full-server-root-access_rbecph0000.md",
-      "committedAt": "2026-05-25T07:45:26.722+05:30",
-      "title": "LiteSpeed cPanel Plugin Zero-Day Exploited for Full Server Root Access."
+      "id": "6i017x0000",
+      "link": "https://cyberpress.org/exploited-drupal-sql-injection/",
+      "filePath": "cyberpress/pages/2026/05/25/cisa-warns-of-exploited-drupal-sql-injection-flaw_6i017x0000.md",
+      "committedAt": "2026-05-26T06:45:17.333+05:30",
+      "title": "CISA Warns of Exploited Drupal SQL Injection Flaw"
     }
   ]
 }

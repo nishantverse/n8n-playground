@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T06:01:52.190+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-  "lastId": "1bnp76z000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016.md",
+  "updatedAt": "2026-05-27T16:00:51.143+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+  "lastId": "1t83fbn000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/27/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw.md",
   "items": [
     {
-      "id": "1bnp76z000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-      "filePath": "bleepingcomp/pages/2026/05/26/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016.md",
-      "committedAt": "2026-05-27T06:01:52.190+05:30",
-      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016"
+      "id": "1t83fbn000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+      "filePath": "bleepingcomp/pages/2026/05/27/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw.md",
+      "committedAt": "2026-05-27T16:00:51.143+05:30",
+      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T04:00:59.066+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-  "lastId": "1vn8ovn000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/26/charter-confirms-data-breach-after-shinyhunters-extortion-threat.md",
+  "updatedAt": "2026-05-27T06:01:52.190+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+  "lastId": "1bnp76z000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/26/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016.md",
   "items": [
     {
-      "id": "1vn8ovn000",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "filePath": "bleepingcomp/pages/2026/05/26/charter-confirms-data-breach-after-shinyhunters-extortion-threat.md",
-      "committedAt": "2026-05-27T04:00:59.066+05:30",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat"
+      "id": "1bnp76z000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "filePath": "bleepingcomp/pages/2026/05/26/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016.md",
+      "committedAt": "2026-05-27T06:01:52.190+05:30",
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T18:01:34.537+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
-  "lastId": "1tbghld000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/27/windows-11-kb5089573-update-released-with-performance-improvements.md",
+  "updatedAt": "2026-05-27T20:01:21.057+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+  "lastId": "1ewk5r5000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/27/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users.md",
   "items": [
     {
-      "id": "1tbghld000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
-      "filePath": "bleepingcomp/pages/2026/05/27/windows-11-kb5089573-update-released-with-performance-improvements.md",
-      "committedAt": "2026-05-27T18:01:34.537+05:30",
-      "title": "Windows 11 KB5089573 update released with performance improvements"
+      "id": "1ewk5r5000",
+      "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+      "filePath": "bleepingcomp/pages/2026/05/27/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users.md",
+      "committedAt": "2026-05-27T20:01:21.057+05:30",
+      "title": "Can you enforce strong Active Directory password rules without frustrating users?"
     }
   ]
 }

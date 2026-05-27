@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T22:01:26.226+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-  "lastId": "16xxwcz000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/27/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown.md",
+  "updatedAt": "2026-05-28T00:01:42.642+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
+  "lastId": "clyy600000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/27/fbi-warns-of-in-person-data-theft-attacks-from-extortion-gang.md",
   "items": [
     {
-      "id": "16xxwcz000",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "filePath": "bleepingcomp/pages/2026/05/27/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown.md",
-      "committedAt": "2026-05-27T22:01:26.226+05:30",
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown"
+      "id": "clyy600000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/27/fbi-warns-of-in-person-data-theft-attacks-from-extortion-gang.md",
+      "committedAt": "2026-05-28T00:01:42.642+05:30",
+      "title": "FBI warns of in-person data theft attacks from extortion gang"
     }
   ]
 }

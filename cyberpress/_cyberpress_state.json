@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T04:45:14.216+05:30",
-  "lastLink": "https://cyberpress.org/github-enterprise-server-3-20-3-fixes/",
-  "lastId": "wpnab10000",
-  "lastFilePath": "cyberpress/pages/2026/05/27/github-enterprise-server-3203-fixes-critical-vulnerabilities_wpnab10000.md",
+  "updatedAt": "2026-05-29T03:45:17.593+05:30",
+  "lastLink": "https://cyberpress.org/notepad-vulnerability/",
+  "lastId": "1u82xt7000",
+  "lastFilePath": "cyberpress/pages/2026/05/28/critical-notepad-vulnerability-enables-arbitrary-code-execution_1u82xt7000.md",
   "items": [
     {
-      "id": "wpnab10000",
-      "link": "https://cyberpress.org/github-enterprise-server-3-20-3-fixes/",
-      "filePath": "cyberpress/pages/2026/05/27/github-enterprise-server-3203-fixes-critical-vulnerabilities_wpnab10000.md",
-      "committedAt": "2026-05-28T04:45:14.216+05:30",
-      "title": "GitHub Enterprise Server 3.20.3 Fixes Critical Vulnerabilities"
+      "id": "1u82xt7000",
+      "link": "https://cyberpress.org/notepad-vulnerability/",
+      "filePath": "cyberpress/pages/2026/05/28/critical-notepad-vulnerability-enables-arbitrary-code-execution_1u82xt7000.md",
+      "committedAt": "2026-05-29T03:45:17.593+05:30",
+      "title": "Critical Notepad++ Vulnerability Enables Arbitrary Code Execution"
     }
   ]
 }

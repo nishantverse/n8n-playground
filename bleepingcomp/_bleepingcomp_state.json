@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T20:00:44.454+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-  "lastId": "jkd7pv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/28/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution.md",
+  "updatedAt": "2026-05-28T22:01:52.359+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+  "lastId": "z06yj70000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/28/how-siem-helps-msps-reduce-noise-and-stop-threats-faster.md",
   "items": [
     {
-      "id": "jkd7pv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "filePath": "bleepingcomp/pages/2026/05/28/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution.md",
-      "committedAt": "2026-05-28T20:00:44.454+05:30",
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution"
+      "id": "z06yj70000",
+      "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+      "filePath": "bleepingcomp/pages/2026/05/28/how-siem-helps-msps-reduce-noise-and-stop-threats-faster.md",
+      "committedAt": "2026-05-28T22:01:52.359+05:30",
+      "title": "How SIEM helps MSPs reduce noise and stop threats faster"
     }
   ]
 }

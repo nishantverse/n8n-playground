@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T18:00:54.272+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-  "lastId": "17purlf000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/28/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people.md",
+  "updatedAt": "2026-05-28T20:00:44.454+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+  "lastId": "jkd7pv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/28/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution.md",
   "items": [
     {
-      "id": "17purlf000",
-      "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-      "filePath": "bleepingcomp/pages/2026/05/28/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people.md",
-      "committedAt": "2026-05-28T18:00:54.272+05:30",
-      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people"
+      "id": "jkd7pv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "filePath": "bleepingcomp/pages/2026/05/28/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution.md",
+      "committedAt": "2026-05-28T20:00:44.454+05:30",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution"
     }
   ]
 }

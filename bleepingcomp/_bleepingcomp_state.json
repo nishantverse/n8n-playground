@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T00:00:44.569+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-  "lastId": "d48e2m0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/28/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware.md",
+  "updatedAt": "2026-05-29T02:01:42.341+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+  "lastId": "f1ldzy0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/28/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes.md",
   "items": [
     {
-      "id": "d48e2m0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-      "filePath": "bleepingcomp/pages/2026/05/28/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware.md",
-      "committedAt": "2026-05-29T00:00:44.569+05:30",
-      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware"
+      "id": "f1ldzy0000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "filePath": "bleepingcomp/pages/2026/05/28/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes.md",
+      "committedAt": "2026-05-29T02:01:42.341+05:30",
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes"
     }
   ]
 }

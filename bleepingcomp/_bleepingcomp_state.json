@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T06:01:30.692+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-  "lastId": "12dtt7a000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/29/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public.md",
+  "updatedAt": "2026-05-29T08:01:36.384+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+  "lastId": "1972dpb000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/28/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks.md",
   "items": [
     {
-      "id": "12dtt7a000",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-      "filePath": "bleepingcomp/pages/2026/05/29/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public.md",
-      "committedAt": "2026-05-29T06:01:30.692+05:30",
-      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public"
+      "id": "1972dpb000",
+      "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+      "filePath": "bleepingcomp/pages/2026/05/28/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks.md",
+      "committedAt": "2026-05-29T08:01:36.384+05:30",
+      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks"
     }
   ]
 }

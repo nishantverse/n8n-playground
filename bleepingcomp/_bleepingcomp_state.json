@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T16:01:35.938+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-  "lastId": "78wvku0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/29/us-charges-google-security-engineer-with-polymarket-insider-trading.md",
+  "updatedAt": "2026-05-29T18:01:19.198+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+  "lastId": "1mjwiur000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/29/google-chrome-adds-session-cookie-theft-protection-for-all-users.md",
   "items": [
     {
-      "id": "78wvku0000",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-      "filePath": "bleepingcomp/pages/2026/05/29/us-charges-google-security-engineer-with-polymarket-insider-trading.md",
-      "committedAt": "2026-05-29T16:01:35.938+05:30",
-      "title": "US charges Google security engineer with Polymarket insider trading"
+      "id": "1mjwiur000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "filePath": "bleepingcomp/pages/2026/05/29/google-chrome-adds-session-cookie-theft-protection-for-all-users.md",
+      "committedAt": "2026-05-29T18:01:19.198+05:30",
+      "title": "Google Chrome adds session cookie theft protection for all users"
     }
   ]
 }

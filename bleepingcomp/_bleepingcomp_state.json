@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T22:00:48.571+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-  "lastId": "1mwqy8d000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/29/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market.md",
+  "updatedAt": "2026-05-30T00:01:27.999+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+  "lastId": "1bbzdtf000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/29/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware.md",
   "items": [
     {
-      "id": "1mwqy8d000",
-      "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-      "filePath": "bleepingcomp/pages/2026/05/29/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market.md",
-      "committedAt": "2026-05-29T22:00:48.571+05:30",
-      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market"
+      "id": "1bbzdtf000",
+      "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "filePath": "bleepingcomp/pages/2026/05/29/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware.md",
+      "committedAt": "2026-05-30T00:01:27.999+05:30",
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware"
     }
   ]
 }

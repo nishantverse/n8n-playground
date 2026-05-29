@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T04:00:43.881+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-  "lastId": "10pq8gj000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/28/btmob-android-malware-service-generates-custom-phishing-payloads.md",
+  "updatedAt": "2026-05-29T06:01:30.692+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+  "lastId": "12dtt7a000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/29/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public.md",
   "items": [
     {
-      "id": "10pq8gj000",
-      "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-      "filePath": "bleepingcomp/pages/2026/05/28/btmob-android-malware-service-generates-custom-phishing-payloads.md",
-      "committedAt": "2026-05-29T04:00:43.881+05:30",
-      "title": "BTMOB Android malware service generates custom phishing payloads"
+      "id": "12dtt7a000",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+      "filePath": "bleepingcomp/pages/2026/05/29/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public.md",
+      "committedAt": "2026-05-29T06:01:30.692+05:30",
+      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T20:01:41.026+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-  "lastId": "1ekv69q000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/30/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions.md",
+  "updatedAt": "2026-05-31T00:00:48.067+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+  "lastId": "zpwsym0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/30/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "1ekv69q000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-      "filePath": "bleepingcomp/pages/2026/05/30/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions.md",
-      "committedAt": "2026-05-30T20:01:41.026+05:30",
-      "title": "New CIFSwitch Linux flaw gives root on multiple distributions"
+      "id": "zpwsym0000",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/05/30/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks.md",
+      "committedAt": "2026-05-31T00:00:48.067+05:30",
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks"
     }
   ]
 }

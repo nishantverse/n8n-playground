@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T04:01:44.006+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
-  "lastId": "1sr4sgj000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/29/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans.md",
+  "updatedAt": "2026-05-30T20:01:41.026+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+  "lastId": "1ekv69q000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/30/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions.md",
   "items": [
     {
-      "id": "1sr4sgj000",
-      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
-      "filePath": "bleepingcomp/pages/2026/05/29/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans.md",
-      "committedAt": "2026-05-30T04:01:44.006+05:30",
-      "title": "Man sent to prison for selling data of 7 millions elderly Americans"
+      "id": "1ekv69q000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "filePath": "bleepingcomp/pages/2026/05/30/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions.md",
+      "committedAt": "2026-05-30T20:01:41.026+05:30",
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions"
     }
   ]
 }

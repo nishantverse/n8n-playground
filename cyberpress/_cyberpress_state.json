@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T02:45:14.317+05:30",
-  "lastLink": "https://cyberpress.org/critical-samba-vulnerability/",
-  "lastId": "4he17h0000",
-  "lastFilePath": "cyberpress/pages/2026/05/29/critical-samba-vulnerability-enables-remote-code-execution_4he17h0000.md",
+  "updatedAt": "2026-05-31T01:45:20.787+05:30",
+  "lastLink": "https://cyberpress.org/pan-os-globalprotect-authentication-bypass/",
+  "lastId": "e3bqr30000",
+  "lastFilePath": "cyberpress/pages/2026/05/30/pan-os-globalprotect-authentication-bypass-flaw-under-active-exploitation_e3bqr30000.md",
   "items": [
     {
-      "id": "4he17h0000",
-      "link": "https://cyberpress.org/critical-samba-vulnerability/",
-      "filePath": "cyberpress/pages/2026/05/29/critical-samba-vulnerability-enables-remote-code-execution_4he17h0000.md",
-      "committedAt": "2026-05-30T02:45:14.317+05:30",
-      "title": "Critical Samba Vulnerability Enables Remote Code Execution"
+      "id": "e3bqr30000",
+      "link": "https://cyberpress.org/pan-os-globalprotect-authentication-bypass/",
+      "filePath": "cyberpress/pages/2026/05/30/pan-os-globalprotect-authentication-bypass-flaw-under-active-exploitation_e3bqr30000.md",
+      "committedAt": "2026-05-31T01:45:20.787+05:30",
+      "title": "PAN-OS GlobalProtect Authentication Bypass Flaw Under Active Exploitation"
     }
   ]
 }

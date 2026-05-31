@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T00:00:48.067+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-  "lastId": "zpwsym0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/30/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks.md",
+  "updatedAt": "2026-05-31T20:01:18.542+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+  "lastId": "sifndf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/05/31/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites.md",
   "items": [
     {
-      "id": "zpwsym0000",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/05/30/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks.md",
-      "committedAt": "2026-05-31T00:00:48.067+05:30",
-      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks"
+      "id": "sifndf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "filePath": "bleepingcomp/pages/2026/05/31/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites.md",
+      "committedAt": "2026-05-31T20:01:18.542+05:30",
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites"
     }
   ]
 }

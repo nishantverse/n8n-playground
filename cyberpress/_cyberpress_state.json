@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T01:45:20.787+05:30",
-  "lastLink": "https://cyberpress.org/pan-os-globalprotect-authentication-bypass/",
-  "lastId": "e3bqr30000",
-  "lastFilePath": "cyberpress/pages/2026/05/30/pan-os-globalprotect-authentication-bypass-flaw-under-active-exploitation_e3bqr30000.md",
+  "updatedAt": "2026-06-01T00:45:30.876+05:30",
+  "lastLink": "https://cyberpress.org/gitlab-patches-duo-ai-dos/",
+  "lastId": "jl41h20000",
+  "lastFilePath": "cyberpress/pages/2026/05/29/gitlab-patches-duo-ai-dos-and-authorization-vulnerabilities_jl41h20000.md",
   "items": [
     {
-      "id": "e3bqr30000",
-      "link": "https://cyberpress.org/pan-os-globalprotect-authentication-bypass/",
-      "filePath": "cyberpress/pages/2026/05/30/pan-os-globalprotect-authentication-bypass-flaw-under-active-exploitation_e3bqr30000.md",
-      "committedAt": "2026-05-31T01:45:20.787+05:30",
-      "title": "PAN-OS GlobalProtect Authentication Bypass Flaw Under Active Exploitation"
+      "id": "jl41h20000",
+      "link": "https://cyberpress.org/gitlab-patches-duo-ai-dos/",
+      "filePath": "cyberpress/pages/2026/05/29/gitlab-patches-duo-ai-dos-and-authorization-vulnerabilities_jl41h20000.md",
+      "committedAt": "2026-06-01T00:45:30.876+05:30",
+      "title": "GitLab Patches Duo AI, DoS, and Authorization Vulnerabilities"
     }
   ]
 }

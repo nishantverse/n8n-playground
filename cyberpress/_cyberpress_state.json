@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T00:45:30.876+05:30",
-  "lastLink": "https://cyberpress.org/gitlab-patches-duo-ai-dos/",
-  "lastId": "jl41h20000",
-  "lastFilePath": "cyberpress/pages/2026/05/29/gitlab-patches-duo-ai-dos-and-authorization-vulnerabilities_jl41h20000.md",
+  "updatedAt": "2026-06-01T23:45:15.120+05:30",
+  "lastLink": "https://cyberpress.org/critical-magento-cache-plugin-flaw/",
+  "lastId": "1uzwykd000",
+  "lastFilePath": "cyberpress/pages/2026/06/01/critical-magento-cache-plugin-flaw-enables-remote-code-execution_1uzwykd000.md",
   "items": [
     {
-      "id": "jl41h20000",
-      "link": "https://cyberpress.org/gitlab-patches-duo-ai-dos/",
-      "filePath": "cyberpress/pages/2026/05/29/gitlab-patches-duo-ai-dos-and-authorization-vulnerabilities_jl41h20000.md",
-      "committedAt": "2026-06-01T00:45:30.876+05:30",
-      "title": "GitLab Patches Duo AI, DoS, and Authorization Vulnerabilities"
+      "id": "1uzwykd000",
+      "link": "https://cyberpress.org/critical-magento-cache-plugin-flaw/",
+      "filePath": "cyberpress/pages/2026/06/01/critical-magento-cache-plugin-flaw-enables-remote-code-execution_1uzwykd000.md",
+      "committedAt": "2026-06-01T23:45:15.120+05:30",
+      "title": "Critical Magento Cache Plugin Flaw Enables Remote Code Execution"
     }
   ]
 }

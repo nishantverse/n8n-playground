@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T20:01:17.877+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-  "lastId": "n1nzux0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/race-against-time-why-faster-vulnerability-alerts-matter.md",
+  "updatedAt": "2026-06-01T22:01:25.979+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+  "lastId": "1x3049d000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-kb5089549-windows-security-update-install-issues.md",
   "items": [
     {
-      "id": "n1nzux0000",
-      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "filePath": "bleepingcomp/pages/2026/06/01/race-against-time-why-faster-vulnerability-alerts-matter.md",
-      "committedAt": "2026-06-01T20:01:17.877+05:30",
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter"
+      "id": "1x3049d000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-kb5089549-windows-security-update-install-issues.md",
+      "committedAt": "2026-06-01T22:01:25.979+05:30",
+      "title": "Microsoft fixes KB5089549 Windows security update install issues"
     }
   ]
 }

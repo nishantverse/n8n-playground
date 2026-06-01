@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T18:00:44.604+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-  "lastId": "1a7p31v000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/critical-windows-netlogon-rce-flaw-now-exploited-in-attacks.md",
+  "updatedAt": "2026-06-01T20:01:17.877+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+  "lastId": "n1nzux0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/race-against-time-why-faster-vulnerability-alerts-matter.md",
   "items": [
     {
-      "id": "1a7p31v000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/01/critical-windows-netlogon-rce-flaw-now-exploited-in-attacks.md",
-      "committedAt": "2026-06-01T18:00:44.604+05:30",
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks"
+      "id": "n1nzux0000",
+      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+      "filePath": "bleepingcomp/pages/2026/06/01/race-against-time-why-faster-vulnerability-alerts-matter.md",
+      "committedAt": "2026-06-01T20:01:17.877+05:30",
+      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter"
     }
   ]
 }

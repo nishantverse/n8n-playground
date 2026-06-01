@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T20:01:18.542+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-  "lastId": "sifndf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/05/31/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites.md",
+  "updatedAt": "2026-06-01T18:00:44.604+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+  "lastId": "1a7p31v000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/critical-windows-netlogon-rce-flaw-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "sifndf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-      "filePath": "bleepingcomp/pages/2026/05/31/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites.md",
-      "committedAt": "2026-05-31T20:01:18.542+05:30",
-      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites"
+      "id": "1a7p31v000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/01/critical-windows-netlogon-rce-flaw-now-exploited-in-attacks.md",
+      "committedAt": "2026-06-01T18:00:44.604+05:30",
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks"
     }
   ]
 }

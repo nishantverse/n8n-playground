@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T22:01:25.979+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-  "lastId": "1x3049d000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-kb5089549-windows-security-update-install-issues.md",
+  "updatedAt": "2026-06-02T00:01:15.424+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+  "lastId": "c1rx9v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/dashlane-password-manager-users-locked-out-by-brute-force-attacks.md",
   "items": [
     {
-      "id": "1x3049d000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-fixes-kb5089549-windows-security-update-install-issues.md",
-      "committedAt": "2026-06-01T22:01:25.979+05:30",
-      "title": "Microsoft fixes KB5089549 Windows security update install issues"
+      "id": "c1rx9v0000",
+      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/01/dashlane-password-manager-users-locked-out-by-brute-force-attacks.md",
+      "committedAt": "2026-06-02T00:01:15.424+05:30",
+      "title": "Dashlane password manager users locked out by brute force attacks"
     }
   ]
 }

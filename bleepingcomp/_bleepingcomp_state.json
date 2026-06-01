@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T02:01:26.515+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-  "lastId": "1618tzn000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/wordpress-malware-campaign-hides-payloads-in-steam-profiles.md",
+  "updatedAt": "2026-06-02T04:00:56.748+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+  "lastId": "t5o1w30000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks.md",
   "items": [
     {
-      "id": "1618tzn000",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "filePath": "bleepingcomp/pages/2026/06/01/wordpress-malware-campaign-hides-payloads-in-steam-profiles.md",
-      "committedAt": "2026-06-02T02:01:26.515+05:30",
-      "title": "WordPress malware campaign hides payloads in Steam profiles"
+      "id": "t5o1w30000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/01/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks.md",
+      "committedAt": "2026-06-02T04:00:56.748+05:30",
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks"
     }
   ]
 }

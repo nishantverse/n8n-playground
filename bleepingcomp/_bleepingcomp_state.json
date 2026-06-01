@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T00:01:15.424+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-  "lastId": "c1rx9v0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/dashlane-password-manager-users-locked-out-by-brute-force-attacks.md",
+  "updatedAt": "2026-06-02T02:01:26.515+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+  "lastId": "1618tzn000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/wordpress-malware-campaign-hides-payloads-in-steam-profiles.md",
   "items": [
     {
-      "id": "c1rx9v0000",
-      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/01/dashlane-password-manager-users-locked-out-by-brute-force-attacks.md",
-      "committedAt": "2026-06-02T00:01:15.424+05:30",
-      "title": "Dashlane password manager users locked out by brute force attacks"
+      "id": "1618tzn000",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "filePath": "bleepingcomp/pages/2026/06/01/wordpress-malware-campaign-hides-payloads-in-steam-profiles.md",
+      "committedAt": "2026-06-02T02:01:26.515+05:30",
+      "title": "WordPress malware campaign hides payloads in Steam profiles"
     }
   ]
 }

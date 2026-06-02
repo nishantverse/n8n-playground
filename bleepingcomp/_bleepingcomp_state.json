@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T06:01:08.884+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-  "lastId": "ius3fi0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/red-hat-npm-packages-compromised-to-steal-developer-credentials.md",
+  "updatedAt": "2026-06-02T08:01:12.696+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+  "lastId": "iuav200000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md",
   "items": [
     {
-      "id": "ius3fi0000",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "filePath": "bleepingcomp/pages/2026/06/01/red-hat-npm-packages-compromised-to-steal-developer-credentials.md",
-      "committedAt": "2026-06-02T06:01:08.884+05:30",
-      "title": "Red Hat npm packages compromised to steal developer credentials"
+      "id": "iuav200000",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "filePath": "bleepingcomp/pages/2026/06/01/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md",
+      "committedAt": "2026-06-02T08:01:12.696+05:30",
+      "title": "Spain arrests doxer leaking sensitive data of govt employees"
     }
   ]
 }

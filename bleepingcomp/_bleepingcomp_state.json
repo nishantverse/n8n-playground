@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T20:01:11.231+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-  "lastId": "t1id500000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/cisa-flags-two-year-old-oracle-flaw-as-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-06-02T22:01:55.726+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+  "lastId": "1hhanwe000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts.md",
   "items": [
     {
-      "id": "t1id500000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "filePath": "bleepingcomp/pages/2026/06/02/cisa-flags-two-year-old-oracle-flaw-as-actively-exploited-in-attacks.md",
-      "committedAt": "2026-06-02T20:01:11.231+05:30",
-      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks"
+      "id": "1hhanwe000",
+      "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+      "filePath": "bleepingcomp/pages/2026/06/02/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts.md",
+      "committedAt": "2026-06-02T22:01:55.726+05:30",
+      "title": "Instagram users locked out after Meta AI abused to steal accounts"
     }
   ]
 }

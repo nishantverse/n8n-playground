@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T02:01:00.277+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-  "lastId": "1ejs18f000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery.md",
+  "updatedAt": "2026-06-03T04:00:43.909+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
+  "lastId": "w1fyke0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts.md",
   "items": [
     {
-      "id": "1ejs18f000",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "filePath": "bleepingcomp/pages/2026/06/02/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery.md",
-      "committedAt": "2026-06-03T02:01:00.277+05:30",
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery"
+      "id": "w1fyke0000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
+      "filePath": "bleepingcomp/pages/2026/06/02/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts.md",
+      "committedAt": "2026-06-03T04:00:43.909+05:30",
+      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts"
     }
   ]
 }

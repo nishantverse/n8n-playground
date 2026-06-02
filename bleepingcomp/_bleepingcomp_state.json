@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T10:01:58.555+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-  "lastId": "mhppx90000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-investigates-office-apps-teams-file-access-issues.md",
+  "updatedAt": "2026-06-02T18:00:51.491+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+  "lastId": "hpkadu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/google-fixes-one-actively-exploited-android-zero-day-124-flaws.md",
   "items": [
     {
-      "id": "mhppx90000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-investigates-office-apps-teams-file-access-issues.md",
-      "committedAt": "2026-06-02T10:01:58.555+05:30",
-      "title": "Microsoft investigates Office Apps, Teams file access issues"
+      "id": "hpkadu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "filePath": "bleepingcomp/pages/2026/06/02/google-fixes-one-actively-exploited-android-zero-day-124-flaws.md",
+      "committedAt": "2026-06-02T18:00:51.491+05:30",
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws"
     }
   ]
 }

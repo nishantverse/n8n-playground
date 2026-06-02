@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T08:01:12.696+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-  "lastId": "iuav200000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/01/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md",
+  "updatedAt": "2026-06-02T10:01:58.555+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+  "lastId": "mhppx90000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/01/microsoft-investigates-office-apps-teams-file-access-issues.md",
   "items": [
     {
-      "id": "iuav200000",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "filePath": "bleepingcomp/pages/2026/06/01/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md",
-      "committedAt": "2026-06-02T08:01:12.696+05:30",
-      "title": "Spain arrests doxer leaking sensitive data of govt employees"
+      "id": "mhppx90000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+      "filePath": "bleepingcomp/pages/2026/06/01/microsoft-investigates-office-apps-teams-file-access-issues.md",
+      "committedAt": "2026-06-02T10:01:58.555+05:30",
+      "title": "Microsoft investigates Office Apps, Teams file access issues"
     }
   ]
 }

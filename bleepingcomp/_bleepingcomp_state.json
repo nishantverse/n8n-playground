@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T02:01:24.809+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-  "lastId": "1k1e3by000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems.md",
+  "updatedAt": "2026-06-04T04:01:00.692+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+  "lastId": "1l08w7n000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks.md",
   "items": [
     {
-      "id": "1k1e3by000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-      "filePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems.md",
-      "committedAt": "2026-06-04T02:01:24.809+05:30",
-      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems"
+      "id": "1l08w7n000",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "filePath": "bleepingcomp/pages/2026/06/03/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks.md",
+      "committedAt": "2026-06-04T04:01:00.692+05:30",
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks"
     }
   ]
 }

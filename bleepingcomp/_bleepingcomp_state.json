@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T06:01:00.801+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
-  "lastId": "1nasmhr000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/over-116000-mincraft-systems-infected-in-weedhack-malware-campaign.md",
+  "updatedAt": "2026-06-03T08:01:55.333+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+  "lastId": "1ipotsm000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/microsofts-coreutils-project-brings-linux-commands-to-windows.md",
   "items": [
     {
-      "id": "1nasmhr000",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
-      "filePath": "bleepingcomp/pages/2026/06/02/over-116000-mincraft-systems-infected-in-weedhack-malware-campaign.md",
-      "committedAt": "2026-06-03T06:01:00.801+05:30",
-      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign"
+      "id": "1ipotsm000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+      "filePath": "bleepingcomp/pages/2026/06/02/microsofts-coreutils-project-brings-linux-commands-to-windows.md",
+      "committedAt": "2026-06-03T08:01:55.333+05:30",
+      "title": "Microsoft's Coreutils project brings Linux commands to Windows"
     }
   ]
 }

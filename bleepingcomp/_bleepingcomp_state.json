@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T04:00:43.909+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-  "lastId": "w1fyke0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts.md",
+  "updatedAt": "2026-06-03T06:01:00.801+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+  "lastId": "1nasmhr000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/02/over-116000-mincraft-systems-infected-in-weedhack-malware-campaign.md",
   "items": [
     {
-      "id": "w1fyke0000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "filePath": "bleepingcomp/pages/2026/06/02/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts.md",
-      "committedAt": "2026-06-03T04:00:43.909+05:30",
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts"
+      "id": "1nasmhr000",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "filePath": "bleepingcomp/pages/2026/06/02/over-116000-mincraft-systems-infected-in-weedhack-malware-campaign.md",
+      "committedAt": "2026-06-03T06:01:00.801+05:30",
+      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign"
     }
   ]
 }

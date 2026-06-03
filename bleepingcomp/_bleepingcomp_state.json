@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T12:02:07.417+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-  "lastId": "oges440000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/02/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models.md",
+  "updatedAt": "2026-06-03T14:00:57.232+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+  "lastId": "13n090e000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click.md",
   "items": [
     {
-      "id": "oges440000",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "filePath": "bleepingcomp/pages/2026/06/02/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models.md",
-      "committedAt": "2026-06-03T12:02:07.417+05:30",
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models"
+      "id": "13n090e000",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "filePath": "bleepingcomp/pages/2026/06/03/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click.md",
+      "committedAt": "2026-06-03T14:00:57.232+05:30",
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click"
     }
   ]
 }

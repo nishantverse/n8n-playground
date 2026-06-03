@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T16:01:44.416+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
-  "lastId": "yc72ym0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown.md",
+  "updatedAt": "2026-06-03T18:00:44.503+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+  "lastId": "10qzner000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/acer-working-to-patch-max-severity-zero-days-in-wave-7-routers.md",
   "items": [
     {
-      "id": "yc72ym0000",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
-      "filePath": "bleepingcomp/pages/2026/06/03/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown.md",
-      "committedAt": "2026-06-03T16:01:44.416+05:30",
-      "title": "Police dismantles 9 crime groups in illegal streaming crackdown"
+      "id": "10qzner000",
+      "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "filePath": "bleepingcomp/pages/2026/06/03/acer-working-to-patch-max-severity-zero-days-in-wave-7-routers.md",
+      "committedAt": "2026-06-03T18:00:44.503+05:30",
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers"
     }
   ]
 }

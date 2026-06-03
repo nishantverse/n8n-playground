@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T00:01:43.869+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
-  "lastId": "1pkqo2m000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/google-adds-android-protection-against-ai-deepfake-scam-calls.md",
+  "updatedAt": "2026-06-04T02:01:24.809+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+  "lastId": "1k1e3by000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems.md",
   "items": [
     {
-      "id": "1pkqo2m000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
-      "filePath": "bleepingcomp/pages/2026/06/03/google-adds-android-protection-against-ai-deepfake-scam-calls.md",
-      "committedAt": "2026-06-04T00:01:43.869+05:30",
-      "title": "Google adds Android protection against AI deepfake scam calls"
+      "id": "1k1e3by000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "filePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems.md",
+      "committedAt": "2026-06-04T02:01:24.809+05:30",
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems"
     }
   ]
 }

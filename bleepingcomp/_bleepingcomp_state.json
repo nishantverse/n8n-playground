@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T20:01:40.664+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
-  "lastId": "a35f4u0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/what-345-days-of-untested-exposure-looks-like-at-a-bank.md",
+  "updatedAt": "2026-06-03T22:01:02.458+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+  "lastId": "bsblde0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-active-attacks-exploiting-android-linux-bugs.md",
   "items": [
     {
-      "id": "a35f4u0000",
-      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
-      "filePath": "bleepingcomp/pages/2026/06/03/what-345-days-of-untested-exposure-looks-like-at-a-bank.md",
-      "committedAt": "2026-06-03T20:01:40.664+05:30",
-      "title": "What 345 Days of Untested Exposure Looks Like at a Bank"
+      "id": "bsblde0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "filePath": "bleepingcomp/pages/2026/06/03/cisa-warns-of-active-attacks-exploiting-android-linux-bugs.md",
+      "committedAt": "2026-06-03T22:01:02.458+05:30",
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs"
     }
   ]
 }

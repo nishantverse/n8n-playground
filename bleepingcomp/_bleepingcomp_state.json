@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T12:01:03.833+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-  "lastId": "ppre0d0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/us-sanctions-nobitex-crypto-exchange-used-by-iranian-ransomware-actors.md",
+  "updatedAt": "2026-06-04T18:00:44.015+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+  "lastId": "1tlj24e000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code.md",
   "items": [
     {
-      "id": "ppre0d0000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "filePath": "bleepingcomp/pages/2026/06/03/us-sanctions-nobitex-crypto-exchange-used-by-iranian-ransomware-actors.md",
-      "committedAt": "2026-06-04T12:01:03.833+05:30",
-      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors"
+      "id": "1tlj24e000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+      "filePath": "bleepingcomp/pages/2026/06/04/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code.md",
+      "committedAt": "2026-06-04T18:00:44.015+05:30",
+      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code"
     }
   ]
 }

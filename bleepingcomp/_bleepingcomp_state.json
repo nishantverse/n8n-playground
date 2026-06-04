@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T18:00:44.015+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-  "lastId": "1tlj24e000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code.md",
+  "updatedAt": "2026-06-04T20:01:02.032+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+  "lastId": "1peswry000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook.md",
   "items": [
     {
-      "id": "1tlj24e000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "filePath": "bleepingcomp/pages/2026/06/04/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code.md",
-      "committedAt": "2026-06-04T18:00:44.015+05:30",
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code"
+      "id": "1peswry000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "filePath": "bleepingcomp/pages/2026/06/04/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook.md",
+      "committedAt": "2026-06-04T20:01:02.032+05:30",
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook"
     }
   ]
 }

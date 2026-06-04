@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T06:01:01.599+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-  "lastId": "1uqvx6m000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware.md",
+  "updatedAt": "2026-06-04T08:01:47.487+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+  "lastId": "1esd169000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/new-http2-bomb-dos-attack-crashes-web-servers-in-under-a-minute.md",
   "items": [
     {
-      "id": "1uqvx6m000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "filePath": "bleepingcomp/pages/2026/06/03/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware.md",
-      "committedAt": "2026-06-04T06:01:01.599+05:30",
-      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware"
+      "id": "1esd169000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "filePath": "bleepingcomp/pages/2026/06/03/new-http2-bomb-dos-attack-crashes-web-servers-in-under-a-minute.md",
+      "committedAt": "2026-06-04T08:01:47.487+05:30",
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T04:01:00.692+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-  "lastId": "1l08w7n000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/03/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks.md",
+  "updatedAt": "2026-06-04T06:01:01.599+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+  "lastId": "1uqvx6m000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/03/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware.md",
   "items": [
     {
-      "id": "1l08w7n000",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-      "filePath": "bleepingcomp/pages/2026/06/03/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks.md",
-      "committedAt": "2026-06-04T04:01:00.692+05:30",
-      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks"
+      "id": "1uqvx6m000",
+      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "filePath": "bleepingcomp/pages/2026/06/03/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware.md",
+      "committedAt": "2026-06-04T06:01:01.599+05:30",
+      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T21:45:14.460+05:30",
-  "lastLink": "https://cyberpress.org/cve-2026-24884-patch/",
-  "lastId": "11bplxf000",
-  "lastFilePath": "cyberpress/pages/2026/06/03/nodejs-compression-library-vulnerable-again-after-cve-2026-24884-bypass_11bplxf000.md",
+  "updatedAt": "2026-06-04T20:45:14.878+05:30",
+  "lastLink": "https://cyberpress.org/phishing-campaigns-deploy-infostealers/",
+  "lastId": "1d9yqic000",
+  "lastFilePath": "cyberpress/pages/2026/06/04/phishing-campaigns-evolve-as-cybercriminals-turn-to-infostealer-malware_1d9yqic000.md",
   "items": [
     {
-      "id": "11bplxf000",
-      "link": "https://cyberpress.org/cve-2026-24884-patch/",
-      "filePath": "cyberpress/pages/2026/06/03/nodejs-compression-library-vulnerable-again-after-cve-2026-24884-bypass_11bplxf000.md",
-      "committedAt": "2026-06-03T21:45:14.460+05:30",
-      "title": "Node.js Compression Library Vulnerable Again After CVE-2026-24884 Bypass"
+      "id": "1d9yqic000",
+      "link": "https://cyberpress.org/phishing-campaigns-deploy-infostealers/",
+      "filePath": "cyberpress/pages/2026/06/04/phishing-campaigns-evolve-as-cybercriminals-turn-to-infostealer-malware_1d9yqic000.md",
+      "committedAt": "2026-06-04T20:45:14.878+05:30",
+      "title": "Phishing Campaigns Evolve as Cybercriminals Turn to Infostealer Malware"
     }
   ]
 }

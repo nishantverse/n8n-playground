@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T00:00:56.532+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
-  "lastId": "1uojeke000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/un-food-agency-discloses-breach-affecting-600000-gaza-households.md",
+  "updatedAt": "2026-06-05T02:00:50.632+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
+  "lastId": "11uh29c000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/dentaquest-data-breach-exposed-info-of-26-million-accounts.md",
   "items": [
     {
-      "id": "1uojeke000",
-      "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
-      "filePath": "bleepingcomp/pages/2026/06/04/un-food-agency-discloses-breach-affecting-600000-gaza-households.md",
-      "committedAt": "2026-06-05T00:00:56.532+05:30",
-      "title": "UN food agency discloses breach affecting 600,000 Gaza households"
+      "id": "11uh29c000",
+      "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
+      "filePath": "bleepingcomp/pages/2026/06/04/dentaquest-data-breach-exposed-info-of-26-million-accounts.md",
+      "committedAt": "2026-06-05T02:00:50.632+05:30",
+      "title": "DentaQuest data breach  exposed info of 2.6 million accounts"
     }
   ]
 }

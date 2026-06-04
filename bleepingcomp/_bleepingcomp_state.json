@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T02:00:50.632+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-  "lastId": "11uh29c000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/dentaquest-data-breach-exposed-info-of-26-million-accounts.md",
+  "updatedAt": "2026-06-05T04:00:56.220+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+  "lastId": "rps2qb0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/hola-browser-for-windows-compromised-to-deliver-cryptominer.md",
   "items": [
     {
-      "id": "11uh29c000",
-      "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-      "filePath": "bleepingcomp/pages/2026/06/04/dentaquest-data-breach-exposed-info-of-26-million-accounts.md",
-      "committedAt": "2026-06-05T02:00:50.632+05:30",
-      "title": "DentaQuest data breach  exposed info of 2.6 million accounts"
+      "id": "rps2qb0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+      "filePath": "bleepingcomp/pages/2026/06/04/hola-browser-for-windows-compromised-to-deliver-cryptominer.md",
+      "committedAt": "2026-06-05T04:00:56.220+05:30",
+      "title": "Hola Browser for Windows compromised to deliver cryptominer"
     }
   ]
 }

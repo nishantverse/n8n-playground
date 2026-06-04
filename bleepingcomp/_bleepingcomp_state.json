@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T22:00:56.437+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
-  "lastId": "1ecwfar000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack.md",
+  "updatedAt": "2026-06-05T00:00:56.532+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+  "lastId": "1uojeke000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/un-food-agency-discloses-breach-affecting-600000-gaza-households.md",
   "items": [
     {
-      "id": "1ecwfar000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
-      "filePath": "bleepingcomp/pages/2026/06/04/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack.md",
-      "committedAt": "2026-06-04T22:00:56.437+05:30",
-      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack"
+      "id": "1uojeke000",
+      "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "filePath": "bleepingcomp/pages/2026/06/04/un-food-agency-discloses-breach-affecting-600000-gaza-households.md",
+      "committedAt": "2026-06-05T00:00:56.532+05:30",
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households"
     }
   ]
 }

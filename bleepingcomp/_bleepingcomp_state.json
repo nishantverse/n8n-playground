@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T10:02:02.029+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-  "lastId": "hueme60000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md",
+  "updatedAt": "2026-06-05T12:00:44.821+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+  "lastId": "w4d38m0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/05/cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md",
   "items": [
     {
-      "id": "hueme60000",
-      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "filePath": "bleepingcomp/pages/2026/06/04/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md",
-      "committedAt": "2026-06-05T10:02:02.029+05:30",
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info"
+      "id": "w4d38m0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "filePath": "bleepingcomp/pages/2026/06/05/cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md",
+      "committedAt": "2026-06-05T12:00:44.821+05:30",
+      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks"
     }
   ]
 }

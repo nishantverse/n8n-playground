@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T20:01:54.829+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-  "lastId": "1ftkug9000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/05/what-2026-dbir-confirms-attacks-are-living-in-the-browser.md",
+  "updatedAt": "2026-06-05T22:01:54.149+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+  "lastId": "1idh0im000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/05/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks.md",
   "items": [
     {
-      "id": "1ftkug9000",
-      "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-      "filePath": "bleepingcomp/pages/2026/06/05/what-2026-dbir-confirms-attacks-are-living-in-the-browser.md",
-      "committedAt": "2026-06-05T20:01:54.829+05:30",
-      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser"
+      "id": "1idh0im000",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/05/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks.md",
+      "committedAt": "2026-06-05T22:01:54.149+05:30",
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks"
     }
   ]
 }

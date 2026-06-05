@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T08:01:57.042+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-  "lastId": "15w9hl2000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience.md",
+  "updatedAt": "2026-06-05T10:02:02.029+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+  "lastId": "hueme60000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md",
   "items": [
     {
-      "id": "15w9hl2000",
-      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-      "filePath": "bleepingcomp/pages/2026/06/04/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience.md",
-      "committedAt": "2026-06-05T08:01:57.042+05:30",
-      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience"
+      "id": "hueme60000",
+      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+      "filePath": "bleepingcomp/pages/2026/06/04/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md",
+      "committedAt": "2026-06-05T10:02:02.029+05:30",
+      "title": "Credit card theft campaign abuses Stripe to host stolen payment info"
     }
   ]
 }

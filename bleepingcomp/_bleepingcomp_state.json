@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T04:00:56.220+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
-  "lastId": "rps2qb0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/hola-browser-for-windows-compromised-to-deliver-cryptominer.md",
+  "updatedAt": "2026-06-05T06:01:27.041+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+  "lastId": "129p1uk000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue.md",
   "items": [
     {
-      "id": "rps2qb0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
-      "filePath": "bleepingcomp/pages/2026/06/04/hola-browser-for-windows-compromised-to-deliver-cryptominer.md",
-      "committedAt": "2026-06-05T04:00:56.220+05:30",
-      "title": "Hola Browser for Windows compromised to deliver cryptominer"
+      "id": "129p1uk000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "filePath": "bleepingcomp/pages/2026/06/04/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue.md",
+      "committedAt": "2026-06-05T06:01:27.041+05:30",
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue"
     }
   ]
 }

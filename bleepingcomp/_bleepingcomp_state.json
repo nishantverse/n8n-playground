@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T00:01:06.509+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-  "lastId": "aqrc9q0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/05/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks.md",
+  "updatedAt": "2026-06-06T02:00:56.061+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+  "lastId": "hqb0rt0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/05/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers.md",
   "items": [
     {
-      "id": "aqrc9q0000",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-      "filePath": "bleepingcomp/pages/2026/06/05/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks.md",
-      "committedAt": "2026-06-06T00:01:06.509+05:30",
-      "title": "Chinese APT deploys new malware to keep access to hacked networks"
+      "id": "hqb0rt0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+      "filePath": "bleepingcomp/pages/2026/06/05/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers.md",
+      "committedAt": "2026-06-06T02:00:56.061+05:30",
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers"
     }
   ]
 }

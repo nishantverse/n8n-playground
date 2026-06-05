@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T22:01:54.149+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
-  "lastId": "1idh0im000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/05/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks.md",
+  "updatedAt": "2026-06-06T00:01:06.509+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+  "lastId": "aqrc9q0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/05/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks.md",
   "items": [
     {
-      "id": "1idh0im000",
-      "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/05/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks.md",
-      "committedAt": "2026-06-05T22:01:54.149+05:30",
-      "title": "Over 900 US gas station tank gauge systems exposed to attacks"
+      "id": "aqrc9q0000",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+      "filePath": "bleepingcomp/pages/2026/06/05/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks.md",
+      "committedAt": "2026-06-06T00:01:06.509+05:30",
+      "title": "Chinese APT deploys new malware to keep access to hacked networks"
     }
   ]
 }

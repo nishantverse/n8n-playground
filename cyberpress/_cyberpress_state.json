@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T20:45:14.878+05:30",
-  "lastLink": "https://cyberpress.org/phishing-campaigns-deploy-infostealers/",
-  "lastId": "1d9yqic000",
-  "lastFilePath": "cyberpress/pages/2026/06/04/phishing-campaigns-evolve-as-cybercriminals-turn-to-infostealer-malware_1d9yqic000.md",
+  "updatedAt": "2026-06-05T19:45:14.895+05:30",
+  "lastLink": "https://cyberpress.org/critical-hugging-face-transformers-flaw/",
+  "lastId": "lsoqd90000",
+  "lastFilePath": "cyberpress/pages/2026/06/05/critical-hugging-face-transformers-flaw-enables-remote-code-execution_lsoqd90000.md",
   "items": [
     {
-      "id": "1d9yqic000",
-      "link": "https://cyberpress.org/phishing-campaigns-deploy-infostealers/",
-      "filePath": "cyberpress/pages/2026/06/04/phishing-campaigns-evolve-as-cybercriminals-turn-to-infostealer-malware_1d9yqic000.md",
-      "committedAt": "2026-06-04T20:45:14.878+05:30",
-      "title": "Phishing Campaigns Evolve as Cybercriminals Turn to Infostealer Malware"
+      "id": "lsoqd90000",
+      "link": "https://cyberpress.org/critical-hugging-face-transformers-flaw/",
+      "filePath": "cyberpress/pages/2026/06/05/critical-hugging-face-transformers-flaw-enables-remote-code-execution_lsoqd90000.md",
+      "committedAt": "2026-06-05T19:45:14.895+05:30",
+      "title": "Critical Hugging Face Transformers Flaw Enables Remote Code Execution"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T12:00:44.821+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-  "lastId": "w4d38m0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/05/cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md",
+  "updatedAt": "2026-06-05T20:01:54.829+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+  "lastId": "1ftkug9000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/05/what-2026-dbir-confirms-attacks-are-living-in-the-browser.md",
   "items": [
     {
-      "id": "w4d38m0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "filePath": "bleepingcomp/pages/2026/06/05/cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md",
-      "committedAt": "2026-06-05T12:00:44.821+05:30",
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks"
+      "id": "1ftkug9000",
+      "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+      "filePath": "bleepingcomp/pages/2026/06/05/what-2026-dbir-confirms-attacks-are-living-in-the-browser.md",
+      "committedAt": "2026-06-05T20:01:54.829+05:30",
+      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser"
     }
   ]
 }

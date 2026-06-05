@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T06:01:27.041+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-  "lastId": "129p1uk000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/04/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue.md",
+  "updatedAt": "2026-06-05T08:01:57.042+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
+  "lastId": "15w9hl2000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/04/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience.md",
   "items": [
     {
-      "id": "129p1uk000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-      "filePath": "bleepingcomp/pages/2026/06/04/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue.md",
-      "committedAt": "2026-06-05T06:01:27.041+05:30",
-      "title": "Microsoft blames unexpected Windows driver updates on caching issue"
+      "id": "15w9hl2000",
+      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
+      "filePath": "bleepingcomp/pages/2026/06/04/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience.md",
+      "committedAt": "2026-06-05T08:01:57.042+05:30",
+      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience"
     }
   ]
 }

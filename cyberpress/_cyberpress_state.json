@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T19:45:14.895+05:30",
-  "lastLink": "https://cyberpress.org/critical-hugging-face-transformers-flaw/",
-  "lastId": "lsoqd90000",
-  "lastFilePath": "cyberpress/pages/2026/06/05/critical-hugging-face-transformers-flaw-enables-remote-code-execution_lsoqd90000.md",
+  "updatedAt": "2026-06-06T18:45:14.343+05:30",
+  "lastLink": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/",
+  "lastId": "akfxzl0000",
+  "lastFilePath": "cyberpress/pages/2026/06/06/cisa-warns-of-exploited-solarwinds-serv-u-vulnerability_akfxzl0000.md",
   "items": [
     {
-      "id": "lsoqd90000",
-      "link": "https://cyberpress.org/critical-hugging-face-transformers-flaw/",
-      "filePath": "cyberpress/pages/2026/06/05/critical-hugging-face-transformers-flaw-enables-remote-code-execution_lsoqd90000.md",
-      "committedAt": "2026-06-05T19:45:14.895+05:30",
-      "title": "Critical Hugging Face Transformers Flaw Enables Remote Code Execution"
+      "id": "akfxzl0000",
+      "link": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/06/cisa-warns-of-exploited-solarwinds-serv-u-vulnerability_akfxzl0000.md",
+      "committedAt": "2026-06-06T18:45:14.343+05:30",
+      "title": "CISA Warns of Exploited SolarWinds Serv-U Vulnerability"
     }
   ]
 }

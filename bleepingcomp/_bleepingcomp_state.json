@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T06:01:48.031+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-  "lastId": "17d8uwu000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/05/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs.md",
+  "updatedAt": "2026-06-06T20:00:54.483+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+  "lastId": "1jf7zge000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/06/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites.md",
   "items": [
     {
-      "id": "17d8uwu000",
-      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-      "filePath": "bleepingcomp/pages/2026/06/05/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs.md",
-      "committedAt": "2026-06-06T06:01:48.031+05:30",
-      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs"
+      "id": "1jf7zge000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "filePath": "bleepingcomp/pages/2026/06/06/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites.md",
+      "committedAt": "2026-06-06T20:00:54.483+05:30",
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T20:00:50.356+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-  "lastId": "ph1q7z0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/07/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware.md",
+  "updatedAt": "2026-06-07T22:01:40.877+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+  "lastId": "b7d3cu0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/07/silent-ransom-group-targets-law-firms-with-fake-it-support-calls.md",
   "items": [
     {
-      "id": "ph1q7z0000",
-      "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-      "filePath": "bleepingcomp/pages/2026/06/07/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware.md",
-      "committedAt": "2026-06-07T20:00:50.356+05:30",
-      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware"
+      "id": "b7d3cu0000",
+      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+      "filePath": "bleepingcomp/pages/2026/06/07/silent-ransom-group-targets-law-firms-with-fake-it-support-calls.md",
+      "committedAt": "2026-06-07T22:01:40.877+05:30",
+      "title": "Silent Ransom Group targets law firms with fake IT support calls"
     }
   ]
 }

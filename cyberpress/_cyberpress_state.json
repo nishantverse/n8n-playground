@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T18:45:14.343+05:30",
-  "lastLink": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/",
-  "lastId": "akfxzl0000",
-  "lastFilePath": "cyberpress/pages/2026/06/06/cisa-warns-of-exploited-solarwinds-serv-u-vulnerability_akfxzl0000.md",
+  "updatedAt": "2026-06-07T17:45:25.245+05:30",
+  "lastLink": "https://cyberpress.org/critical-unifi-os-flaws/",
+  "lastId": "rmwtl00000",
+  "lastFilePath": "cyberpress/pages/2026/06/06/critical-unifi-os-flaws-enable-auth-bypass-and-command-execution_rmwtl00000.md",
   "items": [
     {
-      "id": "akfxzl0000",
-      "link": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/06/cisa-warns-of-exploited-solarwinds-serv-u-vulnerability_akfxzl0000.md",
-      "committedAt": "2026-06-06T18:45:14.343+05:30",
-      "title": "CISA Warns of Exploited SolarWinds Serv-U Vulnerability"
+      "id": "rmwtl00000",
+      "link": "https://cyberpress.org/critical-unifi-os-flaws/",
+      "filePath": "cyberpress/pages/2026/06/06/critical-unifi-os-flaws-enable-auth-bypass-and-command-execution_rmwtl00000.md",
+      "committedAt": "2026-06-07T17:45:25.245+05:30",
+      "title": "Critical UniFi OS Flaws Enable Auth Bypass and Command Execution"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T22:00:46.550+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-  "lastId": "17ajac3000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/gogs-patches-critical-zero-day-enabling-remote-code-execution.md",
+  "updatedAt": "2026-06-09T00:01:14.810+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+  "lastId": "1mlgh6b000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication.md",
   "items": [
     {
-      "id": "17ajac3000",
-      "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-      "filePath": "bleepingcomp/pages/2026/06/08/gogs-patches-critical-zero-day-enabling-remote-code-execution.md",
-      "committedAt": "2026-06-08T22:00:46.550+05:30",
-      "title": "Gogs patches critical zero-day enabling remote code execution"
+      "id": "1mlgh6b000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+      "filePath": "bleepingcomp/pages/2026/06/08/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication.md",
+      "committedAt": "2026-06-09T00:01:14.810+05:30",
+      "title": "Critical UniFi OS bug lets hackers gain root without authentication"
     }
   ]
 }

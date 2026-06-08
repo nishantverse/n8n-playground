@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T06:01:35.431+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-  "lastId": "iitte80000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/07/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal.md",
+  "updatedAt": "2026-06-08T12:01:24.009+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+  "lastId": "1byftef000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/over-20000-instagram-accounts-stolen-in-meta-ai-support-hack.md",
   "items": [
     {
-      "id": "iitte80000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-      "filePath": "bleepingcomp/pages/2026/06/07/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal.md",
-      "committedAt": "2026-06-08T06:01:35.431+05:30",
-      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal"
+      "id": "1byftef000",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "filePath": "bleepingcomp/pages/2026/06/08/over-20000-instagram-accounts-stolen-in-meta-ai-support-hack.md",
+      "committedAt": "2026-06-08T12:01:24.009+05:30",
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack"
     }
   ]
 }

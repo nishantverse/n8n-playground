@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T12:01:24.009+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-  "lastId": "1byftef000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/over-20000-instagram-accounts-stolen-in-meta-ai-support-hack.md",
+  "updatedAt": "2026-06-08T18:00:56.974+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
+  "lastId": "1rvtks3000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/oxford-university-discloses-data-breach-after-careers-platform-hack.md",
   "items": [
     {
-      "id": "1byftef000",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "filePath": "bleepingcomp/pages/2026/06/08/over-20000-instagram-accounts-stolen-in-meta-ai-support-hack.md",
-      "committedAt": "2026-06-08T12:01:24.009+05:30",
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack"
+      "id": "1rvtks3000",
+      "link": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
+      "filePath": "bleepingcomp/pages/2026/06/08/oxford-university-discloses-data-breach-after-careers-platform-hack.md",
+      "committedAt": "2026-06-08T18:00:56.974+05:30",
+      "title": "Oxford University discloses data breach after careers platform hack"
     }
   ]
 }

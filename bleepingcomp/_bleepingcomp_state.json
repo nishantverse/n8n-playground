@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T02:01:23.034+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-  "lastId": "1ycfz4u000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks.md",
+  "updatedAt": "2026-06-09T04:00:54.900+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+  "lastId": "6pwcam0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github.md",
   "items": [
     {
-      "id": "1ycfz4u000",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/08/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks.md",
-      "committedAt": "2026-06-09T02:01:23.034+05:30",
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks"
+      "id": "6pwcam0000",
+      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "filePath": "bleepingcomp/pages/2026/06/08/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github.md",
+      "committedAt": "2026-06-09T04:00:54.900+05:30",
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub"
     }
   ]
 }

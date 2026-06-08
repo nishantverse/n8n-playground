@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T20:00:51.407+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-  "lastId": "pvu1770000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang.md",
+  "updatedAt": "2026-06-08T22:00:46.550+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+  "lastId": "17ajac3000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/gogs-patches-critical-zero-day-enabling-remote-code-execution.md",
   "items": [
     {
-      "id": "pvu1770000",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-      "filePath": "bleepingcomp/pages/2026/06/08/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang.md",
-      "committedAt": "2026-06-08T20:00:51.407+05:30",
-      "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang"
+      "id": "17ajac3000",
+      "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+      "filePath": "bleepingcomp/pages/2026/06/08/gogs-patches-critical-zero-day-enabling-remote-code-execution.md",
+      "committedAt": "2026-06-08T22:00:46.550+05:30",
+      "title": "Gogs patches critical zero-day enabling remote code execution"
     }
   ]
 }

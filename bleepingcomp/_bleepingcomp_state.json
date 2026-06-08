@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T18:00:56.974+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
-  "lastId": "1rvtks3000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/oxford-university-discloses-data-breach-after-careers-platform-hack.md",
+  "updatedAt": "2026-06-08T20:00:51.407+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
+  "lastId": "pvu1770000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang.md",
   "items": [
     {
-      "id": "1rvtks3000",
-      "link": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
-      "filePath": "bleepingcomp/pages/2026/06/08/oxford-university-discloses-data-breach-after-careers-platform-hack.md",
-      "committedAt": "2026-06-08T18:00:56.974+05:30",
-      "title": "Oxford University discloses data breach after careers platform hack"
+      "id": "pvu1770000",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
+      "filePath": "bleepingcomp/pages/2026/06/08/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang.md",
+      "committedAt": "2026-06-08T20:00:51.407+05:30",
+      "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang"
     }
   ]
 }

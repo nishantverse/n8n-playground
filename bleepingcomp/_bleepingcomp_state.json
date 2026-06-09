@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T06:01:00.690+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-  "lastId": "dfzgym0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary.md",
+  "updatedAt": "2026-06-09T08:01:42.561+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+  "lastId": "1hyjb3h000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/new-apple-feature-automatically-changes-your-compromised-passwords.md",
   "items": [
     {
-      "id": "dfzgym0000",
-      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "filePath": "bleepingcomp/pages/2026/06/08/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary.md",
-      "committedAt": "2026-06-09T06:01:00.690+05:30",
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary"
+      "id": "1hyjb3h000",
+      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+      "filePath": "bleepingcomp/pages/2026/06/08/new-apple-feature-automatically-changes-your-compromised-passwords.md",
+      "committedAt": "2026-06-09T08:01:42.561+05:30",
+      "title": "New Apple feature automatically changes your compromised passwords"
     }
   ]
 }

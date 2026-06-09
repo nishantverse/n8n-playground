@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T00:01:07.551+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-  "lastId": "7l10pp0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws.md",
+  "updatedAt": "2026-06-10T02:01:00.830+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+  "lastId": "u7ds9q0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud.md",
   "items": [
     {
-      "id": "7l10pp0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-      "filePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws.md",
-      "committedAt": "2026-06-10T00:01:07.551+05:30",
-      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws"
+      "id": "u7ds9q0000",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "filePath": "bleepingcomp/pages/2026/06/09/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud.md",
+      "committedAt": "2026-06-10T02:01:00.830+05:30",
+      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud"
     }
   ]
 }

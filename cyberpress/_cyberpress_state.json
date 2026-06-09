@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T16:45:16.475+05:30",
-  "lastLink": "https://cyberpress.org/world-cup-scam-surge/",
-  "lastId": "1qyiglf000",
-  "lastFilePath": "cyberpress/pages/2026/06/08/fake-stores-and-phishing-campaigns-exploit-2026-fifa-world-cup-hype_1qyiglf000.md",
+  "updatedAt": "2026-06-09T15:45:14.978+05:30",
+  "lastLink": "https://cyberpress.org/litellm-rce-vulnerability-exploited/",
+  "lastId": "1nb6ndj000",
+  "lastFilePath": "cyberpress/pages/2026/06/09/litellm-rce-vulnerability-exploited-in-the-wild-to-run-commands_1nb6ndj000.md",
   "items": [
     {
-      "id": "1qyiglf000",
-      "link": "https://cyberpress.org/world-cup-scam-surge/",
-      "filePath": "cyberpress/pages/2026/06/08/fake-stores-and-phishing-campaigns-exploit-2026-fifa-world-cup-hype_1qyiglf000.md",
-      "committedAt": "2026-06-08T16:45:16.475+05:30",
-      "title": "Fake Stores and Phishing Campaigns Exploit 2026 FIFA World Cup Hype"
+      "id": "1nb6ndj000",
+      "link": "https://cyberpress.org/litellm-rce-vulnerability-exploited/",
+      "filePath": "cyberpress/pages/2026/06/09/litellm-rce-vulnerability-exploited-in-the-wild-to-run-commands_1nb6ndj000.md",
+      "committedAt": "2026-06-09T15:45:14.978+05:30",
+      "title": "LiteLLM RCE Vulnerability Exploited in the Wild to Run Commands"
     }
   ]
 }

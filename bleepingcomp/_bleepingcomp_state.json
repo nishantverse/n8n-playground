@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T10:01:55.192+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-  "lastId": "r81flf0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages.md",
+  "updatedAt": "2026-06-09T12:01:59.635+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
+  "lastId": "y8ecvy0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/reducing-security-operations-complexity-with-wazuh-cloud.md",
   "items": [
     {
-      "id": "r81flf0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "filePath": "bleepingcomp/pages/2026/06/08/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages.md",
-      "committedAt": "2026-06-09T10:01:55.192+05:30",
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages"
+      "id": "y8ecvy0000",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
+      "filePath": "bleepingcomp/pages/2026/06/08/reducing-security-operations-complexity-with-wazuh-cloud.md",
+      "committedAt": "2026-06-09T12:01:59.635+05:30",
+      "title": "Reducing security operations complexity with Wazuh Cloud"
     }
   ]
 }

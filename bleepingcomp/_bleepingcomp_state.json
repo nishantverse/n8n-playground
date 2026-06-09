@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T02:01:00.830+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-  "lastId": "u7ds9q0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud.md",
+  "updatedAt": "2026-06-10T04:01:30.134+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
+  "lastId": "1421hsi000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data.md",
   "items": [
     {
-      "id": "u7ds9q0000",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "filePath": "bleepingcomp/pages/2026/06/09/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud.md",
-      "committedAt": "2026-06-10T02:01:00.830+05:30",
-      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud"
+      "id": "1421hsi000",
+      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
+      "filePath": "bleepingcomp/pages/2026/06/09/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data.md",
+      "committedAt": "2026-06-10T04:01:30.134+05:30",
+      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data"
     }
   ]
 }

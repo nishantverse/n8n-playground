@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T18:01:33.269+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-  "lastId": "1hmrsse000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/french-govt-messaging-service-breached-in-account-hijacking-attack.md",
+  "updatedAt": "2026-06-09T20:01:07.732+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+  "lastId": "15cafdq000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks.md",
   "items": [
     {
-      "id": "1hmrsse000",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-      "filePath": "bleepingcomp/pages/2026/06/09/french-govt-messaging-service-breached-in-account-hijacking-attack.md",
-      "committedAt": "2026-06-09T18:01:33.269+05:30",
-      "title": "French govt messaging service breached in account hijacking attack"
+      "id": "15cafdq000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/09/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks.md",
+      "committedAt": "2026-06-09T20:01:07.732+05:30",
+      "title": "New Veeam vulnerability exposes backup servers to RCE attacks"
     }
   ]
 }

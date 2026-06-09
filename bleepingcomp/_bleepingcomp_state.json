@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T16:01:01.555+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-  "lastId": "1h8gnt2000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/google-patches-new-chrome-zero-day-flaw-exploited-in-the-wild.md",
+  "updatedAt": "2026-06-09T18:01:33.269+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+  "lastId": "1hmrsse000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/french-govt-messaging-service-breached-in-account-hijacking-attack.md",
   "items": [
     {
-      "id": "1h8gnt2000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-      "filePath": "bleepingcomp/pages/2026/06/09/google-patches-new-chrome-zero-day-flaw-exploited-in-the-wild.md",
-      "committedAt": "2026-06-09T16:01:01.555+05:30",
-      "title": "Google patches new Chrome zero-day flaw exploited in the wild"
+      "id": "1hmrsse000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+      "filePath": "bleepingcomp/pages/2026/06/09/french-govt-messaging-service-breached-in-account-hijacking-attack.md",
+      "committedAt": "2026-06-09T18:01:33.269+05:30",
+      "title": "French govt messaging service breached in account hijacking attack"
     }
   ]
 }

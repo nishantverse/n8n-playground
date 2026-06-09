@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T14:00:50.858+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-  "lastId": "1bkw64z000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/cisa-gives-feds-3-days-to-patch-check-point-vpn-bug-exploited-as-zero-day.md",
+  "updatedAt": "2026-06-09T16:01:01.555+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+  "lastId": "1h8gnt2000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/google-patches-new-chrome-zero-day-flaw-exploited-in-the-wild.md",
   "items": [
     {
-      "id": "1bkw64z000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-      "filePath": "bleepingcomp/pages/2026/06/09/cisa-gives-feds-3-days-to-patch-check-point-vpn-bug-exploited-as-zero-day.md",
-      "committedAt": "2026-06-09T14:00:50.858+05:30",
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day"
+      "id": "1h8gnt2000",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "filePath": "bleepingcomp/pages/2026/06/09/google-patches-new-chrome-zero-day-flaw-exploited-in-the-wild.md",
+      "committedAt": "2026-06-09T16:01:01.555+05:30",
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T08:01:42.561+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-  "lastId": "1hyjb3h000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/08/new-apple-feature-automatically-changes-your-compromised-passwords.md",
+  "updatedAt": "2026-06-09T10:01:55.192+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+  "lastId": "r81flf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/08/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages.md",
   "items": [
     {
-      "id": "1hyjb3h000",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-      "filePath": "bleepingcomp/pages/2026/06/08/new-apple-feature-automatically-changes-your-compromised-passwords.md",
-      "committedAt": "2026-06-09T08:01:42.561+05:30",
-      "title": "New Apple feature automatically changes your compromised passwords"
+      "id": "r81flf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "filePath": "bleepingcomp/pages/2026/06/08/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages.md",
+      "committedAt": "2026-06-09T10:01:55.192+05:30",
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages"
     }
   ]
 }

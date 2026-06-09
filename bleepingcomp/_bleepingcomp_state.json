@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T20:01:07.732+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
-  "lastId": "15cafdq000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks.md",
+  "updatedAt": "2026-06-09T22:01:31.697+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+  "lastId": "ec0rge0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/github-disables-microsoft-repos-pushing-password-stealing-malware.md",
   "items": [
     {
-      "id": "15cafdq000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/09/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks.md",
-      "committedAt": "2026-06-09T20:01:07.732+05:30",
-      "title": "New Veeam vulnerability exposes backup servers to RCE attacks"
+      "id": "ec0rge0000",
+      "link": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "filePath": "bleepingcomp/pages/2026/06/09/github-disables-microsoft-repos-pushing-password-stealing-malware.md",
+      "committedAt": "2026-06-09T22:01:31.697+05:30",
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware"
     }
   ]
 }

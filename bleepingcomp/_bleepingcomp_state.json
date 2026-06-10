@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T16:00:50.853+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
-  "lastId": "y9t3kh0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days.md",
+  "updatedAt": "2026-06-10T18:01:15.726+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
+  "lastId": "84y5ic0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/10/microsoft-some-windows-pcs-fail-to-install-latest-monthly-updates.md",
   "items": [
     {
-      "id": "y9t3kh0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
-      "filePath": "bleepingcomp/pages/2026/06/10/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days.md",
-      "committedAt": "2026-06-10T16:00:50.853+05:30",
-      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days"
+      "id": "84y5ic0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
+      "filePath": "bleepingcomp/pages/2026/06/10/microsoft-some-windows-pcs-fail-to-install-latest-monthly-updates.md",
+      "committedAt": "2026-06-10T18:01:15.726+05:30",
+      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates"
     }
   ]
 }

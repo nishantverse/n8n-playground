@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T15:45:14.978+05:30",
-  "lastLink": "https://cyberpress.org/litellm-rce-vulnerability-exploited/",
-  "lastId": "1nb6ndj000",
-  "lastFilePath": "cyberpress/pages/2026/06/09/litellm-rce-vulnerability-exploited-in-the-wild-to-run-commands_1nb6ndj000.md",
+  "updatedAt": "2026-06-10T14:45:15.114+05:30",
+  "lastLink": "https://cyberpress.org/critical-veeam-vulnerability/",
+  "lastId": "1gz8p1n000",
+  "lastFilePath": "cyberpress/pages/2026/06/10/critical-veeam-vulnerability-enables-rce-on-backup-servers_1gz8p1n000.md",
   "items": [
     {
-      "id": "1nb6ndj000",
-      "link": "https://cyberpress.org/litellm-rce-vulnerability-exploited/",
-      "filePath": "cyberpress/pages/2026/06/09/litellm-rce-vulnerability-exploited-in-the-wild-to-run-commands_1nb6ndj000.md",
-      "committedAt": "2026-06-09T15:45:14.978+05:30",
-      "title": "LiteLLM RCE Vulnerability Exploited in the Wild to Run Commands"
+      "id": "1gz8p1n000",
+      "link": "https://cyberpress.org/critical-veeam-vulnerability/",
+      "filePath": "cyberpress/pages/2026/06/10/critical-veeam-vulnerability-enables-rce-on-backup-servers_1gz8p1n000.md",
+      "committedAt": "2026-06-10T14:45:15.114+05:30",
+      "title": "Critical Veeam Vulnerability Enables RCE on Backup Servers"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T20:00:50.387+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-  "lastId": "9sf5ip0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/microsoft-patches-exchange-server-zero-day-exploited-in-attacks.md",
+  "updatedAt": "2026-06-10T22:01:08.741+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
+  "lastId": "1wjven1000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws.md",
   "items": [
     {
-      "id": "9sf5ip0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/10/microsoft-patches-exchange-server-zero-day-exploited-in-attacks.md",
-      "committedAt": "2026-06-10T20:00:50.387+05:30",
-      "title": "Microsoft patches Exchange Server zero-day exploited in attacks"
+      "id": "1wjven1000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
+      "filePath": "bleepingcomp/pages/2026/06/09/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws.md",
+      "committedAt": "2026-06-10T22:01:08.741+05:30",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws"
     }
   ]
 }

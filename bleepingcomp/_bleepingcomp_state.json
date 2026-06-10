@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T18:01:15.726+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-  "lastId": "84y5ic0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/microsoft-some-windows-pcs-fail-to-install-latest-monthly-updates.md",
+  "updatedAt": "2026-06-10T20:00:50.387+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+  "lastId": "9sf5ip0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/10/microsoft-patches-exchange-server-zero-day-exploited-in-attacks.md",
   "items": [
     {
-      "id": "84y5ic0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "filePath": "bleepingcomp/pages/2026/06/10/microsoft-some-windows-pcs-fail-to-install-latest-monthly-updates.md",
-      "committedAt": "2026-06-10T18:01:15.726+05:30",
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates"
+      "id": "9sf5ip0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/10/microsoft-patches-exchange-server-zero-day-exploited-in-attacks.md",
+      "committedAt": "2026-06-10T20:00:50.387+05:30",
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks"
     }
   ]
 }

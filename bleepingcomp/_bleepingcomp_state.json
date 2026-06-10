@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T04:01:30.134+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-  "lastId": "1421hsi000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data.md",
+  "updatedAt": "2026-06-10T06:01:29.669+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+  "lastId": "em3pwc0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/09/microsoft-defender-rogueplanet-zero-day-grants-system-privileges.md",
   "items": [
     {
-      "id": "1421hsi000",
-      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-      "filePath": "bleepingcomp/pages/2026/06/09/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data.md",
-      "committedAt": "2026-06-10T04:01:30.134+05:30",
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data"
+      "id": "em3pwc0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+      "filePath": "bleepingcomp/pages/2026/06/09/microsoft-defender-rogueplanet-zero-day-grants-system-privileges.md",
+      "committedAt": "2026-06-10T06:01:29.669+05:30",
+      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges"
     }
   ]
 }

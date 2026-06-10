@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T10:01:48.890+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
-  "lastId": "2z85180000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/09/windows-11-kb5094126-kb5093998-cumulative-updates-released.md",
+  "updatedAt": "2026-06-10T12:02:00.430+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
+  "lastId": "8iqcfs0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/10/ivanti-max-severity-sentry-flaw-allows-code-execution-as-root.md",
   "items": [
     {
-      "id": "2z85180000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
-      "filePath": "bleepingcomp/pages/2026/06/09/windows-11-kb5094126-kb5093998-cumulative-updates-released.md",
-      "committedAt": "2026-06-10T10:01:48.890+05:30",
-      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released"
+      "id": "8iqcfs0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
+      "filePath": "bleepingcomp/pages/2026/06/10/ivanti-max-severity-sentry-flaw-allows-code-execution-as-root.md",
+      "committedAt": "2026-06-10T12:02:00.430+05:30",
+      "title": "Ivanti: Max severity Sentry flaw allows code execution as root"
     }
   ]
 }

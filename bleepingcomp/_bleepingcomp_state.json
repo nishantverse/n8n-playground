@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T23:36:14.808+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-  "lastId": "1b6o7hv000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/10/the-5-best-practices-for-secure-identity-verification.md",
+  "updatedAt": "2026-06-11T12:00:29.260+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+  "lastId": "1e2jp6m000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "1b6o7hv000",
-      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-      "filePath": "bleepingcomp/pages/2026/06/10/the-5-best-practices-for-secure-identity-verification.md",
-      "committedAt": "2026-06-10T23:36:14.808+05:30",
-      "title": "The 5 Best Practices for Secure Identity Verification"
+      "id": "1e2jp6m000",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/11/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks.md",
+      "committedAt": "2026-06-11T12:00:29.260+05:30",
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks"
     }
   ]
 }

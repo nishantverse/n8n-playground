@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T12:00:29.260+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-  "lastId": "1e2jp6m000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks.md",
+  "updatedAt": "2026-06-12T00:00:22.510+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+  "lastId": "9xgwdv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days.md",
   "items": [
     {
-      "id": "1e2jp6m000",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/11/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks.md",
-      "committedAt": "2026-06-11T12:00:29.260+05:30",
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks"
+      "id": "9xgwdv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+      "filePath": "bleepingcomp/pages/2026/06/11/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days.md",
+      "committedAt": "2026-06-12T00:00:22.510+05:30",
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T00:00:22.510+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-  "lastId": "9xgwdv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days.md",
+  "updatedAt": "2026-06-12T12:00:33.582+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+  "lastId": "lbloib0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures.md",
   "items": [
     {
-      "id": "9xgwdv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "filePath": "bleepingcomp/pages/2026/06/11/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days.md",
-      "committedAt": "2026-06-12T00:00:22.510+05:30",
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days"
+      "id": "lbloib0000",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+      "filePath": "bleepingcomp/pages/2026/06/11/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures.md",
+      "committedAt": "2026-06-12T12:00:33.582+05:30",
+      "title": "Maine breach portal abused to publish fake data breach disclosures"
     }
   ]
 }

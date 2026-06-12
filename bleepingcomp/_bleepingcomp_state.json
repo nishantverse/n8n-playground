@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T12:00:33.582+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-  "lastId": "lbloib0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures.md",
+  "updatedAt": "2026-06-13T00:00:33.002+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+  "lastId": "1uzdapi000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/12/cisa-orders-feds-to-patch-actively-exploited-ivanti-flaw-by-sunday.md",
   "items": [
     {
-      "id": "lbloib0000",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "filePath": "bleepingcomp/pages/2026/06/11/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures.md",
-      "committedAt": "2026-06-12T12:00:33.582+05:30",
-      "title": "Maine breach portal abused to publish fake data breach disclosures"
+      "id": "1uzdapi000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/12/cisa-orders-feds-to-patch-actively-exploited-ivanti-flaw-by-sunday.md",
+      "committedAt": "2026-06-13T00:00:33.002+05:30",
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T12:00:26.602+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-  "lastId": "epx7i60000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/12/maine-disables-data-breach-notification-portal-after-fake-disclosures.md",
+  "updatedAt": "2026-06-14T00:00:48.373+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+  "lastId": "iddnum0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/11/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks.md",
   "items": [
     {
-      "id": "epx7i60000",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-      "filePath": "bleepingcomp/pages/2026/06/12/maine-disables-data-breach-notification-portal-after-fake-disclosures.md",
-      "committedAt": "2026-06-13T12:00:26.602+05:30",
-      "title": "Maine disables data breach notification portal after fake disclosures"
+      "id": "iddnum0000",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/11/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks.md",
+      "committedAt": "2026-06-14T00:00:48.373+05:30",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T12:00:52.513+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-  "lastId": "1sbmno3000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/12/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade.md",
+  "updatedAt": "2026-06-15T00:00:45.075+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+  "lastId": "z36asz0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/14/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls.md",
   "items": [
     {
-      "id": "1sbmno3000",
-      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "filePath": "bleepingcomp/pages/2026/06/12/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade.md",
-      "committedAt": "2026-06-14T12:00:52.513+05:30",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade"
+      "id": "z36asz0000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+      "filePath": "bleepingcomp/pages/2026/06/14/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls.md",
+      "committedAt": "2026-06-15T00:00:45.075+05:30",
+      "title": "FBI disrupts massive AI-powered phishing service using a million URLs"
     }
   ]
 }

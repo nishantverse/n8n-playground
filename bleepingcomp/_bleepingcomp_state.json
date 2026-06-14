@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T00:00:48.373+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-  "lastId": "iddnum0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/11/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks.md",
+  "updatedAt": "2026-06-14T12:00:52.513+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+  "lastId": "1sbmno3000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/12/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade.md",
   "items": [
     {
-      "id": "iddnum0000",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/11/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks.md",
-      "committedAt": "2026-06-14T00:00:48.373+05:30",
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks"
+      "id": "1sbmno3000",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "filePath": "bleepingcomp/pages/2026/06/12/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade.md",
+      "committedAt": "2026-06-14T12:00:52.513+05:30",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade"
     }
   ]
 }

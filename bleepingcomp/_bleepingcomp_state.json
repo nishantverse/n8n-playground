@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T00:00:45.075+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-  "lastId": "z36asz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/14/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls.md",
+  "updatedAt": "2026-06-15T12:01:08.789+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+  "lastId": "3vczzn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation.md",
   "items": [
     {
-      "id": "z36asz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "filePath": "bleepingcomp/pages/2026/06/14/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls.md",
-      "committedAt": "2026-06-15T00:00:45.075+05:30",
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs"
+      "id": "3vczzn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "filePath": "bleepingcomp/pages/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation.md",
+      "committedAt": "2026-06-15T12:01:08.789+05:30",
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation"
     }
   ]
 }

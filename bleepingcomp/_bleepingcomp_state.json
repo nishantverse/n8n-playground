@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T12:01:08.789+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-  "lastId": "3vczzn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation.md",
+  "updatedAt": "2026-06-16T00:00:22.525+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+  "lastId": "qiyxy60000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/15/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks.md",
   "items": [
     {
-      "id": "3vczzn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "filePath": "bleepingcomp/pages/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation.md",
-      "committedAt": "2026-06-15T12:01:08.789+05:30",
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation"
+      "id": "qiyxy60000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/15/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks.md",
+      "committedAt": "2026-06-16T00:00:22.525+05:30",
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T00:00:22.525+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-  "lastId": "qiyxy60000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/15/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks.md",
+  "updatedAt": "2026-06-16T12:00:29.521+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+  "lastId": "rt9n2r0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/15/council-of-europe-investigates-shinyhunters-data-breach-claims.md",
   "items": [
     {
-      "id": "qiyxy60000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/15/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks.md",
-      "committedAt": "2026-06-16T00:00:22.525+05:30",
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks"
+      "id": "rt9n2r0000",
+      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+      "filePath": "bleepingcomp/pages/2026/06/15/council-of-europe-investigates-shinyhunters-data-breach-claims.md",
+      "committedAt": "2026-06-16T12:00:29.521+05:30",
+      "title": "Council of Europe investigates ShinyHunters data breach claims"
     }
   ]
 }

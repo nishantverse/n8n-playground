@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T12:00:29.521+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-  "lastId": "rt9n2r0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/15/council-of-europe-investigates-shinyhunters-data-breach-claims.md",
+  "updatedAt": "2026-06-17T00:00:24.204+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+  "lastId": "ri4l830000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/16/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "rt9n2r0000",
-      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-      "filePath": "bleepingcomp/pages/2026/06/15/council-of-europe-investigates-shinyhunters-data-breach-claims.md",
-      "committedAt": "2026-06-16T12:00:29.521+05:30",
-      "title": "Council of Europe investigates ShinyHunters data breach claims"
+      "id": "ri4l830000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/16/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks.md",
+      "committedAt": "2026-06-17T00:00:24.204+05:30",
+      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks"
     }
   ]
 }

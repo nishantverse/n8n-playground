@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T00:00:24.204+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-  "lastId": "ri4l830000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/16/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks.md",
+  "updatedAt": "2026-06-17T12:00:29.358+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+  "lastId": "64ll6a0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/16/irhythm-discloses-data-breach-says-hackers-stole-patient-info.md",
   "items": [
     {
-      "id": "ri4l830000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/16/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks.md",
-      "committedAt": "2026-06-17T00:00:24.204+05:30",
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks"
+      "id": "64ll6a0000",
+      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "filePath": "bleepingcomp/pages/2026/06/16/irhythm-discloses-data-breach-says-hackers-stole-patient-info.md",
+      "committedAt": "2026-06-17T12:00:29.358+05:30",
+      "title": "iRhythm discloses data breach, says hackers stole patient info"
     }
   ]
 }

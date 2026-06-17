@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T12:00:29.358+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-  "lastId": "64ll6a0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/16/irhythm-discloses-data-breach-says-hackers-stole-patient-info.md",
+  "updatedAt": "2026-06-18T00:00:22.240+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+  "lastId": "ci4xox0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/17/microsoft-working-on-defender-patch-for-rogueplanet-zero-day.md",
   "items": [
     {
-      "id": "64ll6a0000",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "filePath": "bleepingcomp/pages/2026/06/16/irhythm-discloses-data-breach-says-hackers-stole-patient-info.md",
-      "committedAt": "2026-06-17T12:00:29.358+05:30",
-      "title": "iRhythm discloses data breach, says hackers stole patient info"
+      "id": "ci4xox0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+      "filePath": "bleepingcomp/pages/2026/06/17/microsoft-working-on-defender-patch-for-rogueplanet-zero-day.md",
+      "committedAt": "2026-06-18T00:00:22.240+05:30",
+      "title": "Microsoft working on Defender patch for RoguePlanet zero-day"
     }
   ]
 }

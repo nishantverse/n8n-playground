@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T00:00:22.240+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-  "lastId": "ci4xox0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/17/microsoft-working-on-defender-patch-for-rogueplanet-zero-day.md",
+  "updatedAt": "2026-06-18T12:00:28.828+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+  "lastId": "127v7ni000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/17/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang.md",
   "items": [
     {
-      "id": "ci4xox0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "filePath": "bleepingcomp/pages/2026/06/17/microsoft-working-on-defender-patch-for-rogueplanet-zero-day.md",
-      "committedAt": "2026-06-18T00:00:22.240+05:30",
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day"
+      "id": "127v7ni000",
+      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "filePath": "bleepingcomp/pages/2026/06/17/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang.md",
+      "committedAt": "2026-06-18T12:00:28.828+05:30",
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang"
     }
   ]
 }

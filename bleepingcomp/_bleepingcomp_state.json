@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T00:00:22.428+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-  "lastId": "1lb37v7000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/18/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities.md",
+  "updatedAt": "2026-06-19T12:00:29.304+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+  "lastId": "8r25jn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/18/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks.md",
   "items": [
     {
-      "id": "1lb37v7000",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "filePath": "bleepingcomp/pages/2026/06/18/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities.md",
-      "committedAt": "2026-06-19T00:00:22.428+05:30",
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities"
+      "id": "8r25jn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/18/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks.md",
+      "committedAt": "2026-06-19T12:00:29.304+05:30",
+      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks"
     }
   ]
 }

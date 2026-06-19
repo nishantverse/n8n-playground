@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T12:00:29.304+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-  "lastId": "8r25jn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/18/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks.md",
+  "updatedAt": "2026-06-20T00:00:22.071+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+  "lastId": "9alroq0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/19/texas-govt-data-breach-exposes-over-3-million-drivers-licenses.md",
   "items": [
     {
-      "id": "8r25jn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/18/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks.md",
-      "committedAt": "2026-06-19T12:00:29.304+05:30",
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks"
+      "id": "9alroq0000",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "filePath": "bleepingcomp/pages/2026/06/19/texas-govt-data-breach-exposes-over-3-million-drivers-licenses.md",
+      "committedAt": "2026-06-20T00:00:22.071+05:30",
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-20T12:00:31.335+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-  "lastId": "wz8bzc0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/19/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday.md",
+  "updatedAt": "2026-06-21T00:00:44.113+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+  "lastId": "16atj9a000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/20/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption.md",
   "items": [
     {
-      "id": "wz8bzc0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-      "filePath": "bleepingcomp/pages/2026/06/19/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday.md",
-      "committedAt": "2026-06-20T12:00:31.335+05:30",
-      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday"
+      "id": "16atj9a000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "filePath": "bleepingcomp/pages/2026/06/20/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption.md",
+      "committedAt": "2026-06-21T00:00:44.113+05:30",
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption"
     }
   ]
 }

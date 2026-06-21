@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T12:01:52.704+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-  "lastId": "1uw8eda000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/20/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers.md",
+  "updatedAt": "2026-06-22T00:00:38.238+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+  "lastId": "k0k5n70000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/21/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide.md",
   "items": [
     {
-      "id": "1uw8eda000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "filePath": "bleepingcomp/pages/2026/06/20/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers.md",
-      "committedAt": "2026-06-21T12:01:52.704+05:30",
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers"
+      "id": "k0k5n70000",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "filePath": "bleepingcomp/pages/2026/06/21/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide.md",
+      "committedAt": "2026-06-22T00:00:38.238+05:30",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide"
     }
   ]
 }

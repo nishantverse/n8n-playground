@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T00:00:44.113+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-  "lastId": "16atj9a000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/20/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption.md",
+  "updatedAt": "2026-06-21T12:01:52.704+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+  "lastId": "1uw8eda000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/20/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers.md",
   "items": [
     {
-      "id": "16atj9a000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "filePath": "bleepingcomp/pages/2026/06/20/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption.md",
-      "committedAt": "2026-06-21T00:00:44.113+05:30",
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption"
+      "id": "1uw8eda000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "filePath": "bleepingcomp/pages/2026/06/20/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers.md",
+      "committedAt": "2026-06-21T12:01:52.704+05:30",
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers"
     }
   ]
 }

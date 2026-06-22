@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-22T12:00:57.359+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-  "lastId": "uzqzj20000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/19/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack.md",
+  "updatedAt": "2026-06-23T00:01:05.965+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+  "lastId": "1oeqheb000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/19/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin.md",
   "items": [
     {
-      "id": "uzqzj20000",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "filePath": "bleepingcomp/pages/2026/06/19/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack.md",
-      "committedAt": "2026-06-22T12:00:57.359+05:30",
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack"
+      "id": "1oeqheb000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+      "filePath": "bleepingcomp/pages/2026/06/19/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin.md",
+      "committedAt": "2026-06-23T00:01:05.965+05:30",
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin"
     }
   ]
 }

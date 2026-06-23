@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T00:01:05.965+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-  "lastId": "1oeqheb000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/19/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin.md",
+  "updatedAt": "2026-06-23T12:00:28.877+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+  "lastId": "2gdvgz0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/22/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs.md",
   "items": [
     {
-      "id": "1oeqheb000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "filePath": "bleepingcomp/pages/2026/06/19/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin.md",
-      "committedAt": "2026-06-23T00:01:05.965+05:30",
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin"
+      "id": "2gdvgz0000",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "filePath": "bleepingcomp/pages/2026/06/22/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs.md",
+      "committedAt": "2026-06-23T12:00:28.877+05:30",
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T12:00:28.877+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-  "lastId": "2gdvgz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/22/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs.md",
+  "updatedAt": "2026-06-24T00:00:24.928+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+  "lastId": "19k9a9q000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/23/lastpass-confirms-data-breach-in-klue-supply-chain-attack.md",
   "items": [
     {
-      "id": "2gdvgz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-      "filePath": "bleepingcomp/pages/2026/06/22/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs.md",
-      "committedAt": "2026-06-23T12:00:28.877+05:30",
-      "title": "WhatsApp phishing attack uses fake business docs to hack PCs"
+      "id": "19k9a9q000",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "filePath": "bleepingcomp/pages/2026/06/23/lastpass-confirms-data-breach-in-klue-supply-chain-attack.md",
+      "committedAt": "2026-06-24T00:00:24.928+05:30",
+      "title": "LastPass confirms data breach in Klue supply chain attack"
     }
   ]
 }

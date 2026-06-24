@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T00:00:24.928+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
-  "lastId": "19k9a9q000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/23/lastpass-confirms-data-breach-in-klue-supply-chain-attack.md",
+  "updatedAt": "2026-06-24T12:00:33.182+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+  "lastId": "i7qxuw0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/23/cisco-unified-cm-flaw-cve-2026-20230-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "19k9a9q000",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
-      "filePath": "bleepingcomp/pages/2026/06/23/lastpass-confirms-data-breach-in-klue-supply-chain-attack.md",
-      "committedAt": "2026-06-24T00:00:24.928+05:30",
-      "title": "LastPass confirms data breach in Klue supply chain attack"
+      "id": "i7qxuw0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/23/cisco-unified-cm-flaw-cve-2026-20230-now-exploited-in-attacks.md",
+      "committedAt": "2026-06-24T12:00:33.182+05:30",
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks"
     }
   ]
 }

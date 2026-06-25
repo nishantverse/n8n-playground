@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T00:00:39.755+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-  "lastId": "2mkqrh0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/23/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people.md",
+  "updatedAt": "2026-06-25T12:00:34.435+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+  "lastId": "19d2bzn000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/24/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access.md",
   "items": [
     {
-      "id": "2mkqrh0000",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-      "filePath": "bleepingcomp/pages/2026/06/23/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people.md",
-      "committedAt": "2026-06-25T00:00:39.755+05:30",
-      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people"
+      "id": "19d2bzn000",
+      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+      "filePath": "bleepingcomp/pages/2026/06/24/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access.md",
+      "committedAt": "2026-06-25T12:00:34.435+05:30",
+      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access"
     }
   ]
 }

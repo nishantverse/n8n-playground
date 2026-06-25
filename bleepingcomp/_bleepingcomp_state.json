@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T12:00:34.435+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-  "lastId": "19d2bzn000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/24/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access.md",
+  "updatedAt": "2026-06-26T00:00:28.318+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+  "lastId": "mx8jlq0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/25/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools.md",
   "items": [
     {
-      "id": "19d2bzn000",
-      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "filePath": "bleepingcomp/pages/2026/06/24/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access.md",
-      "committedAt": "2026-06-25T12:00:34.435+05:30",
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access"
+      "id": "mx8jlq0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+      "filePath": "bleepingcomp/pages/2026/06/25/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools.md",
+      "committedAt": "2026-06-26T00:00:28.318+05:30",
+      "title": "New macOS malware embeds fake errors to confuse AI analysis tools"
     }
   ]
 }

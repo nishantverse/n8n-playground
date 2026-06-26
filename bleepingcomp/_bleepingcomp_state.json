@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T12:00:22.166+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-  "lastId": "1avutj2000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/25/order-tracking-app-shop-abused-to-push-callback-phishing-attacks.md",
+  "updatedAt": "2026-06-27T00:00:34.217+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+  "lastId": "11saqk3000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/25/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft.md",
   "items": [
     {
-      "id": "1avutj2000",
-      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/25/order-tracking-app-shop-abused-to-push-callback-phishing-attacks.md",
-      "committedAt": "2026-06-26T12:00:22.166+05:30",
-      "title": "Order-tracking app Shop abused to push callback phishing attacks"
+      "id": "11saqk3000",
+      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+      "filePath": "bleepingcomp/pages/2026/06/25/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft.md",
+      "committedAt": "2026-06-27T00:00:34.217+05:30",
+      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T00:00:28.318+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-  "lastId": "mx8jlq0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/25/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools.md",
+  "updatedAt": "2026-06-26T12:00:22.166+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+  "lastId": "1avutj2000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/25/order-tracking-app-shop-abused-to-push-callback-phishing-attacks.md",
   "items": [
     {
-      "id": "mx8jlq0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-      "filePath": "bleepingcomp/pages/2026/06/25/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools.md",
-      "committedAt": "2026-06-26T00:00:28.318+05:30",
-      "title": "New macOS malware embeds fake errors to confuse AI analysis tools"
+      "id": "1avutj2000",
+      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/25/order-tracking-app-shop-abused-to-push-callback-phishing-attacks.md",
+      "committedAt": "2026-06-26T12:00:22.166+05:30",
+      "title": "Order-tracking app Shop abused to push callback phishing attacks"
     }
   ]
 }

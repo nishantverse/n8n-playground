@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T12:00:29.160+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-  "lastId": "mm4gqm0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/26/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks.md",
+  "updatedAt": "2026-06-28T00:00:28.635+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+  "lastId": "1rrybhv000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/27/clean-github-repo-tricks-ai-coding-agents-into-running-malware.md",
   "items": [
     {
-      "id": "mm4gqm0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/06/26/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks.md",
-      "committedAt": "2026-06-27T12:00:29.160+05:30",
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks"
+      "id": "1rrybhv000",
+      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+      "filePath": "bleepingcomp/pages/2026/06/27/clean-github-repo-tricks-ai-coding-agents-into-running-malware.md",
+      "committedAt": "2026-06-28T00:00:28.635+05:30",
+      "title": "Clean GitHub repo tricks AI coding agents into running malware"
     }
   ]
 }

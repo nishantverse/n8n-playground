@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T00:00:34.217+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-  "lastId": "11saqk3000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/25/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft.md",
+  "updatedAt": "2026-06-27T12:00:29.160+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+  "lastId": "mm4gqm0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/26/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks.md",
   "items": [
     {
-      "id": "11saqk3000",
-      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-      "filePath": "bleepingcomp/pages/2026/06/25/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft.md",
-      "committedAt": "2026-06-27T00:00:34.217+05:30",
-      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft"
+      "id": "mm4gqm0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/26/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks.md",
+      "committedAt": "2026-06-27T12:00:29.160+05:30",
+      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks"
     }
   ]
 }

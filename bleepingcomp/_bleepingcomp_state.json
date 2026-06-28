@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T12:00:57.040+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-  "lastId": "giv96s0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/26/fbi-russian-hackers-now-target-signal-backup-recovery-keys.md",
+  "updatedAt": "2026-06-29T00:00:22.017+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+  "lastId": "gbh9j10000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/28/data-breach-exposes-up-to-142-million-email-logins-at-six-isps.md",
   "items": [
     {
-      "id": "giv96s0000",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "filePath": "bleepingcomp/pages/2026/06/26/fbi-russian-hackers-now-target-signal-backup-recovery-keys.md",
-      "committedAt": "2026-06-28T12:00:57.040+05:30",
-      "title": "FBI: Russian hackers now target Signal backup recovery keys"
+      "id": "gbh9j10000",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "filePath": "bleepingcomp/pages/2026/06/28/data-breach-exposes-up-to-142-million-email-logins-at-six-isps.md",
+      "committedAt": "2026-06-29T00:00:22.017+05:30",
+      "title": "Data breach exposes up to 14.2 million email logins at six ISPs"
     }
   ]
 }

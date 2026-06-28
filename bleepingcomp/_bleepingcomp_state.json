@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T00:00:28.635+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-  "lastId": "1rrybhv000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/27/clean-github-repo-tricks-ai-coding-agents-into-running-malware.md",
+  "updatedAt": "2026-06-28T12:00:57.040+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+  "lastId": "giv96s0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/26/fbi-russian-hackers-now-target-signal-backup-recovery-keys.md",
   "items": [
     {
-      "id": "1rrybhv000",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "filePath": "bleepingcomp/pages/2026/06/27/clean-github-repo-tricks-ai-coding-agents-into-running-malware.md",
-      "committedAt": "2026-06-28T00:00:28.635+05:30",
-      "title": "Clean GitHub repo tricks AI coding agents into running malware"
+      "id": "giv96s0000",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "filePath": "bleepingcomp/pages/2026/06/26/fbi-russian-hackers-now-target-signal-backup-recovery-keys.md",
+      "committedAt": "2026-06-28T12:00:57.040+05:30",
+      "title": "FBI: Russian hackers now target Signal backup recovery keys"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T00:00:22.017+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-  "lastId": "gbh9j10000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/28/data-breach-exposes-up-to-142-million-email-logins-at-six-isps.md",
+  "updatedAt": "2026-06-29T12:01:09.680+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+  "lastId": "1cydygn000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/26/polymarket-customers-lose-3-million-in-supply-chain-attack.md",
   "items": [
     {
-      "id": "gbh9j10000",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "filePath": "bleepingcomp/pages/2026/06/28/data-breach-exposes-up-to-142-million-email-logins-at-six-isps.md",
-      "committedAt": "2026-06-29T00:00:22.017+05:30",
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs"
+      "id": "1cydygn000",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+      "filePath": "bleepingcomp/pages/2026/06/26/polymarket-customers-lose-3-million-in-supply-chain-attack.md",
+      "committedAt": "2026-06-29T12:01:09.680+05:30",
+      "title": "Polymarket customers lose $3 million in supply-chain attack"
     }
   ]
 }

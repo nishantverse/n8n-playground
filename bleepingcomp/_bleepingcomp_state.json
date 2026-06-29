@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T12:01:09.680+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-  "lastId": "1cydygn000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/26/polymarket-customers-lose-3-million-in-supply-chain-attack.md",
+  "updatedAt": "2026-06-30T00:00:27.490+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+  "lastId": "nexf4n0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/29/critical-simplehelp-flaw-exploited-to-deploy-new-stealer-malware.md",
   "items": [
     {
-      "id": "1cydygn000",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "filePath": "bleepingcomp/pages/2026/06/26/polymarket-customers-lose-3-million-in-supply-chain-attack.md",
-      "committedAt": "2026-06-29T12:01:09.680+05:30",
-      "title": "Polymarket customers lose $3 million in supply-chain attack"
+      "id": "nexf4n0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "filePath": "bleepingcomp/pages/2026/06/29/critical-simplehelp-flaw-exploited-to-deploy-new-stealer-malware.md",
+      "committedAt": "2026-06-30T00:00:27.490+05:30",
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T00:00:27.490+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-  "lastId": "nexf4n0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/29/critical-simplehelp-flaw-exploited-to-deploy-new-stealer-malware.md",
+  "updatedAt": "2026-06-30T12:00:22.233+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+  "lastId": "yhfohf0000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/29/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks.md",
   "items": [
     {
-      "id": "nexf4n0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-      "filePath": "bleepingcomp/pages/2026/06/29/critical-simplehelp-flaw-exploited-to-deploy-new-stealer-malware.md",
-      "committedAt": "2026-06-30T00:00:27.490+05:30",
-      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware"
+      "id": "yhfohf0000",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/06/29/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks.md",
+      "committedAt": "2026-06-30T12:00:22.233+05:30",
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks"
     }
   ]
 }

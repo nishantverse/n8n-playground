@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T00:00:46.665+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-  "lastId": "wyv0ny0000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/30/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack.md",
+  "updatedAt": "2026-07-01T12:00:34.508+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+  "lastId": "1uiel5w000",
+  "lastFilePath": "bleepingcomp/pages/2026/06/30/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs.md",
   "items": [
     {
-      "id": "wyv0ny0000",
-      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-      "filePath": "bleepingcomp/pages/2026/06/30/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack.md",
-      "committedAt": "2026-07-01T00:00:46.665+05:30",
-      "title": "Insurance giant Aflac discloses data breach after subsidiary hack"
+      "id": "1uiel5w000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "filePath": "bleepingcomp/pages/2026/06/30/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs.md",
+      "committedAt": "2026-07-01T12:00:34.508+05:30",
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs"
     }
   ]
 }

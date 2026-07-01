@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T12:00:34.508+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-  "lastId": "1uiel5w000",
-  "lastFilePath": "bleepingcomp/pages/2026/06/30/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs.md",
+  "updatedAt": "2026-07-02T00:00:22.241+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+  "lastId": "1inv0im000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/01/dhs-confirms-hackers-breached-hsin-info-sharing-platform.md",
   "items": [
     {
-      "id": "1uiel5w000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-      "filePath": "bleepingcomp/pages/2026/06/30/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs.md",
-      "committedAt": "2026-07-01T12:00:34.508+05:30",
-      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs"
+      "id": "1inv0im000",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "filePath": "bleepingcomp/pages/2026/07/01/dhs-confirms-hackers-breached-hsin-info-sharing-platform.md",
+      "committedAt": "2026-07-02T00:00:22.241+05:30",
+      "title": "DHS confirms hackers breached HSIN info-sharing platform"
     }
   ]
 }

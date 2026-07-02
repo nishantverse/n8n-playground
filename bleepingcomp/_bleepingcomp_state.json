@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T12:00:22.940+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-  "lastId": "14bti66000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/01/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits.md",
+  "updatedAt": "2026-07-03T00:00:31.009+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+  "lastId": "o7j9ah0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/02/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited.md",
   "items": [
     {
-      "id": "14bti66000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-      "filePath": "bleepingcomp/pages/2026/07/01/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits.md",
-      "committedAt": "2026-07-02T12:00:22.940+05:30",
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits"
+      "id": "o7j9ah0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "filePath": "bleepingcomp/pages/2026/07/02/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited.md",
+      "committedAt": "2026-07-03T00:00:31.009+05:30",
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited"
     }
   ]
 }

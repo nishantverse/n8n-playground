@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T12:00:35.147+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-  "lastId": "1kij8s3000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/02/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach.md",
+  "updatedAt": "2026-07-04T00:00:48.932+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+  "lastId": "1e68dqs000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/03/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit.md",
   "items": [
     {
-      "id": "1kij8s3000",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-      "filePath": "bleepingcomp/pages/2026/07/02/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach.md",
-      "committedAt": "2026-07-03T12:00:35.147+05:30",
-      "title": "Medtronic notifies customers impacted by ShinyHunters data breach"
+      "id": "1e68dqs000",
+      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+      "filePath": "bleepingcomp/pages/2026/07/03/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit.md",
+      "committedAt": "2026-07-04T00:00:48.932+05:30",
+      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit"
     }
   ]
 }

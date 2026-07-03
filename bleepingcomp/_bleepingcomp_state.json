@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T00:00:31.009+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-  "lastId": "o7j9ah0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/02/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited.md",
+  "updatedAt": "2026-07-03T12:00:35.147+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+  "lastId": "1kij8s3000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/02/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach.md",
   "items": [
     {
-      "id": "o7j9ah0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-      "filePath": "bleepingcomp/pages/2026/07/02/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited.md",
-      "committedAt": "2026-07-03T00:00:31.009+05:30",
-      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited"
+      "id": "1kij8s3000",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "filePath": "bleepingcomp/pages/2026/07/02/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach.md",
+      "committedAt": "2026-07-03T12:00:35.147+05:30",
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach"
     }
   ]
 }

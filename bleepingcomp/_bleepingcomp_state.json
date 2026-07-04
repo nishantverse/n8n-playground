@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T00:00:48.932+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-  "lastId": "1e68dqs000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/03/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit.md",
+  "updatedAt": "2026-07-04T12:00:51.333+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+  "lastId": "g5rr030000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/02/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw.md",
   "items": [
     {
-      "id": "1e68dqs000",
-      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "filePath": "bleepingcomp/pages/2026/07/03/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit.md",
-      "committedAt": "2026-07-04T00:00:48.932+05:30",
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit"
+      "id": "g5rr030000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "filePath": "bleepingcomp/pages/2026/07/02/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw.md",
+      "committedAt": "2026-07-04T12:00:51.333+05:30",
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T12:00:51.333+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-  "lastId": "g5rr030000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/02/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw.md",
+  "updatedAt": "2026-07-05T00:00:40.971+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+  "lastId": "10qwozi000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/04/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack.md",
   "items": [
     {
-      "id": "g5rr030000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "filePath": "bleepingcomp/pages/2026/07/02/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw.md",
-      "committedAt": "2026-07-04T12:00:51.333+05:30",
-      "title": "Cisco finally confirms attackers exploiting Unified CM flaw"
+      "id": "10qwozi000",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "filePath": "bleepingcomp/pages/2026/07/04/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack.md",
+      "committedAt": "2026-07-05T00:00:40.971+05:30",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T12:00:55.733+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-  "lastId": "fzpese0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/01/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware.md",
+  "updatedAt": "2026-07-06T00:01:07.901+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+  "lastId": "49gcqb0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/05/flipper-zero-firmware-development-continues-with-community-help.md",
   "items": [
     {
-      "id": "fzpese0000",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-      "filePath": "bleepingcomp/pages/2026/07/01/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware.md",
-      "committedAt": "2026-07-05T12:00:55.733+05:30",
-      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware"
+      "id": "49gcqb0000",
+      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+      "filePath": "bleepingcomp/pages/2026/07/05/flipper-zero-firmware-development-continues-with-community-help.md",
+      "committedAt": "2026-07-06T00:01:07.901+05:30",
+      "title": "Flipper Zero firmware development continues with community help"
     }
   ]
 }

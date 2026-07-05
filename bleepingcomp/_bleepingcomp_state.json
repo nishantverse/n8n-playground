@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T00:00:40.971+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-  "lastId": "10qwozi000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/04/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack.md",
+  "updatedAt": "2026-07-05T12:00:55.733+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+  "lastId": "fzpese0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/01/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware.md",
   "items": [
     {
-      "id": "10qwozi000",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "filePath": "bleepingcomp/pages/2026/07/04/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack.md",
-      "committedAt": "2026-07-05T00:00:40.971+05:30",
-      "title": "JadePuffer ransomware used AI agent to automate entire attack"
+      "id": "fzpese0000",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "filePath": "bleepingcomp/pages/2026/07/01/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware.md",
+      "committedAt": "2026-07-05T12:00:55.733+05:30",
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware"
     }
   ]
 }

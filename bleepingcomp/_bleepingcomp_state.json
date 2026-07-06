@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T12:01:11.946+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-  "lastId": "m6lu730000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/03/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off.md",
+  "updatedAt": "2026-07-07T00:00:33.520+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+  "lastId": "1mw5wqm000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/06/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks.md",
   "items": [
     {
-      "id": "m6lu730000",
-      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "filePath": "bleepingcomp/pages/2026/07/03/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off.md",
-      "committedAt": "2026-07-06T12:01:11.946+05:30",
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off"
+      "id": "1mw5wqm000",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/07/06/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks.md",
+      "committedAt": "2026-07-07T00:00:33.520+05:30",
+      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks"
     }
   ]
 }

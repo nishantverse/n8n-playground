@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T00:01:07.901+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-  "lastId": "49gcqb0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/05/flipper-zero-firmware-development-continues-with-community-help.md",
+  "updatedAt": "2026-07-06T12:01:11.946+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+  "lastId": "m6lu730000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/03/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off.md",
   "items": [
     {
-      "id": "49gcqb0000",
-      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-      "filePath": "bleepingcomp/pages/2026/07/05/flipper-zero-firmware-development-continues-with-community-help.md",
-      "committedAt": "2026-07-06T00:01:07.901+05:30",
-      "title": "Flipper Zero firmware development continues with community help"
+      "id": "m6lu730000",
+      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "filePath": "bleepingcomp/pages/2026/07/03/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off.md",
+      "committedAt": "2026-07-06T12:01:11.946+05:30",
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off"
     }
   ]
 }

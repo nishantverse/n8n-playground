@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T00:00:33.520+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-  "lastId": "1mw5wqm000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/06/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks.md",
+  "updatedAt": "2026-07-07T12:00:22.278+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+  "lastId": "17k1to3000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/06/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts.md",
   "items": [
     {
-      "id": "1mw5wqm000",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/07/06/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks.md",
-      "committedAt": "2026-07-07T00:00:33.520+05:30",
-      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks"
+      "id": "17k1to3000",
+      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+      "filePath": "bleepingcomp/pages/2026/07/06/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts.md",
+      "committedAt": "2026-07-07T12:00:22.278+05:30",
+      "title": "Phishing poses as big-brand job interview to steal Google accounts"
     }
   ]
 }

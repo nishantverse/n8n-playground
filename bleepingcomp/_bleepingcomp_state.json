@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T12:00:22.278+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-  "lastId": "17k1to3000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/06/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts.md",
+  "updatedAt": "2026-07-08T00:00:22.300+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+  "lastId": "1tnog7y000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/07/beyondtrust-warns-of-critical-flaws-in-remote-access-software.md",
   "items": [
     {
-      "id": "17k1to3000",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-      "filePath": "bleepingcomp/pages/2026/07/06/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts.md",
-      "committedAt": "2026-07-07T12:00:22.278+05:30",
-      "title": "Phishing poses as big-brand job interview to steal Google accounts"
+      "id": "1tnog7y000",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+      "filePath": "bleepingcomp/pages/2026/07/07/beyondtrust-warns-of-critical-flaws-in-remote-access-software.md",
+      "committedAt": "2026-07-08T00:00:22.300+05:30",
+      "title": "BeyondTrust warns of critical flaws in remote access software"
     }
   ]
 }

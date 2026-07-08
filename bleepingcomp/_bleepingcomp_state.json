@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T00:00:22.300+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-  "lastId": "1tnog7y000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/07/beyondtrust-warns-of-critical-flaws-in-remote-access-software.md",
+  "updatedAt": "2026-07-08T12:00:22.204+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+  "lastId": "1vru5v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/07/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale.md",
   "items": [
     {
-      "id": "1tnog7y000",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "filePath": "bleepingcomp/pages/2026/07/07/beyondtrust-warns-of-critical-flaws-in-remote-access-software.md",
-      "committedAt": "2026-07-08T00:00:22.300+05:30",
-      "title": "BeyondTrust warns of critical flaws in remote access software"
+      "id": "1vru5v0000",
+      "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+      "filePath": "bleepingcomp/pages/2026/07/07/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale.md",
+      "committedAt": "2026-07-08T12:00:22.204+05:30",
+      "title": "Accenture confirms breach after hacker offers stolen data for sale"
     }
   ]
 }

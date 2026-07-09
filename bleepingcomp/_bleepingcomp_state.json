@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T00:00:25.474+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-  "lastId": "1kqqzen000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/08/telco-giant-kddi-says-data-breach-affects-over-12-million-people.md",
+  "updatedAt": "2026-07-09T12:00:26.687+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+  "lastId": "1hgx0lt000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/09/microsoft-patches-rogueplanet-defender-zero-day-vulnerability.md",
   "items": [
     {
-      "id": "1kqqzen000",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-      "filePath": "bleepingcomp/pages/2026/07/08/telco-giant-kddi-says-data-breach-affects-over-12-million-people.md",
-      "committedAt": "2026-07-09T00:00:25.474+05:30",
-      "title": "Telco giant KDDI says data breach affects over 12 million people"
+      "id": "1hgx0lt000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "filePath": "bleepingcomp/pages/2026/07/09/microsoft-patches-rogueplanet-defender-zero-day-vulnerability.md",
+      "committedAt": "2026-07-09T12:00:26.687+05:30",
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T12:00:26.687+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-  "lastId": "1hgx0lt000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/09/microsoft-patches-rogueplanet-defender-zero-day-vulnerability.md",
+  "updatedAt": "2026-07-10T00:00:35.358+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
+  "lastId": "8c2ndc0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/09/assuranceamerica-data-breach-exposes-records-of-69-million-drivers.md",
   "items": [
     {
-      "id": "1hgx0lt000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "filePath": "bleepingcomp/pages/2026/07/09/microsoft-patches-rogueplanet-defender-zero-day-vulnerability.md",
-      "committedAt": "2026-07-09T12:00:26.687+05:30",
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability"
+      "id": "8c2ndc0000",
+      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
+      "filePath": "bleepingcomp/pages/2026/07/09/assuranceamerica-data-breach-exposes-records-of-69-million-drivers.md",
+      "committedAt": "2026-07-10T00:00:35.358+05:30",
+      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers"
     }
   ]
 }

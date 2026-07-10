@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T12:00:40.210+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-  "lastId": "1hpa6nw000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/09/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws.md",
+  "updatedAt": "2026-07-11T00:00:30.233+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+  "lastId": "2c33xa0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/10/hackers-exploit-critical-auth-bypass-in-gitea-docker-image.md",
   "items": [
     {
-      "id": "1hpa6nw000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-      "filePath": "bleepingcomp/pages/2026/07/09/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws.md",
-      "committedAt": "2026-07-10T12:00:40.210+05:30",
-      "title": "Microsoft expects more Windows security updates from AI-discovered flaws"
+      "id": "2c33xa0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "filePath": "bleepingcomp/pages/2026/07/10/hackers-exploit-critical-auth-bypass-in-gitea-docker-image.md",
+      "committedAt": "2026-07-11T00:00:30.233+05:30",
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T00:00:35.358+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-  "lastId": "8c2ndc0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/09/assuranceamerica-data-breach-exposes-records-of-69-million-drivers.md",
+  "updatedAt": "2026-07-10T12:00:40.210+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+  "lastId": "1hpa6nw000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/09/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws.md",
   "items": [
     {
-      "id": "8c2ndc0000",
-      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "filePath": "bleepingcomp/pages/2026/07/09/assuranceamerica-data-breach-exposes-records-of-69-million-drivers.md",
-      "committedAt": "2026-07-10T00:00:35.358+05:30",
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers"
+      "id": "1hpa6nw000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+      "filePath": "bleepingcomp/pages/2026/07/09/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws.md",
+      "committedAt": "2026-07-10T12:00:40.210+05:30",
+      "title": "Microsoft expects more Windows security updates from AI-discovered flaws"
     }
   ]
 }

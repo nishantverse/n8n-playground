@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T00:00:30.233+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-  "lastId": "2c33xa0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/10/hackers-exploit-critical-auth-bypass-in-gitea-docker-image.md",
+  "updatedAt": "2026-07-11T12:00:29.278+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+  "lastId": "u1ynir0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/10/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw.md",
   "items": [
     {
-      "id": "2c33xa0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-      "filePath": "bleepingcomp/pages/2026/07/10/hackers-exploit-critical-auth-bypass-in-gitea-docker-image.md",
-      "committedAt": "2026-07-11T00:00:30.233+05:30",
-      "title": "Hackers exploit critical auth bypass in Gitea Docker image"
+      "id": "u1ynir0000",
+      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+      "filePath": "bleepingcomp/pages/2026/07/10/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw.md",
+      "committedAt": "2026-07-11T12:00:29.278+05:30",
+      "title": "Zimbra urges customers to patch critical web client XSS flaw"
     }
   ]
 }

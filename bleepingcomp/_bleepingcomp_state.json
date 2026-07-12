@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T12:00:42.964+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-  "lastId": "341v5q0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/10/police-suspects-dutch-hackers-were-involved-in-odido-breach.md",
+  "updatedAt": "2026-07-13T00:00:39.544+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+  "lastId": "t6dm7n0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/12/redhook-android-malware-now-uses-wireless-adb-for-shell-access.md",
   "items": [
     {
-      "id": "341v5q0000",
-      "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-      "filePath": "bleepingcomp/pages/2026/07/10/police-suspects-dutch-hackers-were-involved-in-odido-breach.md",
-      "committedAt": "2026-07-12T12:00:42.964+05:30",
-      "title": "Police suspects Dutch hackers were involved in Odido breach"
+      "id": "t6dm7n0000",
+      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "filePath": "bleepingcomp/pages/2026/07/12/redhook-android-malware-now-uses-wireless-adb-for-shell-access.md",
+      "committedAt": "2026-07-13T00:00:39.544+05:30",
+      "title": "RedHook Android malware now uses Wireless ADB for shell access"
     }
   ]
 }

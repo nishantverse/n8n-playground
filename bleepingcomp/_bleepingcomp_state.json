@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T12:01:06.712+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-  "lastId": "yd7iiv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/10/former-ransomware-negotiator-gets-4-years-for-blackcat-attacks.md",
+  "updatedAt": "2026-07-14T00:00:26.308+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+  "lastId": "1cowcer000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/13/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions.md",
   "items": [
     {
-      "id": "yd7iiv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "filePath": "bleepingcomp/pages/2026/07/10/former-ransomware-negotiator-gets-4-years-for-blackcat-attacks.md",
-      "committedAt": "2026-07-13T12:01:06.712+05:30",
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks"
+      "id": "1cowcer000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+      "filePath": "bleepingcomp/pages/2026/07/13/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions.md",
+      "committedAt": "2026-07-14T00:00:26.308+05:30",
+      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions"
     }
   ]
 }

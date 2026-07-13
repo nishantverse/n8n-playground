@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T00:00:39.544+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-  "lastId": "t6dm7n0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/12/redhook-android-malware-now-uses-wireless-adb-for-shell-access.md",
+  "updatedAt": "2026-07-13T12:01:06.712+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+  "lastId": "yd7iiv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/10/former-ransomware-negotiator-gets-4-years-for-blackcat-attacks.md",
   "items": [
     {
-      "id": "t6dm7n0000",
-      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "filePath": "bleepingcomp/pages/2026/07/12/redhook-android-malware-now-uses-wireless-adb-for-shell-access.md",
-      "committedAt": "2026-07-13T00:00:39.544+05:30",
-      "title": "RedHook Android malware now uses Wireless ADB for shell access"
+      "id": "yd7iiv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "filePath": "bleepingcomp/pages/2026/07/10/former-ransomware-negotiator-gets-4-years-for-blackcat-attacks.md",
+      "committedAt": "2026-07-13T12:01:06.712+05:30",
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks"
     }
   ]
 }

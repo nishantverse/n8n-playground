@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T00:00:26.308+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-  "lastId": "1cowcer000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/13/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions.md",
+  "updatedAt": "2026-07-14T12:00:31.048+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+  "lastId": "1evy4yb000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/13/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware.md",
   "items": [
     {
-      "id": "1cowcer000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "filePath": "bleepingcomp/pages/2026/07/13/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions.md",
-      "committedAt": "2026-07-14T00:00:26.308+05:30",
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions"
+      "id": "1evy4yb000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+      "filePath": "bleepingcomp/pages/2026/07/13/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware.md",
+      "committedAt": "2026-07-14T12:00:31.048+05:30",
+      "title": "Hackers backdoor Jscrambler npm package with infostealer malware"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T12:00:31.048+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-  "lastId": "1evy4yb000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/13/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware.md",
+  "updatedAt": "2026-07-15T00:00:22.153+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+  "lastId": "9twank0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/14/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days.md",
   "items": [
     {
-      "id": "1evy4yb000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "filePath": "bleepingcomp/pages/2026/07/13/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware.md",
-      "committedAt": "2026-07-14T12:00:31.048+05:30",
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware"
+      "id": "9twank0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+      "filePath": "bleepingcomp/pages/2026/07/14/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days.md",
+      "committedAt": "2026-07-15T00:00:22.153+05:30",
+      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days"
     }
   ]
 }

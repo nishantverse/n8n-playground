@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T00:00:29.108+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-  "lastId": "1j0f3oo000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/15/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out.md",
+  "updatedAt": "2026-07-16T12:00:28.688+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+  "lastId": "1lokgla000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/15/zoom-warns-of-critical-account-takeover-vulnerability.md",
   "items": [
     {
-      "id": "1j0f3oo000",
-      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "filePath": "bleepingcomp/pages/2026/07/15/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out.md",
-      "committedAt": "2026-07-16T00:00:29.108+05:30",
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out"
+      "id": "1lokgla000",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "filePath": "bleepingcomp/pages/2026/07/15/zoom-warns-of-critical-account-takeover-vulnerability.md",
+      "committedAt": "2026-07-16T12:00:28.688+05:30",
+      "title": "Zoom warns of critical account takeover vulnerability"
     }
   ]
 }

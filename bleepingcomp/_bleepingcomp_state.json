@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T00:00:22.539+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-  "lastId": "q0bcoq0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/16/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement.md",
+  "updatedAt": "2026-07-17T12:00:32.837+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+  "lastId": "1fyus1q000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/16/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday.md",
   "items": [
     {
-      "id": "q0bcoq0000",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "filePath": "bleepingcomp/pages/2026/07/16/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement.md",
-      "committedAt": "2026-07-17T00:00:22.539+05:30",
-      "title": "23andMe to pay $18 million in new genetics data breach settlement"
+      "id": "1fyus1q000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+      "filePath": "bleepingcomp/pages/2026/07/16/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday.md",
+      "committedAt": "2026-07-17T12:00:32.837+05:30",
+      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday"
     }
   ]
 }

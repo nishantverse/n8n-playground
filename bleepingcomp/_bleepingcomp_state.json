@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T12:00:32.837+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-  "lastId": "1fyus1q000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/16/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday.md",
+  "updatedAt": "2026-07-18T00:00:22.418+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+  "lastId": "v2b5ge0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/17/ernst-young-discloses-data-breach-after-support-system-hack.md",
   "items": [
     {
-      "id": "1fyus1q000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "filePath": "bleepingcomp/pages/2026/07/16/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday.md",
-      "committedAt": "2026-07-17T12:00:32.837+05:30",
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday"
+      "id": "v2b5ge0000",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "filePath": "bleepingcomp/pages/2026/07/17/ernst-young-discloses-data-breach-after-support-system-hack.md",
+      "committedAt": "2026-07-18T00:00:22.418+05:30",
+      "title": "Ernst & Young discloses data breach after support system hack"
     }
   ]
 }

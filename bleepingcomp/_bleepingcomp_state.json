@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T12:00:35.609+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-  "lastId": "1t6bhir000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/17/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload.md",
+  "updatedAt": "2026-07-19T00:00:27.740+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+  "lastId": "vs2c730000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/18/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now.md",
   "items": [
     {
-      "id": "1t6bhir000",
-      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-      "filePath": "bleepingcomp/pages/2026/07/17/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload.md",
-      "committedAt": "2026-07-18T12:00:35.609+05:30",
-      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload"
+      "id": "vs2c730000",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+      "filePath": "bleepingcomp/pages/2026/07/18/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now.md",
+      "committedAt": "2026-07-19T00:00:27.740+05:30",
+      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now"
     }
   ]
 }

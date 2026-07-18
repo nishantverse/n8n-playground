@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T00:00:22.418+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-  "lastId": "v2b5ge0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/17/ernst-young-discloses-data-breach-after-support-system-hack.md",
+  "updatedAt": "2026-07-18T12:00:35.609+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+  "lastId": "1t6bhir000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/17/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload.md",
   "items": [
     {
-      "id": "v2b5ge0000",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "filePath": "bleepingcomp/pages/2026/07/17/ernst-young-discloses-data-breach-after-support-system-hack.md",
-      "committedAt": "2026-07-18T00:00:22.418+05:30",
-      "title": "Ernst & Young discloses data breach after support system hack"
+      "id": "1t6bhir000",
+      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "filePath": "bleepingcomp/pages/2026/07/17/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload.md",
+      "committedAt": "2026-07-18T12:00:35.609+05:30",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload"
     }
   ]
 }

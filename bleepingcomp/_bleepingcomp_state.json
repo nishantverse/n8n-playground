@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T00:00:27.740+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-  "lastId": "vs2c730000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/18/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now.md",
+  "updatedAt": "2026-07-19T12:00:22.724+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+  "lastId": "pz1s900000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/18/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives.md",
   "items": [
     {
-      "id": "vs2c730000",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-      "filePath": "bleepingcomp/pages/2026/07/18/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now.md",
-      "committedAt": "2026-07-19T00:00:27.740+05:30",
-      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now"
+      "id": "pz1s900000",
+      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "filePath": "bleepingcomp/pages/2026/07/18/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives.md",
+      "committedAt": "2026-07-19T12:00:22.724+05:30",
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives"
     }
   ]
 }

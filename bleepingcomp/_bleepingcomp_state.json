@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T12:00:22.724+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-  "lastId": "pz1s900000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/18/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives.md",
+  "updatedAt": "2026-07-20T00:00:51.576+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+  "lastId": "22x7g60000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/17/new-windows-legacyhive-zero-day-gives-hackers-admin-privileges.md",
   "items": [
     {
-      "id": "pz1s900000",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "filePath": "bleepingcomp/pages/2026/07/18/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives.md",
-      "committedAt": "2026-07-19T12:00:22.724+05:30",
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives"
+      "id": "22x7g60000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+      "filePath": "bleepingcomp/pages/2026/07/17/new-windows-legacyhive-zero-day-gives-hackers-admin-privileges.md",
+      "committedAt": "2026-07-20T00:00:51.576+05:30",
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges"
     }
   ]
 }

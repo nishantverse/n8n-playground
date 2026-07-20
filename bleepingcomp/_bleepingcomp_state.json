@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T00:00:51.576+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-  "lastId": "22x7g60000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/17/new-windows-legacyhive-zero-day-gives-hackers-admin-privileges.md",
+  "updatedAt": "2026-07-20T12:00:57.449+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+  "lastId": "lt3tqb0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/17/cisa-urges-immediate-action-on-actively-exploited-fortinet-flaws.md",
   "items": [
     {
-      "id": "22x7g60000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "filePath": "bleepingcomp/pages/2026/07/17/new-windows-legacyhive-zero-day-gives-hackers-admin-privileges.md",
-      "committedAt": "2026-07-20T00:00:51.576+05:30",
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges"
+      "id": "lt3tqb0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+      "filePath": "bleepingcomp/pages/2026/07/17/cisa-urges-immediate-action-on-actively-exploited-fortinet-flaws.md",
+      "committedAt": "2026-07-20T12:00:57.449+05:30",
+      "title": "CISA urges immediate action on actively exploited Fortinet flaws"
     }
   ]
 }

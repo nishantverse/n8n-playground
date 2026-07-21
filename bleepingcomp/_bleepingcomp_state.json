@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T12:00:22.345+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-  "lastId": "1au35w3000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/20/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware.md",
+  "updatedAt": "2026-07-22T00:00:22.545+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+  "lastId": "o67z290000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/21/critical-palo-alto-vpn-bug-now-exploited-by-qilin-ransomware-gang.md",
   "items": [
     {
-      "id": "1au35w3000",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-      "filePath": "bleepingcomp/pages/2026/07/20/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware.md",
-      "committedAt": "2026-07-21T12:00:22.345+05:30",
-      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware"
+      "id": "o67z290000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "filePath": "bleepingcomp/pages/2026/07/21/critical-palo-alto-vpn-bug-now-exploited-by-qilin-ransomware-gang.md",
+      "committedAt": "2026-07-22T00:00:22.545+05:30",
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang"
     }
   ]
 }

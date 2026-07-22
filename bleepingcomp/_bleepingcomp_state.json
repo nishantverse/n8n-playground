@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T12:00:27.366+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-  "lastId": "1cyxpdq000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/21/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys.md",
+  "updatedAt": "2026-07-23T00:00:32.476+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+  "lastId": "1awk81e000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/22/cisa-orders-urgent-action-on-actively-exploited-langflow-rce-flaw.md",
   "items": [
     {
-      "id": "1cyxpdq000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "filePath": "bleepingcomp/pages/2026/07/21/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys.md",
-      "committedAt": "2026-07-22T12:00:27.366+05:30",
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys"
+      "id": "1awk81e000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+      "filePath": "bleepingcomp/pages/2026/07/22/cisa-orders-urgent-action-on-actively-exploited-langflow-rce-flaw.md",
+      "committedAt": "2026-07-23T00:00:32.476+05:30",
+      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T00:00:22.545+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-  "lastId": "o67z290000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/21/critical-palo-alto-vpn-bug-now-exploited-by-qilin-ransomware-gang.md",
+  "updatedAt": "2026-07-22T12:00:27.366+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+  "lastId": "1cyxpdq000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/21/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys.md",
   "items": [
     {
-      "id": "o67z290000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "filePath": "bleepingcomp/pages/2026/07/21/critical-palo-alto-vpn-bug-now-exploited-by-qilin-ransomware-gang.md",
-      "committedAt": "2026-07-22T00:00:22.545+05:30",
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang"
+      "id": "1cyxpdq000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "filePath": "bleepingcomp/pages/2026/07/21/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys.md",
+      "committedAt": "2026-07-22T12:00:27.366+05:30",
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys"
     }
   ]
 }

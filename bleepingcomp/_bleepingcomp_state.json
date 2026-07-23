@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T00:00:32.476+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-  "lastId": "1awk81e000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/22/cisa-orders-urgent-action-on-actively-exploited-langflow-rce-flaw.md",
+  "updatedAt": "2026-07-23T12:00:31.411+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+  "lastId": "7934gj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/22/south-korea-discloses-data-breach-impacting-diplomats-worldwide.md",
   "items": [
     {
-      "id": "1awk81e000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "filePath": "bleepingcomp/pages/2026/07/22/cisa-orders-urgent-action-on-actively-exploited-langflow-rce-flaw.md",
-      "committedAt": "2026-07-23T00:00:32.476+05:30",
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw"
+      "id": "7934gj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+      "filePath": "bleepingcomp/pages/2026/07/22/south-korea-discloses-data-breach-impacting-diplomats-worldwide.md",
+      "committedAt": "2026-07-23T12:00:31.411+05:30",
+      "title": "South Korea discloses data breach impacting diplomats worldwide"
     }
   ]
 }

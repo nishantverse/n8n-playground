@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T12:00:31.411+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-  "lastId": "7934gj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/22/south-korea-discloses-data-breach-impacting-diplomats-worldwide.md",
+  "updatedAt": "2026-07-24T00:00:23.159+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+  "lastId": "1vtq4jf000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/23/check-point-warns-of-smartconsole-zero-day-exploited-in-attacks.md",
   "items": [
     {
-      "id": "7934gj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "filePath": "bleepingcomp/pages/2026/07/22/south-korea-discloses-data-breach-impacting-diplomats-worldwide.md",
-      "committedAt": "2026-07-23T12:00:31.411+05:30",
-      "title": "South Korea discloses data breach impacting diplomats worldwide"
+      "id": "1vtq4jf000",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/07/23/check-point-warns-of-smartconsole-zero-day-exploited-in-attacks.md",
+      "committedAt": "2026-07-24T00:00:23.159+05:30",
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T00:00:23.159+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-  "lastId": "1vtq4jf000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/23/check-point-warns-of-smartconsole-zero-day-exploited-in-attacks.md",
+  "updatedAt": "2026-07-24T12:00:22.114+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+  "lastId": "gv4hjn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/23/australian-energy-provider-origin-says-data-breach-exposes-client-data.md",
   "items": [
     {
-      "id": "1vtq4jf000",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/07/23/check-point-warns-of-smartconsole-zero-day-exploited-in-attacks.md",
-      "committedAt": "2026-07-24T00:00:23.159+05:30",
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks"
+      "id": "gv4hjn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+      "filePath": "bleepingcomp/pages/2026/07/23/australian-energy-provider-origin-says-data-breach-exposes-client-data.md",
+      "committedAt": "2026-07-24T12:00:22.114+05:30",
+      "title": "Australian energy provider Origin says data breach exposes client data"
     }
   ]
 }

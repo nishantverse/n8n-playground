@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T12:00:22.114+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-  "lastId": "gv4hjn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/23/australian-energy-provider-origin-says-data-breach-exposes-client-data.md",
+  "updatedAt": "2026-07-25T00:00:26.799+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
+  "lastId": "wayjma0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/24/chick-fil-a-data-breach-affects-more-than-13000-customers.md",
   "items": [
     {
-      "id": "gv4hjn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "filePath": "bleepingcomp/pages/2026/07/23/australian-energy-provider-origin-says-data-breach-exposes-client-data.md",
-      "committedAt": "2026-07-24T12:00:22.114+05:30",
-      "title": "Australian energy provider Origin says data breach exposes client data"
+      "id": "wayjma0000",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
+      "filePath": "bleepingcomp/pages/2026/07/24/chick-fil-a-data-breach-affects-more-than-13000-customers.md",
+      "committedAt": "2026-07-25T00:00:26.799+05:30",
+      "title": "Chick-fil-A data breach affects more than 13,000 customers"
     }
   ]
 }

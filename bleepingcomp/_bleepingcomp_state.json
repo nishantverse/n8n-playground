@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T12:00:22.441+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-  "lastId": "1vhl43i000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/24/ontrac-notifies-customers-of-data-breach-after-network-hack.md",
+  "updatedAt": "2026-07-26T00:00:45.115+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+  "lastId": "1qudq4z000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/25/malicious-sites-use-javascript-to-build-malware-in-browser-memory.md",
   "items": [
     {
-      "id": "1vhl43i000",
-      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "filePath": "bleepingcomp/pages/2026/07/24/ontrac-notifies-customers-of-data-breach-after-network-hack.md",
-      "committedAt": "2026-07-25T12:00:22.441+05:30",
-      "title": "OnTrac notifies customers of data breach after network hack"
+      "id": "1qudq4z000",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "filePath": "bleepingcomp/pages/2026/07/25/malicious-sites-use-javascript-to-build-malware-in-browser-memory.md",
+      "committedAt": "2026-07-26T00:00:45.115+05:30",
+      "title": "Malicious sites use JavaScript to build malware in browser memory"
     }
   ]
 }

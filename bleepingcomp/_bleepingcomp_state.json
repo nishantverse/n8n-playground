@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T00:00:26.799+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-  "lastId": "wayjma0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/24/chick-fil-a-data-breach-affects-more-than-13000-customers.md",
+  "updatedAt": "2026-07-25T12:00:22.441+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+  "lastId": "1vhl43i000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/24/ontrac-notifies-customers-of-data-breach-after-network-hack.md",
   "items": [
     {
-      "id": "wayjma0000",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "filePath": "bleepingcomp/pages/2026/07/24/chick-fil-a-data-breach-affects-more-than-13000-customers.md",
-      "committedAt": "2026-07-25T00:00:26.799+05:30",
-      "title": "Chick-fil-A data breach affects more than 13,000 customers"
+      "id": "1vhl43i000",
+      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+      "filePath": "bleepingcomp/pages/2026/07/24/ontrac-notifies-customers-of-data-breach-after-network-hack.md",
+      "committedAt": "2026-07-25T12:00:22.441+05:30",
+      "title": "OnTrac notifies customers of data breach after network hack"
     }
   ]
 }

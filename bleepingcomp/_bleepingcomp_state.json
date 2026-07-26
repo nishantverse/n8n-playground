@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T12:00:52.310+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-  "lastId": "1mq6u52000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/25/shinyhunters-data-leaks-fuel-2000-sextortion-email-scam.md",
+  "updatedAt": "2026-07-27T00:00:36.027+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+  "lastId": "q08p3m0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/26/github-pypi-add-time-absed-defenses-against-supply-chain-attacks.md",
   "items": [
     {
-      "id": "1mq6u52000",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "filePath": "bleepingcomp/pages/2026/07/25/shinyhunters-data-leaks-fuel-2000-sextortion-email-scam.md",
-      "committedAt": "2026-07-26T12:00:52.310+05:30",
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam"
+      "id": "q08p3m0000",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "filePath": "bleepingcomp/pages/2026/07/26/github-pypi-add-time-absed-defenses-against-supply-chain-attacks.md",
+      "committedAt": "2026-07-27T00:00:36.027+05:30",
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks"
     }
   ]
 }

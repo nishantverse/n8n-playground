@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T00:00:45.115+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-  "lastId": "1qudq4z000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/25/malicious-sites-use-javascript-to-build-malware-in-browser-memory.md",
+  "updatedAt": "2026-07-26T12:00:52.310+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+  "lastId": "1mq6u52000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/25/shinyhunters-data-leaks-fuel-2000-sextortion-email-scam.md",
   "items": [
     {
-      "id": "1qudq4z000",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "filePath": "bleepingcomp/pages/2026/07/25/malicious-sites-use-javascript-to-build-malware-in-browser-memory.md",
-      "committedAt": "2026-07-26T00:00:45.115+05:30",
-      "title": "Malicious sites use JavaScript to build malware in browser memory"
+      "id": "1mq6u52000",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "filePath": "bleepingcomp/pages/2026/07/25/shinyhunters-data-leaks-fuel-2000-sextortion-email-scam.md",
+      "committedAt": "2026-07-26T12:00:52.310+05:30",
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T00:00:36.027+05:30",
+  "updatedAt": "2026-07-27T12:00:42.619+05:30",
   "lastLink": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-  "lastId": "q08p3m0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/26/github-pypi-add-time-absed-defenses-against-supply-chain-attacks.md",
+  "lastId": "3qx1rm0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.md",
   "items": [
     {
-      "id": "q08p3m0000",
+      "id": "3qx1rm0000",
       "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "filePath": "bleepingcomp/pages/2026/07/26/github-pypi-add-time-absed-defenses-against-supply-chain-attacks.md",
-      "committedAt": "2026-07-27T00:00:36.027+05:30",
-      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks"
+      "filePath": "bleepingcomp/pages/2026/07/26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.md",
+      "committedAt": "2026-07-27T12:00:42.619+05:30",
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks"
     }
   ]
 }

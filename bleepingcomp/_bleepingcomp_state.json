@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T12:00:42.619+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-  "lastId": "3qx1rm0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.md",
+  "updatedAt": "2026-07-28T00:00:22.459+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+  "lastId": "kztx320000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/27/ernst-young-data-breach-claimed-by-shinyhunters-extortion-gang.md",
   "items": [
     {
-      "id": "3qx1rm0000",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "filePath": "bleepingcomp/pages/2026/07/26/github-pypi-add-time-based-defenses-against-supply-chain-attacks.md",
-      "committedAt": "2026-07-27T12:00:42.619+05:30",
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks"
+      "id": "kztx320000",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "filePath": "bleepingcomp/pages/2026/07/27/ernst-young-data-breach-claimed-by-shinyhunters-extortion-gang.md",
+      "committedAt": "2026-07-28T00:00:22.459+05:30",
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T00:00:22.459+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-  "lastId": "kztx320000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/27/ernst-young-data-breach-claimed-by-shinyhunters-extortion-gang.md",
+  "updatedAt": "2026-07-28T12:00:22.127+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+  "lastId": "ozxgvn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/27/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks.md",
   "items": [
     {
-      "id": "kztx320000",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "filePath": "bleepingcomp/pages/2026/07/27/ernst-young-data-breach-claimed-by-shinyhunters-extortion-gang.md",
-      "committedAt": "2026-07-28T00:00:22.459+05:30",
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang"
+      "id": "ozxgvn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/07/27/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks.md",
+      "committedAt": "2026-07-28T12:00:22.127+05:30",
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks"
     }
   ]
 }

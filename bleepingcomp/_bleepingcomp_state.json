@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T12:00:34.499+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-  "lastId": "bu1qq80000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/28/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people.md",
+  "updatedAt": "2026-07-30T00:00:45.026+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+  "lastId": "dvs3ni0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/27/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks.md",
   "items": [
     {
-      "id": "bu1qq80000",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "filePath": "bleepingcomp/pages/2026/07/28/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people.md",
-      "committedAt": "2026-07-29T12:00:34.499+05:30",
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people"
+      "id": "dvs3ni0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/07/27/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks.md",
+      "committedAt": "2026-07-30T00:00:45.026+05:30",
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks"
     }
   ]
 }

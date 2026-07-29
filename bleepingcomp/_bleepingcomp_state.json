@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T00:00:22.427+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-  "lastId": "132tn26000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/28/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit.md",
+  "updatedAt": "2026-07-29T12:00:34.499+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+  "lastId": "bu1qq80000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/28/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people.md",
   "items": [
     {
-      "id": "132tn26000",
-      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "filePath": "bleepingcomp/pages/2026/07/28/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit.md",
-      "committedAt": "2026-07-29T00:00:22.427+05:30",
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit"
+      "id": "bu1qq80000",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "filePath": "bleepingcomp/pages/2026/07/28/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people.md",
+      "committedAt": "2026-07-29T12:00:34.499+05:30",
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people"
     }
   ]
 }

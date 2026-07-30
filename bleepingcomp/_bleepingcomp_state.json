@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T00:00:45.026+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-  "lastId": "dvs3ni0000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/27/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks.md",
+  "updatedAt": "2026-07-31T00:00:24.618+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+  "lastId": "1y56xlr000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.md",
   "items": [
     {
-      "id": "dvs3ni0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "filePath": "bleepingcomp/pages/2026/07/27/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks.md",
-      "committedAt": "2026-07-30T00:00:45.026+05:30",
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks"
+      "id": "1y56xlr000",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+      "filePath": "bleepingcomp/pages/2026/07/30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.md",
+      "committedAt": "2026-07-31T00:00:24.618+05:30",
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes"
     }
   ]
 }

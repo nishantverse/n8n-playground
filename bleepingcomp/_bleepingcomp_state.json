@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T00:00:24.618+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-  "lastId": "1y56xlr000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.md",
+  "updatedAt": "2026-07-31T12:00:23.244+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+  "lastId": "ge93200000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/31/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests.md",
   "items": [
     {
-      "id": "1y56xlr000",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-      "filePath": "bleepingcomp/pages/2026/07/30/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes.md",
-      "committedAt": "2026-07-31T00:00:24.618+05:30",
-      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes"
+      "id": "ge93200000",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "filePath": "bleepingcomp/pages/2026/07/31/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests.md",
+      "committedAt": "2026-07-31T12:00:23.244+05:30",
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests"
     }
   ]
 }

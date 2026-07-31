@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T12:00:23.244+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-  "lastId": "ge93200000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/31/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests.md",
+  "updatedAt": "2026-08-01T00:00:34.583+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+  "lastId": "n0i8k70000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/30/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach.md",
   "items": [
     {
-      "id": "ge93200000",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "filePath": "bleepingcomp/pages/2026/07/31/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests.md",
-      "committedAt": "2026-07-31T12:00:23.244+05:30",
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests"
+      "id": "n0i8k70000",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+      "filePath": "bleepingcomp/pages/2026/07/30/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach.md",
+      "committedAt": "2026-08-01T00:00:34.583+05:30",
+      "title": "South Korea fines telco giant KT $39 million for customer data breach"
     }
   ]
 }

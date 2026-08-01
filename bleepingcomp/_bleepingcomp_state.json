@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T00:00:34.583+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-  "lastId": "n0i8k70000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/30/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach.md",
+  "updatedAt": "2026-08-01T12:00:22.545+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+  "lastId": "pwbyqn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/31/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info.md",
   "items": [
     {
-      "id": "n0i8k70000",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-      "filePath": "bleepingcomp/pages/2026/07/30/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach.md",
-      "committedAt": "2026-08-01T00:00:34.583+05:30",
-      "title": "South Korea fines telco giant KT $39 million for customer data breach"
+      "id": "pwbyqn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "filePath": "bleepingcomp/pages/2026/07/31/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info.md",
+      "committedAt": "2026-08-01T12:00:22.545+05:30",
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info"
     }
   ]
 }

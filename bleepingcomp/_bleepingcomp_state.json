@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T00:00:23.507+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-  "lastId": "1fgecji000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/01/rails-patches-critical-active-storage-flaw-with-rce-potential.md",
+  "updatedAt": "2026-08-02T12:00:56.238+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+  "lastId": "6e8nz20000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/30/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw.md",
   "items": [
     {
-      "id": "1fgecji000",
-      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "filePath": "bleepingcomp/pages/2026/08/01/rails-patches-critical-active-storage-flaw-with-rce-potential.md",
-      "committedAt": "2026-08-02T00:00:23.507+05:30",
-      "title": "Rails patches critical Active Storage flaw with RCE potential"
+      "id": "6e8nz20000",
+      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+      "filePath": "bleepingcomp/pages/2026/07/30/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw.md",
+      "committedAt": "2026-08-02T12:00:56.238+05:30",
+      "title": "JetBrains warns of critical TeamCity remote code execution flaw"
     }
   ]
 }

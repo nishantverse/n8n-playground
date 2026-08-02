@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T12:00:56.238+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-  "lastId": "6e8nz20000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/30/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw.md",
+  "updatedAt": "2026-08-03T00:01:08.431+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+  "lastId": "4yjjg30000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/31/arch-linux-disables-aur-package-adoption-to-stop-malware-flood.md",
   "items": [
     {
-      "id": "6e8nz20000",
-      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-      "filePath": "bleepingcomp/pages/2026/07/30/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw.md",
-      "committedAt": "2026-08-02T12:00:56.238+05:30",
-      "title": "JetBrains warns of critical TeamCity remote code execution flaw"
+      "id": "4yjjg30000",
+      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "filePath": "bleepingcomp/pages/2026/07/31/arch-linux-disables-aur-package-adoption-to-stop-malware-flood.md",
+      "committedAt": "2026-08-03T00:01:08.431+05:30",
+      "title": "Arch Linux disables AUR package adoption to stop malware flood"
     }
   ]
 }

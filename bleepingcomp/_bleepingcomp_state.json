@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T00:01:08.431+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-  "lastId": "4yjjg30000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/31/arch-linux-disables-aur-package-adoption-to-stop-malware-flood.md",
+  "updatedAt": "2026-08-03T12:01:09.125+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+  "lastId": "15f71vr000",
+  "lastFilePath": "bleepingcomp/pages/2026/07/31/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency.md",
   "items": [
     {
-      "id": "4yjjg30000",
-      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "filePath": "bleepingcomp/pages/2026/07/31/arch-linux-disables-aur-package-adoption-to-stop-malware-flood.md",
-      "committedAt": "2026-08-03T00:01:08.431+05:30",
-      "title": "Arch Linux disables AUR package adoption to stop malware flood"
+      "id": "15f71vr000",
+      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+      "filePath": "bleepingcomp/pages/2026/07/31/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency.md",
+      "committedAt": "2026-08-03T12:01:09.125+05:30",
+      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency"
     }
   ]
 }

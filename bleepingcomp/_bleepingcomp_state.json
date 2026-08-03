@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T12:01:09.125+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-  "lastId": "15f71vr000",
-  "lastFilePath": "bleepingcomp/pages/2026/07/31/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency.md",
+  "updatedAt": "2026-08-04T00:00:28.214+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+  "lastId": "uty1f00000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/03/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks.md",
   "items": [
     {
-      "id": "15f71vr000",
-      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "filePath": "bleepingcomp/pages/2026/07/31/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency.md",
-      "committedAt": "2026-08-03T12:01:09.125+05:30",
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency"
+      "id": "uty1f00000",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/08/03/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks.md",
+      "committedAt": "2026-08-04T00:00:28.214+05:30",
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks"
     }
   ]
 }

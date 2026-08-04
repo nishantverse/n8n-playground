@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T00:00:28.214+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-  "lastId": "uty1f00000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/03/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks.md",
+  "updatedAt": "2026-08-04T12:00:28.767+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+  "lastId": "148zq2m000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/04/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts.md",
   "items": [
     {
-      "id": "uty1f00000",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/08/03/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks.md",
-      "committedAt": "2026-08-04T00:00:28.214+05:30",
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks"
+      "id": "148zq2m000",
+      "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+      "filePath": "bleepingcomp/pages/2026/08/04/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts.md",
+      "committedAt": "2026-08-04T12:00:28.767+05:30",
+      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts"
     }
   ]
 }

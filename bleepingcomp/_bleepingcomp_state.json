@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T12:00:22.726+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-  "lastId": "1sydzxv000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/04/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks.md",
+  "updatedAt": "2026-08-06T00:00:38.670+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+  "lastId": "xrffb20000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/05/coldcard-security-audit-phishing-attack-installs-remote-access-tool.md",
   "items": [
     {
-      "id": "1sydzxv000",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "filePath": "bleepingcomp/pages/2026/08/04/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks.md",
-      "committedAt": "2026-08-05T12:00:22.726+05:30",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks"
+      "id": "xrffb20000",
+      "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "filePath": "bleepingcomp/pages/2026/08/05/coldcard-security-audit-phishing-attack-installs-remote-access-tool.md",
+      "committedAt": "2026-08-06T00:00:38.670+05:30",
+      "title": "COLDCARD security audit phishing attack installs remote access tool"
     }
   ]
 }

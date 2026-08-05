@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T00:00:59.454+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-  "lastId": "1h5l2j7000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/03/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys.md",
+  "updatedAt": "2026-08-05T12:00:22.726+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+  "lastId": "1sydzxv000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/04/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks.md",
   "items": [
     {
-      "id": "1h5l2j7000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-      "filePath": "bleepingcomp/pages/2026/08/03/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys.md",
-      "committedAt": "2026-08-05T00:00:59.454+05:30",
-      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys"
+      "id": "1sydzxv000",
+      "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "filePath": "bleepingcomp/pages/2026/08/04/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks.md",
+      "committedAt": "2026-08-05T12:00:22.726+05:30",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks"
     }
   ]
 }

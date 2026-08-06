@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T12:00:22.322+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-  "lastId": "1rnd7ir000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/05/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database.md",
+  "updatedAt": "2026-08-07T00:00:22.307+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+  "lastId": "rr8pku0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/06/swiss-government-sharepoint-breach-compromised-200-accounts.md",
   "items": [
     {
-      "id": "1rnd7ir000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-      "filePath": "bleepingcomp/pages/2026/08/05/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database.md",
-      "committedAt": "2026-08-06T12:00:22.322+05:30",
-      "title": "Hackers run khunt post-exploitation toolkit from Oracle database"
+      "id": "rr8pku0000",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "filePath": "bleepingcomp/pages/2026/08/06/swiss-government-sharepoint-breach-compromised-200-accounts.md",
+      "committedAt": "2026-08-07T00:00:22.307+05:30",
+      "title": "Swiss government SharePoint breach compromised 200 accounts"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T00:00:38.670+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-  "lastId": "xrffb20000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/05/coldcard-security-audit-phishing-attack-installs-remote-access-tool.md",
+  "updatedAt": "2026-08-06T12:00:22.322+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+  "lastId": "1rnd7ir000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/05/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database.md",
   "items": [
     {
-      "id": "xrffb20000",
-      "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "filePath": "bleepingcomp/pages/2026/08/05/coldcard-security-audit-phishing-attack-installs-remote-access-tool.md",
-      "committedAt": "2026-08-06T00:00:38.670+05:30",
-      "title": "COLDCARD security audit phishing attack installs remote access tool"
+      "id": "1rnd7ir000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "filePath": "bleepingcomp/pages/2026/08/05/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database.md",
+      "committedAt": "2026-08-06T12:00:22.322+05:30",
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database"
     }
   ]
 }

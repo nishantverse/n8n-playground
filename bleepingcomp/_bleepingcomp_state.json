@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T12:00:42.167+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-  "lastId": "136ao0v000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/06/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes.md",
+  "updatedAt": "2026-08-08T00:00:46.007+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+  "lastId": "bqer1v0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/05/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison.md",
   "items": [
     {
-      "id": "136ao0v000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "filePath": "bleepingcomp/pages/2026/08/06/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes.md",
-      "committedAt": "2026-08-07T12:00:42.167+05:30",
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes"
+      "id": "bqer1v0000",
+      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "filePath": "bleepingcomp/pages/2026/08/05/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison.md",
+      "committedAt": "2026-08-08T00:00:46.007+05:30",
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T00:00:22.307+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-  "lastId": "rr8pku0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/06/swiss-government-sharepoint-breach-compromised-200-accounts.md",
+  "updatedAt": "2026-08-07T12:00:42.167+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+  "lastId": "136ao0v000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/06/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes.md",
   "items": [
     {
-      "id": "rr8pku0000",
-      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-      "filePath": "bleepingcomp/pages/2026/08/06/swiss-government-sharepoint-breach-compromised-200-accounts.md",
-      "committedAt": "2026-08-07T00:00:22.307+05:30",
-      "title": "Swiss government SharePoint breach compromised 200 accounts"
+      "id": "136ao0v000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "filePath": "bleepingcomp/pages/2026/08/06/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes.md",
+      "committedAt": "2026-08-07T12:00:42.167+05:30",
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T12:00:22.263+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-  "lastId": "18w2z9q000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/07/metabase-sqli-zero-day-exploited-in-customer-data-theft-attacks.md",
+  "updatedAt": "2026-08-09T12:00:53.883+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+  "lastId": "1d5ko7y000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/08/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors.md",
   "items": [
     {
-      "id": "18w2z9q000",
-      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "filePath": "bleepingcomp/pages/2026/08/07/metabase-sqli-zero-day-exploited-in-customer-data-theft-attacks.md",
-      "committedAt": "2026-08-08T12:00:22.263+05:30",
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks"
+      "id": "1d5ko7y000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "filePath": "bleepingcomp/pages/2026/08/08/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors.md",
+      "committedAt": "2026-08-09T12:00:53.883+05:30",
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors"
     }
   ]
 }

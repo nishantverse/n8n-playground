@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T12:01:03.845+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-  "lastId": "1vvj4n1000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/07/levi-strauss-co-says-hackers-stole-corporate-data-in-cyberattack.md",
+  "updatedAt": "2026-08-10T22:09:19.638+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+  "lastId": "rp2tok0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/10/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs.md",
   "items": [
     {
-      "id": "1vvj4n1000",
-      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-      "filePath": "bleepingcomp/pages/2026/08/07/levi-strauss-co-says-hackers-stole-corporate-data-in-cyberattack.md",
-      "committedAt": "2026-08-10T12:01:03.845+05:30",
-      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack"
+      "id": "rp2tok0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+      "filePath": "bleepingcomp/pages/2026/08/10/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs.md",
+      "committedAt": "2026-08-10T22:09:19.638+05:30",
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs"
     }
   ]
 }

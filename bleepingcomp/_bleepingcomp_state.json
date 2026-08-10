@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T23:15:57.242+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-  "lastId": "whefoe0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/10/valve-notifies-steam-hardware-customers-of-a-data-breach.md",
+  "updatedAt": "2026-08-11T00:00:34.350+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+  "lastId": "rqhiwk0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/10/critical-progress-loadmaster-flaw-now-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "whefoe0000",
-      "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-      "filePath": "bleepingcomp/pages/2026/08/10/valve-notifies-steam-hardware-customers-of-a-data-breach.md",
-      "committedAt": "2026-08-10T23:15:57.242+05:30",
-      "title": "Valve notifies Steam hardware customers of a data breach"
+      "id": "rqhiwk0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/08/10/critical-progress-loadmaster-flaw-now-actively-exploited-in-attacks.md",
+      "committedAt": "2026-08-11T00:00:34.350+05:30",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks"
     }
   ]
 }

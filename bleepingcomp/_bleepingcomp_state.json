@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-11T12:00:51.370+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-  "lastId": "1dj7i6r000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/10/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year.md",
+  "updatedAt": "2026-08-12T00:00:26.963+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+  "lastId": "erwrx90000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/11/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days.md",
   "items": [
     {
-      "id": "1dj7i6r000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "filePath": "bleepingcomp/pages/2026/08/10/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year.md",
-      "committedAt": "2026-08-11T12:00:51.370+05:30",
-      "title": "Hackers breached a small Polish energy plant via private APN last year"
+      "id": "erwrx90000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "filePath": "bleepingcomp/pages/2026/08/11/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days.md",
+      "committedAt": "2026-08-12T00:00:26.963+05:30",
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days"
     }
   ]
 }

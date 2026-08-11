@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-11T00:00:34.350+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-  "lastId": "rqhiwk0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/10/critical-progress-loadmaster-flaw-now-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-08-11T12:00:51.370+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+  "lastId": "1dj7i6r000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/10/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year.md",
   "items": [
     {
-      "id": "rqhiwk0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/08/10/critical-progress-loadmaster-flaw-now-actively-exploited-in-attacks.md",
-      "committedAt": "2026-08-11T00:00:34.350+05:30",
-      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks"
+      "id": "1dj7i6r000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "filePath": "bleepingcomp/pages/2026/08/10/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year.md",
+      "committedAt": "2026-08-11T12:00:51.370+05:30",
+      "title": "Hackers breached a small Polish energy plant via private APN last year"
     }
   ]
 }

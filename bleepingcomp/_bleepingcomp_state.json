@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T00:00:22.492+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-  "lastId": "1vfc1z2000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/12/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms.md",
+  "updatedAt": "2026-08-13T12:00:21.993+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+  "lastId": "hywlhv0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/12/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts.md",
   "items": [
     {
-      "id": "1vfc1z2000",
-      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "filePath": "bleepingcomp/pages/2026/08/12/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms.md",
-      "committedAt": "2026-08-13T00:00:22.492+05:30",
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms"
+      "id": "hywlhv0000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "filePath": "bleepingcomp/pages/2026/08/12/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts.md",
+      "committedAt": "2026-08-13T12:00:21.993+05:30",
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts"
     }
   ]
 }

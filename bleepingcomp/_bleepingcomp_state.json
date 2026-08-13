@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T12:00:21.993+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-  "lastId": "hywlhv0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/12/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts.md",
+  "updatedAt": "2026-08-14T00:00:26.370+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+  "lastId": "a5m0mp0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/13/microsoft-patches-legacyhive-windows-zero-day-vulnerability.md",
   "items": [
     {
-      "id": "hywlhv0000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-      "filePath": "bleepingcomp/pages/2026/08/12/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts.md",
-      "committedAt": "2026-08-13T12:00:21.993+05:30",
-      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts"
+      "id": "a5m0mp0000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+      "filePath": "bleepingcomp/pages/2026/08/13/microsoft-patches-legacyhive-windows-zero-day-vulnerability.md",
+      "committedAt": "2026-08-14T00:00:26.370+05:30",
+      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability"
     }
   ]
 }

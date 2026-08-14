@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T12:00:28.739+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-  "lastId": "1ef74j7000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/13/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access.md",
+  "updatedAt": "2026-08-15T00:00:34.375+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+  "lastId": "1mri7o0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/14/ringcentral-data-breach-exposed-info-of-16-million-accounts.md",
   "items": [
     {
-      "id": "1ef74j7000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "filePath": "bleepingcomp/pages/2026/08/13/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access.md",
-      "committedAt": "2026-08-14T12:00:28.739+05:30",
-      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access"
+      "id": "1mri7o0000",
+      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "filePath": "bleepingcomp/pages/2026/08/14/ringcentral-data-breach-exposed-info-of-16-million-accounts.md",
+      "committedAt": "2026-08-15T00:00:34.375+05:30",
+      "title": "RingCentral data breach exposed info of 1.6 million accounts"
     }
   ]
 }

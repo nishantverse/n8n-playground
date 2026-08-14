@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T00:00:26.370+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-  "lastId": "a5m0mp0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/13/microsoft-patches-legacyhive-windows-zero-day-vulnerability.md",
+  "updatedAt": "2026-08-14T12:00:28.739+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+  "lastId": "1ef74j7000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/13/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access.md",
   "items": [
     {
-      "id": "a5m0mp0000",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-      "filePath": "bleepingcomp/pages/2026/08/13/microsoft-patches-legacyhive-windows-zero-day-vulnerability.md",
-      "committedAt": "2026-08-14T00:00:26.370+05:30",
-      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability"
+      "id": "1ef74j7000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "filePath": "bleepingcomp/pages/2026/08/13/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access.md",
+      "committedAt": "2026-08-14T12:00:28.739+05:30",
+      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T00:00:34.375+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-  "lastId": "1mri7o0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/14/ringcentral-data-breach-exposed-info-of-16-million-accounts.md",
+  "updatedAt": "2026-08-15T12:00:41.273+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+  "lastId": "1t0ubzz000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/14/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw.md",
   "items": [
     {
-      "id": "1mri7o0000",
-      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "filePath": "bleepingcomp/pages/2026/08/14/ringcentral-data-breach-exposed-info-of-16-million-accounts.md",
-      "committedAt": "2026-08-15T00:00:34.375+05:30",
-      "title": "RingCentral data breach exposed info of 1.6 million accounts"
+      "id": "1t0ubzz000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "filePath": "bleepingcomp/pages/2026/08/14/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw.md",
+      "committedAt": "2026-08-15T12:00:41.273+05:30",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw"
     }
   ]
 }

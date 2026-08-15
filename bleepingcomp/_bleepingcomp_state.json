@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T12:00:41.273+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-  "lastId": "1t0ubzz000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/14/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw.md",
+  "updatedAt": "2026-08-16T00:00:33.899+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+  "lastId": "bfhxub0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/15/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes.md",
   "items": [
     {
-      "id": "1t0ubzz000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "filePath": "bleepingcomp/pages/2026/08/14/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw.md",
-      "committedAt": "2026-08-15T12:00:41.273+05:30",
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw"
+      "id": "bfhxub0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+      "filePath": "bleepingcomp/pages/2026/08/15/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes.md",
+      "committedAt": "2026-08-16T00:00:33.899+05:30",
+      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T12:00:46.275+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-  "lastId": "l0hrn70000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/14/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner.md",
+  "updatedAt": "2026-08-17T00:00:32.867+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+  "lastId": "pzp7rn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/16/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service.md",
   "items": [
     {
-      "id": "l0hrn70000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "filePath": "bleepingcomp/pages/2026/08/14/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner.md",
-      "committedAt": "2026-08-16T12:00:46.275+05:30",
-      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner"
+      "id": "pzp7rn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+      "filePath": "bleepingcomp/pages/2026/08/16/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service.md",
+      "committedAt": "2026-08-17T00:00:32.867+05:30",
+      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service"
     }
   ]
 }

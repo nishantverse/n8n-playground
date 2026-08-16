@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T00:00:33.899+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-  "lastId": "bfhxub0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/15/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes.md",
+  "updatedAt": "2026-08-16T12:00:46.275+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+  "lastId": "l0hrn70000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/14/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner.md",
   "items": [
     {
-      "id": "bfhxub0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "filePath": "bleepingcomp/pages/2026/08/15/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes.md",
-      "committedAt": "2026-08-16T00:00:33.899+05:30",
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes"
+      "id": "l0hrn70000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "filePath": "bleepingcomp/pages/2026/08/14/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner.md",
+      "committedAt": "2026-08-16T12:00:46.275+05:30",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner"
     }
   ]
 }

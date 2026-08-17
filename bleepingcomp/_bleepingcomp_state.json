@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T12:00:22.148+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-  "lastId": "wwqhdq0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/16/safepal-data-breach-impacts-39798-customers-stolen-info-for-sale.md",
+  "updatedAt": "2026-08-18T00:00:39.098+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+  "lastId": "3giljm0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/17/french-tax-authority-data-breach-affects-678000-individuals.md",
   "items": [
     {
-      "id": "wwqhdq0000",
-      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "filePath": "bleepingcomp/pages/2026/08/16/safepal-data-breach-impacts-39798-customers-stolen-info-for-sale.md",
-      "committedAt": "2026-08-17T12:00:22.148+05:30",
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale"
+      "id": "3giljm0000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "filePath": "bleepingcomp/pages/2026/08/17/french-tax-authority-data-breach-affects-678000-individuals.md",
+      "committedAt": "2026-08-18T00:00:39.098+05:30",
+      "title": "French tax authority data breach affects 678,000 individuals"
     }
   ]
 }

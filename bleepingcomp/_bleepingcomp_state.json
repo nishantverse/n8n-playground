@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T00:00:39.098+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-  "lastId": "3giljm0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/17/french-tax-authority-data-breach-affects-678000-individuals.md",
+  "updatedAt": "2026-08-18T12:00:23.764+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+  "lastId": "13u7us3000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/17/pokmon-center-data-breach-exposes-customer-info-cancels-some-orders.md",
   "items": [
     {
-      "id": "3giljm0000",
-      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "filePath": "bleepingcomp/pages/2026/08/17/french-tax-authority-data-breach-affects-678000-individuals.md",
-      "committedAt": "2026-08-18T00:00:39.098+05:30",
-      "title": "French tax authority data breach affects 678,000 individuals"
+      "id": "13u7us3000",
+      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "filePath": "bleepingcomp/pages/2026/08/17/pokmon-center-data-breach-exposes-customer-info-cancels-some-orders.md",
+      "committedAt": "2026-08-18T12:00:23.764+05:30",
+      "title": "Pokémon Center data breach exposes customer info, cancels some orders"
     }
   ]
 }

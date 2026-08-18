@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T12:00:23.764+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-  "lastId": "13u7us3000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/17/pokmon-center-data-breach-exposes-customer-info-cancels-some-orders.md",
+  "updatedAt": "2026-08-19T00:00:26.475+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+  "lastId": "1eoi42x000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/18/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs.md",
   "items": [
     {
-      "id": "13u7us3000",
-      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "filePath": "bleepingcomp/pages/2026/08/17/pokmon-center-data-breach-exposes-customer-info-cancels-some-orders.md",
-      "committedAt": "2026-08-18T12:00:23.764+05:30",
-      "title": "Pokémon Center data breach exposes customer info, cancels some orders"
+      "id": "1eoi42x000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+      "filePath": "bleepingcomp/pages/2026/08/18/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs.md",
+      "committedAt": "2026-08-19T00:00:26.475+05:30",
+      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs"
     }
   ]
 }

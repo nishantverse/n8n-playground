@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T00:00:26.475+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-  "lastId": "1eoi42x000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/18/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs.md",
+  "updatedAt": "2026-08-19T12:00:49.826+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+  "lastId": "1w2bs43000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.md",
   "items": [
     {
-      "id": "1eoi42x000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "filePath": "bleepingcomp/pages/2026/08/18/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs.md",
-      "committedAt": "2026-08-19T00:00:26.475+05:30",
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs"
+      "id": "1w2bs43000",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "filePath": "bleepingcomp/pages/2026/08/17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.md",
+      "committedAt": "2026-08-19T12:00:49.826+05:30",
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day"
     }
   ]
 }

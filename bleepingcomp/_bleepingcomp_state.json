@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T12:00:49.826+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-  "lastId": "1w2bs43000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.md",
+  "updatedAt": "2026-08-20T00:00:22.865+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+  "lastId": "11lm44d000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/19/critical-rce-flaw-in-windows-ike-extension-now-actively-exploited.md",
   "items": [
     {
-      "id": "1w2bs43000",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-      "filePath": "bleepingcomp/pages/2026/08/17/microsoft-working-on-defender-patch-for-shieldbreak-zero-day.md",
-      "committedAt": "2026-08-19T12:00:49.826+05:30",
-      "title": "Microsoft working on Defender patch for ShieldBreak zero-day"
+      "id": "11lm44d000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/08/19/critical-rce-flaw-in-windows-ike-extension-now-actively-exploited.md",
+      "committedAt": "2026-08-20T00:00:22.865+05:30",
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T00:00:22.865+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-  "lastId": "11lm44d000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/19/critical-rce-flaw-in-windows-ike-extension-now-actively-exploited.md",
+  "updatedAt": "2026-08-20T12:00:30.841+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+  "lastId": "1m1dm4w000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/19/healthtech-firm-carecloud-data-breach-impacts-37-million-patients.md",
   "items": [
     {
-      "id": "11lm44d000",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/08/19/critical-rce-flaw-in-windows-ike-extension-now-actively-exploited.md",
-      "committedAt": "2026-08-20T00:00:22.865+05:30",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited"
+      "id": "1m1dm4w000",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "filePath": "bleepingcomp/pages/2026/08/19/healthtech-firm-carecloud-data-breach-impacts-37-million-patients.md",
+      "committedAt": "2026-08-20T12:00:30.841+05:30",
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients"
     }
   ]
 }

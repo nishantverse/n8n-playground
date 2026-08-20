@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T12:00:30.841+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-  "lastId": "1m1dm4w000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/19/healthtech-firm-carecloud-data-breach-impacts-37-million-patients.md",
+  "updatedAt": "2026-08-21T00:00:22.683+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+  "lastId": "u9i3jn0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/20/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability.md",
   "items": [
     {
-      "id": "1m1dm4w000",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "filePath": "bleepingcomp/pages/2026/08/19/healthtech-firm-carecloud-data-breach-impacts-37-million-patients.md",
-      "committedAt": "2026-08-20T12:00:30.841+05:30",
-      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients"
+      "id": "u9i3jn0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+      "filePath": "bleepingcomp/pages/2026/08/20/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability.md",
+      "committedAt": "2026-08-21T00:00:22.683+05:30",
+      "title": "CISA warns of hackers exploiting critical MLflow vulnerability"
     }
   ]
 }

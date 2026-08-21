@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T12:00:31.061+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-  "lastId": "19q1s1q000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/20/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-08-22T00:00:30.994+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+  "lastId": "1ae2zha000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/21/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign.md",
   "items": [
     {
-      "id": "19q1s1q000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/08/20/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks.md",
-      "committedAt": "2026-08-21T12:00:31.061+05:30",
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks"
+      "id": "1ae2zha000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "filePath": "bleepingcomp/pages/2026/08/21/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign.md",
+      "committedAt": "2026-08-22T00:00:30.994+05:30",
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign"
     }
   ]
 }

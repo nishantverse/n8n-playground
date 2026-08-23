@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T00:00:22.092+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-  "lastId": "1vl0rgz000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/22/hackers-infect-android-car-head-units-with-proxy-botnet-malware.md",
+  "updatedAt": "2026-08-23T12:00:50.910+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+  "lastId": "1nex475000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/21/microsoft-patches-max-severity-code-execution-privilege-escalation-flaws.md",
   "items": [
     {
-      "id": "1vl0rgz000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "filePath": "bleepingcomp/pages/2026/08/22/hackers-infect-android-car-head-units-with-proxy-botnet-malware.md",
-      "committedAt": "2026-08-23T00:00:22.092+05:30",
-      "title": "Hackers infect Android car head units with proxy botnet malware"
+      "id": "1nex475000",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/08/21/microsoft-patches-max-severity-code-execution-privilege-escalation-flaws.md",
+      "committedAt": "2026-08-23T12:00:50.910+05:30",
+      "title": "Microsoft patches max severity code execution, privilege escalation flaws"
     }
   ]
 }

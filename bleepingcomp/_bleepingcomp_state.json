@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T12:00:57.612+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-  "lastId": "b7m7f70000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/20/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks.md",
+  "updatedAt": "2026-08-25T00:00:22.306+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+  "lastId": "2aixum0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/24/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw.md",
   "items": [
     {
-      "id": "b7m7f70000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "filePath": "bleepingcomp/pages/2026/08/20/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks.md",
-      "committedAt": "2026-08-24T12:00:57.612+05:30",
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks"
+      "id": "2aixum0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "filePath": "bleepingcomp/pages/2026/08/24/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw.md",
+      "committedAt": "2026-08-25T00:00:22.306+05:30",
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T12:00:47.938+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-  "lastId": "rnncou0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/24/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices.md",
+  "updatedAt": "2026-08-26T00:00:29.699+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+  "lastId": "1or4xze000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/25/massive-ddos-attack-disrupts-norways-government-digital-services.md",
   "items": [
     {
-      "id": "rnncou0000",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "filePath": "bleepingcomp/pages/2026/08/24/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices.md",
-      "committedAt": "2026-08-25T12:00:47.938+05:30",
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices"
+      "id": "1or4xze000",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "filePath": "bleepingcomp/pages/2026/08/25/massive-ddos-attack-disrupts-norways-government-digital-services.md",
+      "committedAt": "2026-08-26T00:00:29.699+05:30",
+      "title": "Massive DDoS attack disrupts Norway’s government digital services"
     }
   ]
 }

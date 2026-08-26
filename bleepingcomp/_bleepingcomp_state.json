@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T12:00:22.236+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-  "lastId": "xxir8e0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/25/lacma-data-breach-last-year-exposed-social-security-and-medical-data.md",
+  "updatedAt": "2026-08-27T00:00:22.263+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+  "lastId": "1rpt8am000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/26/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit.md",
   "items": [
     {
-      "id": "xxir8e0000",
-      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "filePath": "bleepingcomp/pages/2026/08/25/lacma-data-breach-last-year-exposed-social-security-and-medical-data.md",
-      "committedAt": "2026-08-26T12:00:22.236+05:30",
-      "title": "LACMA data breach last year exposed social security and medical data"
+      "id": "1rpt8am000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "filePath": "bleepingcomp/pages/2026/08/26/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit.md",
+      "committedAt": "2026-08-27T00:00:22.263+05:30",
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit"
     }
   ]
 }

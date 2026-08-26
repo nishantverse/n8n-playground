@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T00:00:29.699+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-  "lastId": "1or4xze000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/25/massive-ddos-attack-disrupts-norways-government-digital-services.md",
+  "updatedAt": "2026-08-26T12:00:22.236+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+  "lastId": "xxir8e0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/25/lacma-data-breach-last-year-exposed-social-security-and-medical-data.md",
   "items": [
     {
-      "id": "1or4xze000",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-      "filePath": "bleepingcomp/pages/2026/08/25/massive-ddos-attack-disrupts-norways-government-digital-services.md",
-      "committedAt": "2026-08-26T00:00:29.699+05:30",
-      "title": "Massive DDoS attack disrupts Norway’s government digital services"
+      "id": "xxir8e0000",
+      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+      "filePath": "bleepingcomp/pages/2026/08/25/lacma-data-breach-last-year-exposed-social-security-and-medical-data.md",
+      "committedAt": "2026-08-26T12:00:22.236+05:30",
+      "title": "LACMA data breach last year exposed social security and medical data"
     }
   ]
 }

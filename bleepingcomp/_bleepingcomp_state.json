@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T00:00:22.263+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-  "lastId": "1rpt8am000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/26/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit.md",
+  "updatedAt": "2026-08-27T12:00:28.432+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+  "lastId": "1upkaib000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/26/critical-avada-wordpress-theme-flaw-enables-zero-click-rce.md",
   "items": [
     {
-      "id": "1rpt8am000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-      "filePath": "bleepingcomp/pages/2026/08/26/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit.md",
-      "committedAt": "2026-08-27T00:00:22.263+05:30",
-      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit"
+      "id": "1upkaib000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "filePath": "bleepingcomp/pages/2026/08/26/critical-avada-wordpress-theme-flaw-enables-zero-click-rce.md",
+      "committedAt": "2026-08-27T12:00:28.432+05:30",
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE"
     }
   ]
 }

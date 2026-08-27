@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T12:00:28.432+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-  "lastId": "1upkaib000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/26/critical-avada-wordpress-theme-flaw-enables-zero-click-rce.md",
+  "updatedAt": "2026-08-28T00:00:31.694+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+  "lastId": "1pcuva7000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/27/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks.md",
   "items": [
     {
-      "id": "1upkaib000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "filePath": "bleepingcomp/pages/2026/08/26/critical-avada-wordpress-theme-flaw-enables-zero-click-rce.md",
-      "committedAt": "2026-08-27T12:00:28.432+05:30",
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE"
+      "id": "1pcuva7000",
+      "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+      "filePath": "bleepingcomp/pages/2026/08/27/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks.md",
+      "committedAt": "2026-08-28T00:00:31.694+05:30",
+      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks"
     }
   ]
 }

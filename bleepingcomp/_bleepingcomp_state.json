@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T12:00:33.028+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-  "lastId": "1srw368000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/27/carhartt-data-breach-exposes-information-of-129-million-accounts.md",
+  "updatedAt": "2026-08-29T00:00:22.168+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+  "lastId": "10ywfgz000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/28/toy-making-giant-hasbro-disclose-data-breach-affecting-employees.md",
   "items": [
     {
-      "id": "1srw368000",
-      "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-      "filePath": "bleepingcomp/pages/2026/08/27/carhartt-data-breach-exposes-information-of-129-million-accounts.md",
-      "committedAt": "2026-08-28T12:00:33.028+05:30",
-      "title": "Carhartt data breach exposes information of 12.9 million accounts"
+      "id": "10ywfgz000",
+      "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+      "filePath": "bleepingcomp/pages/2026/08/28/toy-making-giant-hasbro-disclose-data-breach-affecting-employees.md",
+      "committedAt": "2026-08-29T00:00:22.168+05:30",
+      "title": "Toy-making giant Hasbro disclose data breach affecting employees"
     }
   ]
 }

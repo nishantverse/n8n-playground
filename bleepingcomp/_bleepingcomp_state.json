@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T00:00:31.694+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-  "lastId": "1pcuva7000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/27/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks.md",
+  "updatedAt": "2026-08-28T12:00:33.028+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+  "lastId": "1srw368000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/27/carhartt-data-breach-exposes-information-of-129-million-accounts.md",
   "items": [
     {
-      "id": "1pcuva7000",
-      "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-      "filePath": "bleepingcomp/pages/2026/08/27/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks.md",
-      "committedAt": "2026-08-28T00:00:31.694+05:30",
-      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks"
+      "id": "1srw368000",
+      "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+      "filePath": "bleepingcomp/pages/2026/08/27/carhartt-data-breach-exposes-information-of-129-million-accounts.md",
+      "committedAt": "2026-08-28T12:00:33.028+05:30",
+      "title": "Carhartt data breach exposes information of 12.9 million accounts"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T12:00:22.197+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-  "lastId": "qeq3jn0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/28/papercut-releases-second-emergency-patch-for-exploited-flaws.md",
+  "updatedAt": "2026-08-30T00:15:12.956+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+  "lastId": "ez4xum0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/28/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft.md",
   "items": [
     {
-      "id": "qeq3jn0000",
-      "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "filePath": "bleepingcomp/pages/2026/08/28/papercut-releases-second-emergency-patch-for-exploited-flaws.md",
-      "committedAt": "2026-08-29T12:00:22.197+05:30",
-      "title": "PaperCut releases second emergency patch for exploited flaws"
+      "id": "ez4xum0000",
+      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "filePath": "bleepingcomp/pages/2026/08/28/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft.md",
+      "committedAt": "2026-08-30T00:15:12.956+05:30",
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft"
     }
   ]
 }

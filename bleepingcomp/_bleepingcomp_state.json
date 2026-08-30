@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T12:00:55.149+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-  "lastId": "172voxb000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/28/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up.md",
+  "updatedAt": "2026-08-31T00:00:40.988+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+  "lastId": "2w7a9i0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/30/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage.md",
   "items": [
     {
-      "id": "172voxb000",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "filePath": "bleepingcomp/pages/2026/08/28/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up.md",
-      "committedAt": "2026-08-30T12:00:55.149+05:30",
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?"
+      "id": "2w7a9i0000",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+      "filePath": "bleepingcomp/pages/2026/08/30/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage.md",
+      "committedAt": "2026-08-31T00:00:40.988+05:30",
+      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage"
     }
   ]
 }

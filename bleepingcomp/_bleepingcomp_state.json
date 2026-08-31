@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T12:01:06.717+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-  "lastId": "98ugqb0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/28/servicenow-warns-of-three-max-severity-security-vulnerabilities.md",
+  "updatedAt": "2026-09-01T00:00:28.656+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+  "lastId": "kh27q60000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/31/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims.md",
   "items": [
     {
-      "id": "98ugqb0000",
-      "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "filePath": "bleepingcomp/pages/2026/08/28/servicenow-warns-of-three-max-severity-security-vulnerabilities.md",
-      "committedAt": "2026-08-31T12:01:06.717+05:30",
-      "title": "ServiceNow warns of three max severity security vulnerabilities"
+      "id": "kh27q60000",
+      "link": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+      "filePath": "bleepingcomp/pages/2026/08/31/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims.md",
+      "committedAt": "2026-09-01T00:00:28.656+05:30",
+      "title": "Berlin confirms data theft after Rhysida ransomware attack claims"
     }
   ]
 }

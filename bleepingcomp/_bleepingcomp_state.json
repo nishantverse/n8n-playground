@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T00:00:40.988+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-  "lastId": "2w7a9i0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/30/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage.md",
+  "updatedAt": "2026-08-31T12:01:06.717+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+  "lastId": "98ugqb0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/28/servicenow-warns-of-three-max-severity-security-vulnerabilities.md",
   "items": [
     {
-      "id": "2w7a9i0000",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "filePath": "bleepingcomp/pages/2026/08/30/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage.md",
-      "committedAt": "2026-08-31T00:00:40.988+05:30",
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage"
+      "id": "98ugqb0000",
+      "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+      "filePath": "bleepingcomp/pages/2026/08/28/servicenow-warns-of-three-max-severity-security-vulnerabilities.md",
+      "committedAt": "2026-08-31T12:01:06.717+05:30",
+      "title": "ServiceNow warns of three max severity security vulnerabilities"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T12:00:25.846+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-  "lastId": "fycwtz0000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/31/cronos-blockchain-restarts-after-74-million-tectonic-exploit.md",
+  "updatedAt": "2026-09-02T00:00:22.700+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+  "lastId": "1b92yer000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/01/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys.md",
   "items": [
     {
-      "id": "fycwtz0000",
-      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "filePath": "bleepingcomp/pages/2026/08/31/cronos-blockchain-restarts-after-74-million-tectonic-exploit.md",
-      "committedAt": "2026-09-01T12:00:25.846+05:30",
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit"
+      "id": "1b92yer000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "filePath": "bleepingcomp/pages/2026/09/01/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys.md",
+      "committedAt": "2026-09-02T00:00:22.700+05:30",
+      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys"
     }
   ]
 }

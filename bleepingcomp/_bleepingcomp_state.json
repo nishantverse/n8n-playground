@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T00:00:28.656+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-  "lastId": "kh27q60000",
-  "lastFilePath": "bleepingcomp/pages/2026/08/31/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims.md",
+  "updatedAt": "2026-09-01T12:00:25.846+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+  "lastId": "fycwtz0000",
+  "lastFilePath": "bleepingcomp/pages/2026/08/31/cronos-blockchain-restarts-after-74-million-tectonic-exploit.md",
   "items": [
     {
-      "id": "kh27q60000",
-      "link": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-      "filePath": "bleepingcomp/pages/2026/08/31/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims.md",
-      "committedAt": "2026-09-01T00:00:28.656+05:30",
-      "title": "Berlin confirms data theft after Rhysida ransomware attack claims"
+      "id": "fycwtz0000",
+      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+      "filePath": "bleepingcomp/pages/2026/08/31/cronos-blockchain-restarts-after-74-million-tectonic-exploit.md",
+      "committedAt": "2026-09-01T12:00:25.846+05:30",
+      "title": "Cronos blockchain restarts after $74 million Tectonic exploit"
     }
   ]
 }

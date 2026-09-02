@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T00:00:22.700+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-  "lastId": "1b92yer000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/01/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys.md",
+  "updatedAt": "2026-09-02T12:00:29.326+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+  "lastId": "4f2iql0000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/01/aesto-health-says-data-breach-affects-over-95-million-patients.md",
   "items": [
     {
-      "id": "1b92yer000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "filePath": "bleepingcomp/pages/2026/09/01/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys.md",
-      "committedAt": "2026-09-02T00:00:22.700+05:30",
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys"
+      "id": "4f2iql0000",
+      "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+      "filePath": "bleepingcomp/pages/2026/09/01/aesto-health-says-data-breach-affects-over-95-million-patients.md",
+      "committedAt": "2026-09-02T12:00:29.326+05:30",
+      "title": "Aesto Health says data breach affects over 9.5 million patients"
     }
   ]
 }

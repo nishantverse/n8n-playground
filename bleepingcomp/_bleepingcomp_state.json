@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T00:00:22.830+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-  "lastId": "12hq0ur000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/02/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens.md",
+  "updatedAt": "2026-09-03T12:00:28.261+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+  "lastId": "1ddtp3n000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/02/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws.md",
   "items": [
     {
-      "id": "12hq0ur000",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "filePath": "bleepingcomp/pages/2026/09/02/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens.md",
-      "committedAt": "2026-09-03T00:00:22.830+05:30",
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens"
+      "id": "1ddtp3n000",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "filePath": "bleepingcomp/pages/2026/09/02/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws.md",
+      "committedAt": "2026-09-03T12:00:28.261+05:30",
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws"
     }
   ]
 }

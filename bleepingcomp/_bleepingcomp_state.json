@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T12:00:28.478+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-  "lastId": "qyzgwj0000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/03/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites.md",
+  "updatedAt": "2026-09-05T00:00:31.192+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+  "lastId": "kdxt830000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/04/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers.md",
   "items": [
     {
-      "id": "qyzgwj0000",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "filePath": "bleepingcomp/pages/2026/09/03/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites.md",
-      "committedAt": "2026-09-04T12:00:28.478+05:30",
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites"
+      "id": "kdxt830000",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "filePath": "bleepingcomp/pages/2026/09/04/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers.md",
+      "committedAt": "2026-09-05T00:00:31.192+05:30",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers"
     }
   ]
 }

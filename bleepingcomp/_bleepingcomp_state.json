@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T00:00:22.089+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-  "lastId": "10vcktv000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/03/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw.md",
+  "updatedAt": "2026-09-04T12:00:28.478+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+  "lastId": "qyzgwj0000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/03/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites.md",
   "items": [
     {
-      "id": "10vcktv000",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "filePath": "bleepingcomp/pages/2026/09/03/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw.md",
-      "committedAt": "2026-09-04T00:00:22.089+05:30",
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw"
+      "id": "qyzgwj0000",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "filePath": "bleepingcomp/pages/2026/09/03/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites.md",
+      "committedAt": "2026-09-04T12:00:28.478+05:30",
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites"
     }
   ]
 }

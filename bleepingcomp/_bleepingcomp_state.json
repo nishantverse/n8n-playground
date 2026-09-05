@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T00:00:31.192+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-  "lastId": "kdxt830000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/04/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers.md",
+  "updatedAt": "2026-09-05T12:00:36.775+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+  "lastId": "125v7ar000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/04/critical-citrix-netscaler-auth-bypass-now-leveraged-in-attacks.md",
   "items": [
     {
-      "id": "kdxt830000",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "filePath": "bleepingcomp/pages/2026/09/04/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers.md",
-      "committedAt": "2026-09-05T00:00:31.192+05:30",
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers"
+      "id": "125v7ar000",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "filePath": "bleepingcomp/pages/2026/09/04/critical-citrix-netscaler-auth-bypass-now-leveraged-in-attacks.md",
+      "committedAt": "2026-09-05T12:00:36.775+05:30",
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks"
     }
   ]
 }

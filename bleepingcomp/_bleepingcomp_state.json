@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T17:39:32.517+05:30",
-  "lastLink": "https://cyberpress.org/chainguard-hits-1-billion-container/",
-  "lastId": "1501jrt000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/05/chainguard-hits-1-billion-container-builds-with-ai-powered-software-supply-chain.md",
+  "updatedAt": "2026-09-06T17:41:10.187+05:30",
+  "lastLink": "https://cyberpress.org/panzer-ransomware-targets-16-organizations/",
+  "lastId": "ftixk90000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/05/panzer-ransomware-targets-16-organizations-across-11-countries-in-double-extorti.md",
   "items": [
     {
-      "id": "1501jrt000",
-      "link": "https://cyberpress.org/chainguard-hits-1-billion-container/",
-      "filePath": "bleepingcomp/pages/2026/09/05/chainguard-hits-1-billion-container-builds-with-ai-powered-software-supply-chain.md",
-      "committedAt": "2026-09-06T17:39:32.517+05:30",
-      "title": "Chainguard Hits 1 Billion Container Builds With AI-Powered Software Supply Chain"
+      "id": "ftixk90000",
+      "link": "https://cyberpress.org/panzer-ransomware-targets-16-organizations/",
+      "filePath": "bleepingcomp/pages/2026/09/05/panzer-ransomware-targets-16-organizations-across-11-countries-in-double-extorti.md",
+      "committedAt": "2026-09-06T17:41:10.187+05:30",
+      "title": "Panzer Ransomware Targets 16 Organizations Across 11 Countries in Double-Extortion Attacks"
     }
   ]
 }

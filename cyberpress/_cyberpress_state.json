@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T14:45:15.114+05:30",
-  "lastLink": "https://cyberpress.org/critical-veeam-vulnerability/",
-  "lastId": "1gz8p1n000",
-  "lastFilePath": "cyberpress/pages/2026/06/10/critical-veeam-vulnerability-enables-rce-on-backup-servers_1gz8p1n000.md",
+  "updatedAt": "2026-09-06T17:43:27.705+05:30",
+  "lastLink": "https://cyberpress.org/shipmonk-data-breach-2/",
+  "lastId": "19pksa0000",
+  "lastFilePath": "cyberpress/pages/2026/09/04/shipmonk-data-breach-exposes-personal-data-of-67000-additional-trezor-customers.md",
   "items": [
     {
-      "id": "1gz8p1n000",
-      "link": "https://cyberpress.org/critical-veeam-vulnerability/",
-      "filePath": "cyberpress/pages/2026/06/10/critical-veeam-vulnerability-enables-rce-on-backup-servers_1gz8p1n000.md",
-      "committedAt": "2026-06-10T14:45:15.114+05:30",
-      "title": "Critical Veeam Vulnerability Enables RCE on Backup Servers"
+      "id": "19pksa0000",
+      "link": "https://cyberpress.org/shipmonk-data-breach-2/",
+      "filePath": "cyberpress/pages/2026/09/04/shipmonk-data-breach-exposes-personal-data-of-67000-additional-trezor-customers.md",
+      "committedAt": "2026-09-06T17:43:27.705+05:30",
+      "title": "ShipMonk Data Breach Exposes Personal Data of 67,000 Additional Trezor Customers"
     }
   ]
 }

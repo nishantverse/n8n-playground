@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T17:14:55.621+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-  "lastId": "z5me0u0000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/04/new-crowdstrike-falconflank-zero-day-grants-system-privileges.md",
+  "updatedAt": "2026-09-06T17:35:51.016+05:30",
+  "lastLink": "https://cyberpress.org/shipmonk-data-breach-2/",
+  "lastId": "19pksa0000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/04/shipmonk-data-breach-exposes-personal-data-of-67000-additional-trezor-customers.md",
   "items": [
     {
-      "id": "z5me0u0000",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "filePath": "bleepingcomp/pages/2026/09/04/new-crowdstrike-falconflank-zero-day-grants-system-privileges.md",
-      "committedAt": "2026-09-06T17:14:55.621+05:30",
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges"
+      "id": "19pksa0000",
+      "link": "https://cyberpress.org/shipmonk-data-breach-2/",
+      "filePath": "bleepingcomp/pages/2026/09/04/shipmonk-data-breach-exposes-personal-data-of-67000-additional-trezor-customers.md",
+      "committedAt": "2026-09-06T17:35:51.016+05:30",
+      "title": "ShipMonk Data Breach Exposes Personal Data of 67,000 Additional Trezor Customers"
     }
   ]
 }

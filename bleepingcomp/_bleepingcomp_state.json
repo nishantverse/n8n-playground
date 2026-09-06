@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T00:00:40.511+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-  "lastId": "mwr9o30000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/04/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks.md",
+  "updatedAt": "2026-09-06T12:00:55.098+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+  "lastId": "1p9t7j2000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/04/39-new-methods-that-compromise-passkey-authentication.md",
   "items": [
     {
-      "id": "mwr9o30000",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "filePath": "bleepingcomp/pages/2026/09/04/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks.md",
-      "committedAt": "2026-09-06T00:00:40.511+05:30",
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks"
+      "id": "1p9t7j2000",
+      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "filePath": "bleepingcomp/pages/2026/09/04/39-new-methods-that-compromise-passkey-authentication.md",
+      "committedAt": "2026-09-06T12:00:55.098+05:30",
+      "title": "39 New Methods That Compromise Passkey Authentication"
     }
   ]
 }

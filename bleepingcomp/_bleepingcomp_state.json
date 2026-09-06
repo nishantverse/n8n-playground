@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T12:00:55.098+05:30",
-  "lastLink": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-  "lastId": "1p9t7j2000",
-  "lastFilePath": "bleepingcomp/pages/2026/09/04/39-new-methods-that-compromise-passkey-authentication.md",
+  "updatedAt": "2026-09-06T17:14:55.621+05:30",
+  "lastLink": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+  "lastId": "z5me0u0000",
+  "lastFilePath": "bleepingcomp/pages/2026/09/04/new-crowdstrike-falconflank-zero-day-grants-system-privileges.md",
   "items": [
     {
-      "id": "1p9t7j2000",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "filePath": "bleepingcomp/pages/2026/09/04/39-new-methods-that-compromise-passkey-authentication.md",
-      "committedAt": "2026-09-06T12:00:55.098+05:30",
-      "title": "39 New Methods That Compromise Passkey Authentication"
+      "id": "z5me0u0000",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "filePath": "bleepingcomp/pages/2026/09/04/new-crowdstrike-falconflank-zero-day-grants-system-privileges.md",
+      "committedAt": "2026-09-06T17:14:55.621+05:30",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges"
     }
   ]
 }

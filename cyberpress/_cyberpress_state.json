@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T00:01:14.322+05:30",
-  "lastLink": "https://cyberpress.org/weekly-cybersecurity-roundup-august-31-september-5-2026/",
-  "lastId": "1xqxd6i000",
-  "lastFilePath": "cyberpress/pages/2026/09/06/weekly-cybersecurity-newsletter-top-50-cybersecurity-stories-of-the-week.md",
+  "updatedAt": "2026-09-07T12:00:27.300+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-stylesmuggler-magento-adobe-commerce-zero-day/",
+  "lastId": "15mdi82000",
+  "lastFilePath": "cyberpress/pages/2026/09/07/hackers-exploit-stylesmuggler-magento-and-adobe-commerce-zero-day-for-unauthenti.md",
   "items": [
     {
-      "id": "1xqxd6i000",
-      "link": "https://cyberpress.org/weekly-cybersecurity-roundup-august-31-september-5-2026/",
-      "filePath": "cyberpress/pages/2026/09/06/weekly-cybersecurity-newsletter-top-50-cybersecurity-stories-of-the-week.md",
-      "committedAt": "2026-09-07T00:01:14.322+05:30",
-      "title": "Weekly Cybersecurity Newsletter — Top 50 Cybersecurity Stories of the Week"
+      "id": "15mdi82000",
+      "link": "https://cyberpress.org/hackers-exploit-stylesmuggler-magento-adobe-commerce-zero-day/",
+      "filePath": "cyberpress/pages/2026/09/07/hackers-exploit-stylesmuggler-magento-and-adobe-commerce-zero-day-for-unauthenti.md",
+      "committedAt": "2026-09-07T12:00:27.300+05:30",
+      "title": "Hackers Exploit StyleSmuggler Magento and Adobe Commerce Zero-Day for Unauthenticated RCE"
     }
   ]
 }

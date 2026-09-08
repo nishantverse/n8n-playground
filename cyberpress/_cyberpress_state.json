@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T12:00:28.307+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-metabase-flaw/",
-  "lastId": "1n8338g000",
-  "lastFilePath": "cyberpress/pages/2026/09/08/hackers-exploit-metabase-flaw-in-mathspace-data-breach-affecting-107-million-use.md",
+  "updatedAt": "2026-09-09T00:00:23.343+05:30",
+  "lastLink": "https://cyberpress.org/jellyfin-12-0-fixes-security-flaws/",
+  "lastId": "8qtdr70000",
+  "lastFilePath": "cyberpress/pages/2026/09/08/jellyfin-120-fixes-security-flaws-allowing-unauthorized-file-access-and-xss.md",
   "items": [
     {
-      "id": "1n8338g000",
-      "link": "https://cyberpress.org/hackers-exploit-metabase-flaw/",
-      "filePath": "cyberpress/pages/2026/09/08/hackers-exploit-metabase-flaw-in-mathspace-data-breach-affecting-107-million-use.md",
-      "committedAt": "2026-09-08T12:00:28.307+05:30",
-      "title": "Hackers Exploit Metabase Flaw in Mathspace Data Breach Affecting 1.07 Million Users"
+      "id": "8qtdr70000",
+      "link": "https://cyberpress.org/jellyfin-12-0-fixes-security-flaws/",
+      "filePath": "cyberpress/pages/2026/09/08/jellyfin-120-fixes-security-flaws-allowing-unauthorized-file-access-and-xss.md",
+      "committedAt": "2026-09-09T00:00:23.343+05:30",
+      "title": "Jellyfin 12.0 Fixes Security Flaws Allowing Unauthorized File Access and XSS"
     }
   ]
 }

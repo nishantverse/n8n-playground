@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T12:00:23.658+05:30",
-  "lastLink": "https://cyberpress.org/microsoft-patch-tuesday-fixes-973-vulnerabilities-2-exploited-zero-days/",
-  "lastId": "1ju3vxc000",
-  "lastFilePath": "cyberpress/pages/2026/09/09/microsoft-patch-tuesday-fixes-record-973-vulnerabilities-including-2-exploited-z.md",
+  "updatedAt": "2026-09-10T00:00:24.818+05:30",
+  "lastLink": "https://cyberpress.org/critical-maplibre-gl-js-flaw/",
+  "lastId": "91ch2z0000",
+  "lastFilePath": "cyberpress/pages/2026/09/09/critical-maplibre-gl-js-flaw-allows-zero-click-xss-attacks-without-user-interact.md",
   "items": [
     {
-      "id": "1ju3vxc000",
-      "link": "https://cyberpress.org/microsoft-patch-tuesday-fixes-973-vulnerabilities-2-exploited-zero-days/",
-      "filePath": "cyberpress/pages/2026/09/09/microsoft-patch-tuesday-fixes-record-973-vulnerabilities-including-2-exploited-z.md",
-      "committedAt": "2026-09-09T12:00:23.658+05:30",
-      "title": "Microsoft Patch Tuesday Fixes Record 973 Vulnerabilities Including 2 Exploited Zero-Days"
+      "id": "91ch2z0000",
+      "link": "https://cyberpress.org/critical-maplibre-gl-js-flaw/",
+      "filePath": "cyberpress/pages/2026/09/09/critical-maplibre-gl-js-flaw-allows-zero-click-xss-attacks-without-user-interact.md",
+      "committedAt": "2026-09-10T00:00:24.818+05:30",
+      "title": "Critical MapLibre GL JS Flaw Allows Zero-Click XSS Attacks Without User Interaction"
     }
   ]
 }

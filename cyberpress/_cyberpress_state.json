@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T00:00:24.818+05:30",
-  "lastLink": "https://cyberpress.org/critical-maplibre-gl-js-flaw/",
-  "lastId": "91ch2z0000",
-  "lastFilePath": "cyberpress/pages/2026/09/09/critical-maplibre-gl-js-flaw-allows-zero-click-xss-attacks-without-user-interact.md",
+  "updatedAt": "2026-09-10T12:00:24.049+05:30",
+  "lastLink": "https://cyberpress.org/china-linked-hackers-exploit-chrome-and-windows-zero-days/",
+  "lastId": "7crigl0000",
+  "lastFilePath": "cyberpress/pages/2026/09/10/china-linked-hackers-exploit-chrome-and-windows-zero-days-in-bluemoon-attacks.md",
   "items": [
     {
-      "id": "91ch2z0000",
-      "link": "https://cyberpress.org/critical-maplibre-gl-js-flaw/",
-      "filePath": "cyberpress/pages/2026/09/09/critical-maplibre-gl-js-flaw-allows-zero-click-xss-attacks-without-user-interact.md",
-      "committedAt": "2026-09-10T00:00:24.818+05:30",
-      "title": "Critical MapLibre GL JS Flaw Allows Zero-Click XSS Attacks Without User Interaction"
+      "id": "7crigl0000",
+      "link": "https://cyberpress.org/china-linked-hackers-exploit-chrome-and-windows-zero-days/",
+      "filePath": "cyberpress/pages/2026/09/10/china-linked-hackers-exploit-chrome-and-windows-zero-days-in-bluemoon-attacks.md",
+      "committedAt": "2026-09-10T12:00:24.049+05:30",
+      "title": "China-Linked Hackers Exploit Chrome and Windows Zero-Days in BlueMoon Attacks"
     }
   ]
 }

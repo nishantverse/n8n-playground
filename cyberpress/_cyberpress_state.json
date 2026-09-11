@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T12:00:24.639+05:30",
-  "lastLink": "https://cyberpress.org/hackers-turn-claude-ai-agents-into-autonomous-tools/",
-  "lastId": "1cwourc000",
-  "lastFilePath": "cyberpress/pages/2026/09/11/hackers-turn-claude-ai-agents-into-autonomous-tools-for-exploitation-data-theft-.md",
+  "updatedAt": "2026-09-12T00:00:28.274+05:30",
+  "lastLink": "https://cyberpress.org/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-remote-code-execution/",
+  "lastId": "1aqkbn9000",
+  "lastFilePath": "cyberpress/pages/2026/09/11/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-.md",
   "items": [
     {
-      "id": "1cwourc000",
-      "link": "https://cyberpress.org/hackers-turn-claude-ai-agents-into-autonomous-tools/",
-      "filePath": "cyberpress/pages/2026/09/11/hackers-turn-claude-ai-agents-into-autonomous-tools-for-exploitation-data-theft-.md",
-      "committedAt": "2026-09-11T12:00:24.639+05:30",
-      "title": "Hackers Turn Claude AI Agents Into Autonomous Tools for Exploitation, Data Theft and Malware Evasion"
+      "id": "1aqkbn9000",
+      "link": "https://cyberpress.org/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-remote-code-execution/",
+      "filePath": "cyberpress/pages/2026/09/11/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-.md",
+      "committedAt": "2026-09-12T00:00:28.274+05:30",
+      "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution"
     }
   ]
 }

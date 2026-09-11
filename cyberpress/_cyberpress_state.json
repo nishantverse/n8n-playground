@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T00:00:24.027+05:30",
-  "lastLink": "https://cyberpress.org/apple-xcode-mach-o-parser-flaw/",
-  "lastId": "ukdpaj0000",
-  "lastFilePath": "cyberpress/pages/2026/09/10/apple-xcode-mach-o-parser-flaw-lets-malicious-libraries-leak-memory-and-crash-bu.md",
+  "updatedAt": "2026-09-11T12:00:24.639+05:30",
+  "lastLink": "https://cyberpress.org/hackers-turn-claude-ai-agents-into-autonomous-tools/",
+  "lastId": "1cwourc000",
+  "lastFilePath": "cyberpress/pages/2026/09/11/hackers-turn-claude-ai-agents-into-autonomous-tools-for-exploitation-data-theft-.md",
   "items": [
     {
-      "id": "ukdpaj0000",
-      "link": "https://cyberpress.org/apple-xcode-mach-o-parser-flaw/",
-      "filePath": "cyberpress/pages/2026/09/10/apple-xcode-mach-o-parser-flaw-lets-malicious-libraries-leak-memory-and-crash-bu.md",
-      "committedAt": "2026-09-11T00:00:24.027+05:30",
-      "title": "Apple Xcode Mach-O Parser Flaw Lets Malicious Libraries Leak Memory and Crash Build Systems"
+      "id": "1cwourc000",
+      "link": "https://cyberpress.org/hackers-turn-claude-ai-agents-into-autonomous-tools/",
+      "filePath": "cyberpress/pages/2026/09/11/hackers-turn-claude-ai-agents-into-autonomous-tools-for-exploitation-data-theft-.md",
+      "committedAt": "2026-09-11T12:00:24.639+05:30",
+      "title": "Hackers Turn Claude AI Agents Into Autonomous Tools for Exploitation, Data Theft and Malware Evasion"
     }
   ]
 }

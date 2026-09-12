@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T12:00:23.298+05:30",
-  "lastLink": "https://cyberpress.org/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-server-files/",
-  "lastId": "1hhll89000",
-  "lastFilePath": "cyberpress/pages/2026/09/12/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-se.md",
+  "updatedAt": "2026-09-13T00:00:30.444+05:30",
+  "lastLink": "https://cyberpress.org/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-exploitation-and-data-theft/",
+  "lastId": "1g6hans000",
+  "lastFilePath": "cyberpress/pages/2026/09/12/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-exploitation-and-dat.md",
   "items": [
     {
-      "id": "1hhll89000",
-      "link": "https://cyberpress.org/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-server-files/",
-      "filePath": "cyberpress/pages/2026/09/12/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-se.md",
-      "committedAt": "2026-09-12T12:00:23.298+05:30",
-      "title": "CISA Warns of Critical GitLab Path Traversal Flaw Exploited to Read Arbitrary Server Files"
+      "id": "1g6hans000",
+      "link": "https://cyberpress.org/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-exploitation-and-data-theft/",
+      "filePath": "cyberpress/pages/2026/09/12/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-exploitation-and-dat.md",
+      "committedAt": "2026-09-13T00:00:30.444+05:30",
+      "title": "Threat Actors Use Claude AI Agents to Automate Cyberattacks, Exploitation and Data Theft"
     }
   ]
 }

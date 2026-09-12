@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T00:00:28.274+05:30",
-  "lastLink": "https://cyberpress.org/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-remote-code-execution/",
-  "lastId": "1aqkbn9000",
-  "lastFilePath": "cyberpress/pages/2026/09/11/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-.md",
+  "updatedAt": "2026-09-12T12:00:23.298+05:30",
+  "lastLink": "https://cyberpress.org/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-server-files/",
+  "lastId": "1hhll89000",
+  "lastFilePath": "cyberpress/pages/2026/09/12/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-se.md",
   "items": [
     {
-      "id": "1aqkbn9000",
-      "link": "https://cyberpress.org/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-remote-code-execution/",
-      "filePath": "cyberpress/pages/2026/09/11/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-.md",
-      "committedAt": "2026-09-12T00:00:28.274+05:30",
-      "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution"
+      "id": "1hhll89000",
+      "link": "https://cyberpress.org/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-server-files/",
+      "filePath": "cyberpress/pages/2026/09/12/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-se.md",
+      "committedAt": "2026-09-12T12:00:23.298+05:30",
+      "title": "CISA Warns of Critical GitLab Path Traversal Flaw Exploited to Read Arbitrary Server Files"
     }
   ]
 }

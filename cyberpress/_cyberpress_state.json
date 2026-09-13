@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T12:00:35.502+05:30",
-  "lastLink": "https://cyberpress.org/hackers-abuse-windows-mshta-exe-in-phishing-attacks/",
-  "lastId": "g8ig1z0000",
-  "lastFilePath": "cyberpress/pages/2026/09/12/hackers-abuse-windows-mshtaexe-in-phishing-attacks-to-deploy-hta-malware-and-ste.md",
+  "updatedAt": "2026-09-14T00:00:50.505+05:30",
+  "lastLink": "https://cyberpress.org/critical-auth0-ad-ldap-connector-flaw/",
+  "lastId": "1koiflr000",
+  "lastFilePath": "cyberpress/pages/2026/09/11/critical-auth0-adldap-connector-flaw-lets-attackers-execute-stored-xss-in-admin-.md",
   "items": [
     {
-      "id": "g8ig1z0000",
-      "link": "https://cyberpress.org/hackers-abuse-windows-mshta-exe-in-phishing-attacks/",
-      "filePath": "cyberpress/pages/2026/09/12/hackers-abuse-windows-mshtaexe-in-phishing-attacks-to-deploy-hta-malware-and-ste.md",
-      "committedAt": "2026-09-13T12:00:35.502+05:30",
-      "title": "Hackers Abuse Windows Mshta.exe in Phishing Attacks to Deploy HTA Malware and Steal Credentials"
+      "id": "1koiflr000",
+      "link": "https://cyberpress.org/critical-auth0-ad-ldap-connector-flaw/",
+      "filePath": "cyberpress/pages/2026/09/11/critical-auth0-adldap-connector-flaw-lets-attackers-execute-stored-xss-in-admin-.md",
+      "committedAt": "2026-09-14T00:00:50.505+05:30",
+      "title": "Critical Auth0 AD/LDAP Connector Flaw Lets Attackers Execute Stored XSS in Admin Browsers"
     }
   ]
 }

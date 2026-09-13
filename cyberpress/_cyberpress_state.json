@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T00:00:30.444+05:30",
-  "lastLink": "https://cyberpress.org/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-exploitation-and-data-theft/",
-  "lastId": "1g6hans000",
-  "lastFilePath": "cyberpress/pages/2026/09/12/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-exploitation-and-dat.md",
+  "updatedAt": "2026-09-13T12:00:35.502+05:30",
+  "lastLink": "https://cyberpress.org/hackers-abuse-windows-mshta-exe-in-phishing-attacks/",
+  "lastId": "g8ig1z0000",
+  "lastFilePath": "cyberpress/pages/2026/09/12/hackers-abuse-windows-mshtaexe-in-phishing-attacks-to-deploy-hta-malware-and-ste.md",
   "items": [
     {
-      "id": "1g6hans000",
-      "link": "https://cyberpress.org/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-exploitation-and-data-theft/",
-      "filePath": "cyberpress/pages/2026/09/12/threat-actors-use-claude-ai-agents-to-automate-cyberattacks-exploitation-and-dat.md",
-      "committedAt": "2026-09-13T00:00:30.444+05:30",
-      "title": "Threat Actors Use Claude AI Agents to Automate Cyberattacks, Exploitation and Data Theft"
+      "id": "g8ig1z0000",
+      "link": "https://cyberpress.org/hackers-abuse-windows-mshta-exe-in-phishing-attacks/",
+      "filePath": "cyberpress/pages/2026/09/12/hackers-abuse-windows-mshtaexe-in-phishing-attacks-to-deploy-hta-malware-and-ste.md",
+      "committedAt": "2026-09-13T12:00:35.502+05:30",
+      "title": "Hackers Abuse Windows Mshta.exe in Phishing Attacks to Deploy HTA Malware and Steal Credentials"
     }
   ]
 }

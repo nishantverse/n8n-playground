@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T00:00:50.505+05:30",
-  "lastLink": "https://cyberpress.org/critical-auth0-ad-ldap-connector-flaw/",
-  "lastId": "1koiflr000",
-  "lastFilePath": "cyberpress/pages/2026/09/11/critical-auth0-adldap-connector-flaw-lets-attackers-execute-stored-xss-in-admin-.md",
+  "updatedAt": "2026-09-14T12:00:23.222+05:30",
+  "lastLink": "https://cyberpress.org/critical-check-point-vpn-flaws-2/",
+  "lastId": "15p1b9x000",
+  "lastFilePath": "cyberpress/pages/2026/09/14/critical-check-point-vpn-flaws-could-face-large-scale-exploitation-ncsc-warns.md",
   "items": [
     {
-      "id": "1koiflr000",
-      "link": "https://cyberpress.org/critical-auth0-ad-ldap-connector-flaw/",
-      "filePath": "cyberpress/pages/2026/09/11/critical-auth0-adldap-connector-flaw-lets-attackers-execute-stored-xss-in-admin-.md",
-      "committedAt": "2026-09-14T00:00:50.505+05:30",
-      "title": "Critical Auth0 AD/LDAP Connector Flaw Lets Attackers Execute Stored XSS in Admin Browsers"
+      "id": "15p1b9x000",
+      "link": "https://cyberpress.org/critical-check-point-vpn-flaws-2/",
+      "filePath": "cyberpress/pages/2026/09/14/critical-check-point-vpn-flaws-could-face-large-scale-exploitation-ncsc-warns.md",
+      "committedAt": "2026-09-14T12:00:23.222+05:30",
+      "title": "Critical Check Point VPN Flaws Could Face Large-Scale Exploitation, NCSC Warns"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T12:00:23.364+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-fortigate-ssl-vpn-flaw-to-breach-thai-isp-and-deploy-meshcentral-backdoor/",
-  "lastId": "1nrx190000",
-  "lastFilePath": "cyberpress/pages/2026/09/15/hackers-exploit-fortigate-ssl-vpn-flaw-to-breach-thai-isp-and-deploy-meshcentral.md",
+  "updatedAt": "2026-09-16T00:00:23.061+05:30",
+  "lastLink": "https://cyberpress.org/red-heron-hackers-exploit-critical-gitea-rce/",
+  "lastId": "1ajjm2f000",
+  "lastFilePath": "cyberpress/pages/2026/09/15/red-heron-hackers-exploit-critical-gitea-rce-to-steal-source-code-and-deploy-lin.md",
   "items": [
     {
-      "id": "1nrx190000",
-      "link": "https://cyberpress.org/hackers-exploit-fortigate-ssl-vpn-flaw-to-breach-thai-isp-and-deploy-meshcentral-backdoor/",
-      "filePath": "cyberpress/pages/2026/09/15/hackers-exploit-fortigate-ssl-vpn-flaw-to-breach-thai-isp-and-deploy-meshcentral.md",
-      "committedAt": "2026-09-15T12:00:23.364+05:30",
-      "title": "Hackers Exploit FortiGate SSL-VPN Flaw to Breach Thai ISP and Deploy MeshCentral Backdoor"
+      "id": "1ajjm2f000",
+      "link": "https://cyberpress.org/red-heron-hackers-exploit-critical-gitea-rce/",
+      "filePath": "cyberpress/pages/2026/09/15/red-heron-hackers-exploit-critical-gitea-rce-to-steal-source-code-and-deploy-lin.md",
+      "committedAt": "2026-09-16T00:00:23.061+05:30",
+      "title": "Red Heron Hackers Exploit Critical Gitea RCE to Steal Source Code and Deploy Linux Malware"
     }
   ]
 }

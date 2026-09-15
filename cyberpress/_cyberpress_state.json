@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T00:00:35.647+05:30",
-  "lastLink": "https://cyberpress.org/revolut-data-breach-exposes-passport-copies/",
-  "lastId": "lsdvmn0000",
-  "lastFilePath": "cyberpress/pages/2026/09/14/revolut-data-breach-exposes-passport-copies-kyc-selfies-and-full-transaction-his.md",
+  "updatedAt": "2026-09-15T12:00:23.364+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-fortigate-ssl-vpn-flaw-to-breach-thai-isp-and-deploy-meshcentral-backdoor/",
+  "lastId": "1nrx190000",
+  "lastFilePath": "cyberpress/pages/2026/09/15/hackers-exploit-fortigate-ssl-vpn-flaw-to-breach-thai-isp-and-deploy-meshcentral.md",
   "items": [
     {
-      "id": "lsdvmn0000",
-      "link": "https://cyberpress.org/revolut-data-breach-exposes-passport-copies/",
-      "filePath": "cyberpress/pages/2026/09/14/revolut-data-breach-exposes-passport-copies-kyc-selfies-and-full-transaction-his.md",
-      "committedAt": "2026-09-15T00:00:35.647+05:30",
-      "title": "Revolut Data Breach Exposes Passport Copies, KYC Selfies and Full Transaction Histories"
+      "id": "1nrx190000",
+      "link": "https://cyberpress.org/hackers-exploit-fortigate-ssl-vpn-flaw-to-breach-thai-isp-and-deploy-meshcentral-backdoor/",
+      "filePath": "cyberpress/pages/2026/09/15/hackers-exploit-fortigate-ssl-vpn-flaw-to-breach-thai-isp-and-deploy-meshcentral.md",
+      "committedAt": "2026-09-15T12:00:23.364+05:30",
+      "title": "Hackers Exploit FortiGate SSL-VPN Flaw to Breach Thai ISP and Deploy MeshCentral Backdoor"
     }
   ]
 }

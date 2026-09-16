@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T12:00:30.112+05:30",
-  "lastLink": "https://cyberpress.org/apple-ios-27-and-macos-27-security-updates-fix/",
-  "lastId": "1vv99g5000",
-  "lastFilePath": "cyberpress/pages/2026/09/16/apple-ios-27-and-macos-27-security-updates-fix-rce-kernel-and-webkit-flaws.md",
+  "updatedAt": "2026-09-17T00:00:23.287+05:30",
+  "lastLink": "https://cyberpress.org/centerpoint-energy-data-breach/",
+  "lastId": "s98r0k0000",
+  "lastFilePath": "cyberpress/pages/2026/09/16/centerpoint-energy-data-breach-exposes-customers-personal-information.md",
   "items": [
     {
-      "id": "1vv99g5000",
-      "link": "https://cyberpress.org/apple-ios-27-and-macos-27-security-updates-fix/",
-      "filePath": "cyberpress/pages/2026/09/16/apple-ios-27-and-macos-27-security-updates-fix-rce-kernel-and-webkit-flaws.md",
-      "committedAt": "2026-09-16T12:00:30.112+05:30",
-      "title": "Apple iOS 27 and macOS 27 Security Updates Fix RCE, Kernel and WebKit Flaws"
+      "id": "s98r0k0000",
+      "link": "https://cyberpress.org/centerpoint-energy-data-breach/",
+      "filePath": "cyberpress/pages/2026/09/16/centerpoint-energy-data-breach-exposes-customers-personal-information.md",
+      "committedAt": "2026-09-17T00:00:23.287+05:30",
+      "title": "CenterPoint Energy Data Breach Exposes Customers’ Personal Information"
     }
   ]
 }

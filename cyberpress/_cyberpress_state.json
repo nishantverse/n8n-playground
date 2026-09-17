@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T12:00:23.282+05:30",
-  "lastLink": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
-  "lastId": "8r9xk40000",
-  "lastFilePath": "cyberpress/pages/2026/09/17/jenkins-fixes-20-plugin-vulnerabilities-enabling-rce-sandbox-bypass-and-credenti.md",
+  "updatedAt": "2026-09-18T00:00:24.112+05:30",
+  "lastLink": "https://cyberpress.org/the-trusted-domain-is-dead-a-hacked-thai-college-just-proved-it/",
+  "lastId": "wsfypl0000",
+  "lastFilePath": "cyberpress/pages/2026/09/17/the-trusted-domain-is-dead-a-hacked-thai-college-just-proved-it.md",
   "items": [
     {
-      "id": "8r9xk40000",
-      "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/09/17/jenkins-fixes-20-plugin-vulnerabilities-enabling-rce-sandbox-bypass-and-credenti.md",
-      "committedAt": "2026-09-17T12:00:23.282+05:30",
-      "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft"
+      "id": "wsfypl0000",
+      "link": "https://cyberpress.org/the-trusted-domain-is-dead-a-hacked-thai-college-just-proved-it/",
+      "filePath": "cyberpress/pages/2026/09/17/the-trusted-domain-is-dead-a-hacked-thai-college-just-proved-it.md",
+      "committedAt": "2026-09-18T00:00:24.112+05:30",
+      "title": "The Trusted Domain Is Dead. A Hacked Thai College Just Proved It."
     }
   ]
 }

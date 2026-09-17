@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T00:00:23.287+05:30",
-  "lastLink": "https://cyberpress.org/centerpoint-energy-data-breach/",
-  "lastId": "s98r0k0000",
-  "lastFilePath": "cyberpress/pages/2026/09/16/centerpoint-energy-data-breach-exposes-customers-personal-information.md",
+  "updatedAt": "2026-09-17T12:00:23.282+05:30",
+  "lastLink": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+  "lastId": "8r9xk40000",
+  "lastFilePath": "cyberpress/pages/2026/09/17/jenkins-fixes-20-plugin-vulnerabilities-enabling-rce-sandbox-bypass-and-credenti.md",
   "items": [
     {
-      "id": "s98r0k0000",
-      "link": "https://cyberpress.org/centerpoint-energy-data-breach/",
-      "filePath": "cyberpress/pages/2026/09/16/centerpoint-energy-data-breach-exposes-customers-personal-information.md",
-      "committedAt": "2026-09-17T00:00:23.287+05:30",
-      "title": "CenterPoint Energy Data Breach Exposes Customers’ Personal Information"
+      "id": "8r9xk40000",
+      "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/09/17/jenkins-fixes-20-plugin-vulnerabilities-enabling-rce-sandbox-bypass-and-credenti.md",
+      "committedAt": "2026-09-17T12:00:23.282+05:30",
+      "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft"
     }
   ]
 }

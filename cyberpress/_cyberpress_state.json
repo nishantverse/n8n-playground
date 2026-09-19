@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T12:00:32.333+05:30",
-  "lastLink": "https://cyberpress.org/settra-ransomware-erases-recovery/",
-  "lastId": "1m7j2w6000",
-  "lastFilePath": "cyberpress/pages/2026/09/18/new-settra-ransomware-wipes-recovery-options-before-locking-windows-files.md",
+  "updatedAt": "2026-09-20T00:00:23.025+05:30",
+  "lastLink": "https://cyberpress.org/new-rathat-android-malware-uses-ai-to-steal-banking-logins/",
+  "lastId": "k5gdov0000",
+  "lastFilePath": "cyberpress/pages/2026/09/19/new-rathat-android-malware-uses-ai-to-steal-banking-logins-pins-and-otp-codes.md",
   "items": [
     {
-      "id": "1m7j2w6000",
-      "link": "https://cyberpress.org/settra-ransomware-erases-recovery/",
-      "filePath": "cyberpress/pages/2026/09/18/new-settra-ransomware-wipes-recovery-options-before-locking-windows-files.md",
-      "committedAt": "2026-09-19T12:00:32.333+05:30",
-      "title": "New SETTRA Ransomware Wipes Recovery Options Before Locking Windows Files"
+      "id": "k5gdov0000",
+      "link": "https://cyberpress.org/new-rathat-android-malware-uses-ai-to-steal-banking-logins/",
+      "filePath": "cyberpress/pages/2026/09/19/new-rathat-android-malware-uses-ai-to-steal-banking-logins-pins-and-otp-codes.md",
+      "committedAt": "2026-09-20T00:00:23.025+05:30",
+      "title": "New RatHat Android Malware Uses AI to Steal Banking Logins, PINs and OTP Codes"
     }
   ]
 }

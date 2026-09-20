@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T12:00:29.307+05:30",
-  "lastLink": "https://cyberpress.org/hackers-hide-powershell-malware-in-registry/",
-  "lastId": "yuvpw60000",
-  "lastFilePath": "cyberpress/pages/2026/09/19/hackers-hide-powershell-malware-in-registry-png-and-wav-files-to-deploy-xmrig-mi.md",
+  "updatedAt": "2026-09-21T00:00:42.365+05:30",
+  "lastLink": "https://cyberpress.org/ai-ransomware-goes-autonomous/",
+  "lastId": "z4iw5t0000",
+  "lastFilePath": "cyberpress/pages/2026/09/18/agentic-ransomware-lets-ai-agents-execute-cyberattacks-without-human-operators.md",
   "items": [
     {
-      "id": "yuvpw60000",
-      "link": "https://cyberpress.org/hackers-hide-powershell-malware-in-registry/",
-      "filePath": "cyberpress/pages/2026/09/19/hackers-hide-powershell-malware-in-registry-png-and-wav-files-to-deploy-xmrig-mi.md",
-      "committedAt": "2026-09-20T12:00:29.307+05:30",
-      "title": "Hackers Hide PowerShell Malware in Registry, PNG and WAV Files to Deploy XMRig Miner"
+      "id": "z4iw5t0000",
+      "link": "https://cyberpress.org/ai-ransomware-goes-autonomous/",
+      "filePath": "cyberpress/pages/2026/09/18/agentic-ransomware-lets-ai-agents-execute-cyberattacks-without-human-operators.md",
+      "committedAt": "2026-09-21T00:00:42.365+05:30",
+      "title": "Agentic Ransomware Lets AI Agents Execute Cyberattacks Without Human Operators"
     }
   ]
 }

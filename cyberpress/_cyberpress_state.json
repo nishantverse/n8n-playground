@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T12:00:23.263+05:30",
-  "lastLink": "https://cyberpress.org/mirai-surges-on-cpanel/",
-  "lastId": "efi5ga0000",
-  "lastFilePath": "cyberpress/pages/2026/09/21/mirai-botnet-activity-surges-after-hackers-compromise-cpanel-hosting-servers.md",
+  "updatedAt": "2026-09-22T00:00:23.386+05:30",
+  "lastLink": "https://cyberpress.org/npm-malware-evades-detection/",
+  "lastId": "1oavf7w000",
+  "lastFilePath": "cyberpress/pages/2026/09/21/npm-supply-chain-attack-hides-malware-inside-normal-package-code-to-evade-detect.md",
   "items": [
     {
-      "id": "efi5ga0000",
-      "link": "https://cyberpress.org/mirai-surges-on-cpanel/",
-      "filePath": "cyberpress/pages/2026/09/21/mirai-botnet-activity-surges-after-hackers-compromise-cpanel-hosting-servers.md",
-      "committedAt": "2026-09-21T12:00:23.263+05:30",
-      "title": "Mirai Botnet Activity Surges After Hackers Compromise cPanel Hosting Servers"
+      "id": "1oavf7w000",
+      "link": "https://cyberpress.org/npm-malware-evades-detection/",
+      "filePath": "cyberpress/pages/2026/09/21/npm-supply-chain-attack-hides-malware-inside-normal-package-code-to-evade-detect.md",
+      "committedAt": "2026-09-22T00:00:23.386+05:30",
+      "title": "npm Supply Chain Attack Hides Malware Inside Normal Package Code to Evade Detection"
     }
   ]
 }

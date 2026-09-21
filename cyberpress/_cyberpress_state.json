@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T00:00:42.365+05:30",
-  "lastLink": "https://cyberpress.org/ai-ransomware-goes-autonomous/",
-  "lastId": "z4iw5t0000",
-  "lastFilePath": "cyberpress/pages/2026/09/18/agentic-ransomware-lets-ai-agents-execute-cyberattacks-without-human-operators.md",
+  "updatedAt": "2026-09-21T12:00:23.263+05:30",
+  "lastLink": "https://cyberpress.org/mirai-surges-on-cpanel/",
+  "lastId": "efi5ga0000",
+  "lastFilePath": "cyberpress/pages/2026/09/21/mirai-botnet-activity-surges-after-hackers-compromise-cpanel-hosting-servers.md",
   "items": [
     {
-      "id": "z4iw5t0000",
-      "link": "https://cyberpress.org/ai-ransomware-goes-autonomous/",
-      "filePath": "cyberpress/pages/2026/09/18/agentic-ransomware-lets-ai-agents-execute-cyberattacks-without-human-operators.md",
-      "committedAt": "2026-09-21T00:00:42.365+05:30",
-      "title": "Agentic Ransomware Lets AI Agents Execute Cyberattacks Without Human Operators"
+      "id": "efi5ga0000",
+      "link": "https://cyberpress.org/mirai-surges-on-cpanel/",
+      "filePath": "cyberpress/pages/2026/09/21/mirai-botnet-activity-surges-after-hackers-compromise-cpanel-hosting-servers.md",
+      "committedAt": "2026-09-21T12:00:23.263+05:30",
+      "title": "Mirai Botnet Activity Surges After Hackers Compromise cPanel Hosting Servers"
     }
   ]
 }

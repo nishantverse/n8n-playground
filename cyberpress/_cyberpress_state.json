@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T12:00:24.176+05:30",
-  "lastLink": "https://cyberpress.org/muse-ai-agent-0-day/",
-  "lastId": "129tpb6000",
-  "lastFilePath": "cyberpress/pages/2026/09/22/muse-ai-agent-0-day-lets-local-malware-hijack-prompts-and-steal-authentication-t.md",
+  "updatedAt": "2026-09-23T00:00:23.855+05:30",
+  "lastLink": "https://cyberpress.org/critical-linux-kvm-flaw/",
+  "lastId": "6725j90000",
+  "lastFilePath": "cyberpress/pages/2026/09/22/critical-linux-kvm-flaw-lets-attackers-escape-virtual-machines-and-gain-root-acc.md",
   "items": [
     {
-      "id": "129tpb6000",
-      "link": "https://cyberpress.org/muse-ai-agent-0-day/",
-      "filePath": "cyberpress/pages/2026/09/22/muse-ai-agent-0-day-lets-local-malware-hijack-prompts-and-steal-authentication-t.md",
-      "committedAt": "2026-09-22T12:00:24.176+05:30",
-      "title": "Muse AI Agent 0-Day Lets Local Malware Hijack Prompts and Steal Authentication Tokens"
+      "id": "6725j90000",
+      "link": "https://cyberpress.org/critical-linux-kvm-flaw/",
+      "filePath": "cyberpress/pages/2026/09/22/critical-linux-kvm-flaw-lets-attackers-escape-virtual-machines-and-gain-root-acc.md",
+      "committedAt": "2026-09-23T00:00:23.855+05:30",
+      "title": "Critical Linux KVM Flaw Lets Attackers Escape Virtual Machines and Gain Root Access"
     }
   ]
 }

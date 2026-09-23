@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T12:00:24.515+05:30",
-  "lastLink": "https://cyberpress.org/critical-f5-big-ip-apm-flaw-actively-exploited-for-unauthenticated-rce/",
-  "lastId": "1qpzxzt000",
-  "lastFilePath": "cyberpress/pages/2026/09/23/critical-f5-big-ip-apm-flaw-actively-exploited-for-unauthenticated-rce.md",
+  "updatedAt": "2026-09-24T00:00:24.746+05:30",
+  "lastLink": "https://cyberpress.org/google-chrome-154-patches-108-security-flaws/",
+  "lastId": "cbdl1w0000",
+  "lastFilePath": "cyberpress/pages/2026/09/23/google-chrome-154-patches-108-security-flaws-including-11-critical-vulnerabiliti.md",
   "items": [
     {
-      "id": "1qpzxzt000",
-      "link": "https://cyberpress.org/critical-f5-big-ip-apm-flaw-actively-exploited-for-unauthenticated-rce/",
-      "filePath": "cyberpress/pages/2026/09/23/critical-f5-big-ip-apm-flaw-actively-exploited-for-unauthenticated-rce.md",
-      "committedAt": "2026-09-23T12:00:24.515+05:30",
-      "title": "Critical F5 BIG-IP APM Flaw Actively Exploited for Unauthenticated RCE"
+      "id": "cbdl1w0000",
+      "link": "https://cyberpress.org/google-chrome-154-patches-108-security-flaws/",
+      "filePath": "cyberpress/pages/2026/09/23/google-chrome-154-patches-108-security-flaws-including-11-critical-vulnerabiliti.md",
+      "committedAt": "2026-09-24T00:00:24.746+05:30",
+      "title": "Google Chrome 154 Patches 108 Security Flaws Including 11 Critical Vulnerabilities"
     }
   ]
 }

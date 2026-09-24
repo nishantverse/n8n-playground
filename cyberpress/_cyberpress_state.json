@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T12:00:23.463+05:30",
-  "lastLink": "https://cyberpress.org/hpe-networking-ale-vulnerabilities/",
-  "lastId": "cq6zx00000",
-  "lastFilePath": "cyberpress/pages/2026/09/23/hpe-networking-ale-vulnerabilities-enable-authentication-bypass-root-access-and-.md",
+  "updatedAt": "2026-09-25T00:00:24.194+05:30",
+  "lastLink": "https://cyberpress.org/critical-check-point-vpn-and-management-vulnerabilities/",
+  "lastId": "7n74ir0000",
+  "lastFilePath": "cyberpress/pages/2026/09/24/critical-check-point-vpn-and-management-vulnerabilities-actively-exploited-in-at.md",
   "items": [
     {
-      "id": "cq6zx00000",
-      "link": "https://cyberpress.org/hpe-networking-ale-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/09/23/hpe-networking-ale-vulnerabilities-enable-authentication-bypass-root-access-and-.md",
-      "committedAt": "2026-09-24T12:00:23.463+05:30",
-      "title": "HPE Networking ALE Vulnerabilities Enable Authentication Bypass, Root Access and Data Exposure"
+      "id": "7n74ir0000",
+      "link": "https://cyberpress.org/critical-check-point-vpn-and-management-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/09/24/critical-check-point-vpn-and-management-vulnerabilities-actively-exploited-in-at.md",
+      "committedAt": "2026-09-25T00:00:24.194+05:30",
+      "title": "Critical Check Point VPN and Management Vulnerabilities Actively Exploited in Attacks"
     }
   ]
 }

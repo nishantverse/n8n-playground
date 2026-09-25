@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T00:00:24.194+05:30",
-  "lastLink": "https://cyberpress.org/critical-check-point-vpn-and-management-vulnerabilities/",
-  "lastId": "7n74ir0000",
-  "lastFilePath": "cyberpress/pages/2026/09/24/critical-check-point-vpn-and-management-vulnerabilities-actively-exploited-in-at.md",
+  "updatedAt": "2026-09-25T12:00:30.833+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-roundcube-webmail-sql-injection-flaw/",
+  "lastId": "15v7w8o000",
+  "lastFilePath": "cyberpress/pages/2026/09/24/hackers-exploit-roundcube-webmail-sql-injection-flaw-without-authentication.md",
   "items": [
     {
-      "id": "7n74ir0000",
-      "link": "https://cyberpress.org/critical-check-point-vpn-and-management-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/09/24/critical-check-point-vpn-and-management-vulnerabilities-actively-exploited-in-at.md",
-      "committedAt": "2026-09-25T00:00:24.194+05:30",
-      "title": "Critical Check Point VPN and Management Vulnerabilities Actively Exploited in Attacks"
+      "id": "15v7w8o000",
+      "link": "https://cyberpress.org/hackers-exploit-roundcube-webmail-sql-injection-flaw/",
+      "filePath": "cyberpress/pages/2026/09/24/hackers-exploit-roundcube-webmail-sql-injection-flaw-without-authentication.md",
+      "committedAt": "2026-09-25T12:00:30.833+05:30",
+      "title": "Hackers Exploit Roundcube Webmail SQL Injection Flaw Without Authentication"
     }
   ]
 }

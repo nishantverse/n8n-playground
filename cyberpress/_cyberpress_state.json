@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T12:00:30.833+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-roundcube-webmail-sql-injection-flaw/",
-  "lastId": "15v7w8o000",
-  "lastFilePath": "cyberpress/pages/2026/09/24/hackers-exploit-roundcube-webmail-sql-injection-flaw-without-authentication.md",
+  "updatedAt": "2026-09-26T00:00:23.922+05:30",
+  "lastLink": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/",
+  "lastId": "4mq18i0000",
+  "lastFilePath": "cyberpress/pages/2026/09/25/servicenow-fixes-five-ai-platform-flaws-enabling-sql-injection-data-theft-and-pr.md",
   "items": [
     {
-      "id": "15v7w8o000",
-      "link": "https://cyberpress.org/hackers-exploit-roundcube-webmail-sql-injection-flaw/",
-      "filePath": "cyberpress/pages/2026/09/24/hackers-exploit-roundcube-webmail-sql-injection-flaw-without-authentication.md",
-      "committedAt": "2026-09-25T12:00:30.833+05:30",
-      "title": "Hackers Exploit Roundcube Webmail SQL Injection Flaw Without Authentication"
+      "id": "4mq18i0000",
+      "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/",
+      "filePath": "cyberpress/pages/2026/09/25/servicenow-fixes-five-ai-platform-flaws-enabling-sql-injection-data-theft-and-pr.md",
+      "committedAt": "2026-09-26T00:00:23.922+05:30",
+      "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation"
     }
   ]
 }

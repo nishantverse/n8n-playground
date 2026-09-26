@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T12:00:23.105+05:30",
-  "lastLink": "https://cyberpress.org/red-heron-hackers-exploit-critical-gitea-rce-2/",
-  "lastId": "k1whi10000",
-  "lastFilePath": "cyberpress/pages/2026/09/26/red-heron-hackers-exploit-critical-gitea-rce-to-steal-source-code-and-deploy-lin.md",
+  "updatedAt": "2026-09-27T00:00:41.594+05:30",
+  "lastLink": "https://cyberpress.org/microsoft-warns-windows-11-update-causes-black-screen-and-desktop-loading-issues/",
+  "lastId": "a950zd0000",
+  "lastFilePath": "cyberpress/pages/2026/09/26/microsoft-warns-windows-11-update-causes-black-screen-and-desktop-loading-issues.md",
   "items": [
     {
-      "id": "k1whi10000",
-      "link": "https://cyberpress.org/red-heron-hackers-exploit-critical-gitea-rce-2/",
-      "filePath": "cyberpress/pages/2026/09/26/red-heron-hackers-exploit-critical-gitea-rce-to-steal-source-code-and-deploy-lin.md",
-      "committedAt": "2026-09-26T12:00:23.105+05:30",
-      "title": "Red Heron Hackers Exploit Critical Gitea RCE to Steal Source Code and Deploy Linux Rootkit"
+      "id": "a950zd0000",
+      "link": "https://cyberpress.org/microsoft-warns-windows-11-update-causes-black-screen-and-desktop-loading-issues/",
+      "filePath": "cyberpress/pages/2026/09/26/microsoft-warns-windows-11-update-causes-black-screen-and-desktop-loading-issues.md",
+      "committedAt": "2026-09-27T00:00:41.594+05:30",
+      "title": "Microsoft Warns Windows 11 Update Causes Black Screen and Desktop Loading Issues"
     }
   ]
 }

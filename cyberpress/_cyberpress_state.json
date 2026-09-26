@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T00:00:23.922+05:30",
-  "lastLink": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/",
-  "lastId": "4mq18i0000",
-  "lastFilePath": "cyberpress/pages/2026/09/25/servicenow-fixes-five-ai-platform-flaws-enabling-sql-injection-data-theft-and-pr.md",
+  "updatedAt": "2026-09-26T12:00:23.105+05:30",
+  "lastLink": "https://cyberpress.org/red-heron-hackers-exploit-critical-gitea-rce-2/",
+  "lastId": "k1whi10000",
+  "lastFilePath": "cyberpress/pages/2026/09/26/red-heron-hackers-exploit-critical-gitea-rce-to-steal-source-code-and-deploy-lin.md",
   "items": [
     {
-      "id": "4mq18i0000",
-      "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/",
-      "filePath": "cyberpress/pages/2026/09/25/servicenow-fixes-five-ai-platform-flaws-enabling-sql-injection-data-theft-and-pr.md",
-      "committedAt": "2026-09-26T00:00:23.922+05:30",
-      "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation"
+      "id": "k1whi10000",
+      "link": "https://cyberpress.org/red-heron-hackers-exploit-critical-gitea-rce-2/",
+      "filePath": "cyberpress/pages/2026/09/26/red-heron-hackers-exploit-critical-gitea-rce-to-steal-source-code-and-deploy-lin.md",
+      "committedAt": "2026-09-26T12:00:23.105+05:30",
+      "title": "Red Heron Hackers Exploit Critical Gitea RCE to Steal Source Code and Deploy Linux Rootkit"
     }
   ]
 }

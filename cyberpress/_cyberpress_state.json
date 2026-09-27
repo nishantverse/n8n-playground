@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T12:00:41.406+05:30",
-  "lastLink": "https://cyberpress.org/kiteworks-customers-told-shut-down-servers/",
-  "lastId": "cr2j4a0000",
-  "lastFilePath": "cyberpress/pages/2026/09/26/kiteworks-customers-told-to-shut-down-servers-over-possible-zero-day-attack.md",
+  "updatedAt": "2026-09-28T00:00:53.154+05:30",
+  "lastLink": "https://cyberpress.org/storm-3168-uses-compromised-service-principals/",
+  "lastId": "t81w430000",
+  "lastFilePath": "cyberpress/pages/2026/09/26/storm-3168-uses-compromised-service-principals-to-launch-agentic-attacks-on-azur.md",
   "items": [
     {
-      "id": "cr2j4a0000",
-      "link": "https://cyberpress.org/kiteworks-customers-told-shut-down-servers/",
-      "filePath": "cyberpress/pages/2026/09/26/kiteworks-customers-told-to-shut-down-servers-over-possible-zero-day-attack.md",
-      "committedAt": "2026-09-27T12:00:41.406+05:30",
-      "title": "Kiteworks Customers Told to Shut Down Servers Over Possible Zero-Day Attack"
+      "id": "t81w430000",
+      "link": "https://cyberpress.org/storm-3168-uses-compromised-service-principals/",
+      "filePath": "cyberpress/pages/2026/09/26/storm-3168-uses-compromised-service-principals-to-launch-agentic-attacks-on-azur.md",
+      "committedAt": "2026-09-28T00:00:53.154+05:30",
+      "title": "Storm-3168 Uses Compromised Service Principals to Launch Agentic Attacks on Azure Cloud"
     }
   ]
 }

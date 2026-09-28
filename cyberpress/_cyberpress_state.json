@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T12:00:23.951+05:30",
-  "lastLink": "https://cyberpress.org/citrix-confirms-netscaler-zero-day-rce/",
-  "lastId": "1o7tolo000",
-  "lastFilePath": "cyberpress/pages/2026/09/28/citrix-confirms-netscaler-zero-day-rce-flaws-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-09-29T00:00:25.024+05:30",
+  "lastLink": "https://cyberpress.org/shinyhunters-renew-peoplesoft-attacks/",
+  "lastId": "s1nukb0000",
+  "lastFilePath": "cyberpress/pages/2026/09/28/shinyhunters-exploits-oracle-peoplesoft-vulnerability-cve-2026-35273-in-new-atta.md",
   "items": [
     {
-      "id": "1o7tolo000",
-      "link": "https://cyberpress.org/citrix-confirms-netscaler-zero-day-rce/",
-      "filePath": "cyberpress/pages/2026/09/28/citrix-confirms-netscaler-zero-day-rce-flaws-actively-exploited-in-attacks.md",
-      "committedAt": "2026-09-28T12:00:23.951+05:30",
-      "title": "Citrix Confirms NetScaler Zero-Day RCE Flaws Actively Exploited in Attacks"
+      "id": "s1nukb0000",
+      "link": "https://cyberpress.org/shinyhunters-renew-peoplesoft-attacks/",
+      "filePath": "cyberpress/pages/2026/09/28/shinyhunters-exploits-oracle-peoplesoft-vulnerability-cve-2026-35273-in-new-atta.md",
+      "committedAt": "2026-09-29T00:00:25.024+05:30",
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Vulnerability CVE-2026-35273 in New Attack Wave"
     }
   ]
 }

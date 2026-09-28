@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T00:00:53.154+05:30",
-  "lastLink": "https://cyberpress.org/storm-3168-uses-compromised-service-principals/",
-  "lastId": "t81w430000",
-  "lastFilePath": "cyberpress/pages/2026/09/26/storm-3168-uses-compromised-service-principals-to-launch-agentic-attacks-on-azur.md",
+  "updatedAt": "2026-09-28T12:00:23.951+05:30",
+  "lastLink": "https://cyberpress.org/citrix-confirms-netscaler-zero-day-rce/",
+  "lastId": "1o7tolo000",
+  "lastFilePath": "cyberpress/pages/2026/09/28/citrix-confirms-netscaler-zero-day-rce-flaws-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "t81w430000",
-      "link": "https://cyberpress.org/storm-3168-uses-compromised-service-principals/",
-      "filePath": "cyberpress/pages/2026/09/26/storm-3168-uses-compromised-service-principals-to-launch-agentic-attacks-on-azur.md",
-      "committedAt": "2026-09-28T00:00:53.154+05:30",
-      "title": "Storm-3168 Uses Compromised Service Principals to Launch Agentic Attacks on Azure Cloud"
+      "id": "1o7tolo000",
+      "link": "https://cyberpress.org/citrix-confirms-netscaler-zero-day-rce/",
+      "filePath": "cyberpress/pages/2026/09/28/citrix-confirms-netscaler-zero-day-rce-flaws-actively-exploited-in-attacks.md",
+      "committedAt": "2026-09-28T12:00:23.951+05:30",
+      "title": "Citrix Confirms NetScaler Zero-Day RCE Flaws Actively Exploited in Attacks"
     }
   ]
 }

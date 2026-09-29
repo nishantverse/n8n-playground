@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T00:00:25.024+05:30",
-  "lastLink": "https://cyberpress.org/shinyhunters-renew-peoplesoft-attacks/",
-  "lastId": "s1nukb0000",
-  "lastFilePath": "cyberpress/pages/2026/09/28/shinyhunters-exploits-oracle-peoplesoft-vulnerability-cve-2026-35273-in-new-atta.md",
+  "updatedAt": "2026-09-29T12:00:30.944+05:30",
+  "lastLink": "https://cyberpress.org/microsoft-tracks-needymantis-post-compromise-malware/",
+  "lastId": "r208d00000",
+  "lastFilePath": "cyberpress/pages/2026/09/29/microsoft-tracks-needymantis-post-compromise-malware-targeting-telecoms-and-gove.md",
   "items": [
     {
-      "id": "s1nukb0000",
-      "link": "https://cyberpress.org/shinyhunters-renew-peoplesoft-attacks/",
-      "filePath": "cyberpress/pages/2026/09/28/shinyhunters-exploits-oracle-peoplesoft-vulnerability-cve-2026-35273-in-new-atta.md",
-      "committedAt": "2026-09-29T00:00:25.024+05:30",
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Vulnerability CVE-2026-35273 in New Attack Wave"
+      "id": "r208d00000",
+      "link": "https://cyberpress.org/microsoft-tracks-needymantis-post-compromise-malware/",
+      "filePath": "cyberpress/pages/2026/09/29/microsoft-tracks-needymantis-post-compromise-malware-targeting-telecoms-and-gove.md",
+      "committedAt": "2026-09-29T12:00:30.944+05:30",
+      "title": "Microsoft Tracks NeedyMantis Post-Compromise Malware Targeting Telecoms and Government Contractors"
     }
   ]
 }

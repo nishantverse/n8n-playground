@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T12:00:30.944+05:30",
-  "lastLink": "https://cyberpress.org/microsoft-tracks-needymantis-post-compromise-malware/",
-  "lastId": "r208d00000",
-  "lastFilePath": "cyberpress/pages/2026/09/29/microsoft-tracks-needymantis-post-compromise-malware-targeting-telecoms-and-gove.md",
+  "updatedAt": "2026-09-30T00:00:23.983+05:30",
+  "lastLink": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/",
+  "lastId": "zp40jz0000",
+  "lastFilePath": "cyberpress/pages/2026/09/29/wolfssl-594-patches-11-vulnerabilities-enabling-authentication-and-certificate-v.md",
   "items": [
     {
-      "id": "r208d00000",
-      "link": "https://cyberpress.org/microsoft-tracks-needymantis-post-compromise-malware/",
-      "filePath": "cyberpress/pages/2026/09/29/microsoft-tracks-needymantis-post-compromise-malware-targeting-telecoms-and-gove.md",
-      "committedAt": "2026-09-29T12:00:30.944+05:30",
-      "title": "Microsoft Tracks NeedyMantis Post-Compromise Malware Targeting Telecoms and Government Contractors"
+      "id": "zp40jz0000",
+      "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/09/29/wolfssl-594-patches-11-vulnerabilities-enabling-authentication-and-certificate-v.md",
+      "committedAt": "2026-09-30T00:00:23.983+05:30",
+      "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass"
     }
   ]
 }

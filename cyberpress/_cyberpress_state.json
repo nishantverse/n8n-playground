@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T00:00:23.983+05:30",
-  "lastLink": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/",
-  "lastId": "zp40jz0000",
-  "lastFilePath": "cyberpress/pages/2026/09/29/wolfssl-594-patches-11-vulnerabilities-enabling-authentication-and-certificate-v.md",
+  "updatedAt": "2026-09-30T12:00:23.549+05:30",
+  "lastLink": "https://cyberpress.org/linux-kernel-out-of-bounds-write-flaw/",
+  "lastId": "1xxd3m4000",
+  "lastFilePath": "cyberpress/pages/2026/09/30/linux-kernel-out-of-bounds-write-flaw-enables-local-privilege-escalation-to-root.md",
   "items": [
     {
-      "id": "zp40jz0000",
-      "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/09/29/wolfssl-594-patches-11-vulnerabilities-enabling-authentication-and-certificate-v.md",
-      "committedAt": "2026-09-30T00:00:23.983+05:30",
-      "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass"
+      "id": "1xxd3m4000",
+      "link": "https://cyberpress.org/linux-kernel-out-of-bounds-write-flaw/",
+      "filePath": "cyberpress/pages/2026/09/30/linux-kernel-out-of-bounds-write-flaw-enables-local-privilege-escalation-to-root.md",
+      "committedAt": "2026-09-30T12:00:23.549+05:30",
+      "title": "Linux Kernel Out-of-Bounds Write Flaw Enables Local Privilege Escalation to Root"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T12:00:23.549+05:30",
-  "lastLink": "https://cyberpress.org/linux-kernel-out-of-bounds-write-flaw/",
-  "lastId": "1xxd3m4000",
-  "lastFilePath": "cyberpress/pages/2026/09/30/linux-kernel-out-of-bounds-write-flaw-enables-local-privilege-escalation-to-root.md",
+  "updatedAt": "2026-10-01T00:00:24.587+05:30",
+  "lastLink": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+  "lastId": "1u4ttrt000",
+  "lastFilePath": "cyberpress/pages/2026/09/30/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug.md",
   "items": [
     {
-      "id": "1xxd3m4000",
-      "link": "https://cyberpress.org/linux-kernel-out-of-bounds-write-flaw/",
-      "filePath": "cyberpress/pages/2026/09/30/linux-kernel-out-of-bounds-write-flaw-enables-local-privilege-escalation-to-root.md",
-      "committedAt": "2026-09-30T12:00:23.549+05:30",
-      "title": "Linux Kernel Out-of-Bounds Write Flaw Enables Local Privilege Escalation to Root"
+      "id": "1u4ttrt000",
+      "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+      "filePath": "cyberpress/pages/2026/09/30/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug.md",
+      "committedAt": "2026-10-01T00:00:24.587+05:30",
+      "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T12:00:23.375+05:30",
-  "lastLink": "https://cyberpress.org/zimbra-flaw-enables-unauthenticated-rce/",
-  "lastId": "30c5m00000",
-  "lastFilePath": "cyberpress/pages/2026/10/01/hackers-exploit-zimbra-cve-2026-73570-with-crafted-emails-to-execute-commands-wi.md",
+  "updatedAt": "2026-10-02T00:00:29.244+05:30",
+  "lastLink": "https://cyberpress.org/critical-teamviewer-vulnerabilities/",
+  "lastId": "ptrm3o0000",
+  "lastFilePath": "cyberpress/pages/2026/10/01/critical-teamviewer-vulnerabilities-enable-remote-code-execution-and-privilege-e.md",
   "items": [
     {
-      "id": "30c5m00000",
-      "link": "https://cyberpress.org/zimbra-flaw-enables-unauthenticated-rce/",
-      "filePath": "cyberpress/pages/2026/10/01/hackers-exploit-zimbra-cve-2026-73570-with-crafted-emails-to-execute-commands-wi.md",
-      "committedAt": "2026-10-01T12:00:23.375+05:30",
-      "title": "Hackers Exploit Zimbra CVE-2026-73570 With Crafted Emails to Execute Commands Without Authentication"
+      "id": "ptrm3o0000",
+      "link": "https://cyberpress.org/critical-teamviewer-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/10/01/critical-teamviewer-vulnerabilities-enable-remote-code-execution-and-privilege-e.md",
+      "committedAt": "2026-10-02T00:00:29.244+05:30",
+      "title": "Critical TeamViewer Vulnerabilities Enable Remote Code Execution and Privilege Escalation Attacks"
     }
   ]
 }

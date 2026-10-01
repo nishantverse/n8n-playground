@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T00:00:24.587+05:30",
-  "lastLink": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
-  "lastId": "1u4ttrt000",
-  "lastFilePath": "cyberpress/pages/2026/09/30/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug.md",
+  "updatedAt": "2026-10-01T12:00:23.375+05:30",
+  "lastLink": "https://cyberpress.org/zimbra-flaw-enables-unauthenticated-rce/",
+  "lastId": "30c5m00000",
+  "lastFilePath": "cyberpress/pages/2026/10/01/hackers-exploit-zimbra-cve-2026-73570-with-crafted-emails-to-execute-commands-wi.md",
   "items": [
     {
-      "id": "1u4ttrt000",
-      "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
-      "filePath": "cyberpress/pages/2026/09/30/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug.md",
-      "committedAt": "2026-10-01T00:00:24.587+05:30",
-      "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug"
+      "id": "30c5m00000",
+      "link": "https://cyberpress.org/zimbra-flaw-enables-unauthenticated-rce/",
+      "filePath": "cyberpress/pages/2026/10/01/hackers-exploit-zimbra-cve-2026-73570-with-crafted-emails-to-execute-commands-wi.md",
+      "committedAt": "2026-10-01T12:00:23.375+05:30",
+      "title": "Hackers Exploit Zimbra CVE-2026-73570 With Crafted Emails to Execute Commands Without Authentication"
     }
   ]
 }

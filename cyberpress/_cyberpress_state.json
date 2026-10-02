@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T18:59:29.511+05:30",
-  "lastLink": "https://cyberpress.org/npm-updates-deliver-malware/",
-  "lastId": "12dvnzd000",
-  "lastFilePath": "cyberpress/pages/2026/10/02/software-supply-chain-attacks-use-malicious-npm-updates-to-steal-credentials-and_12dvnzd000.md",
+  "updatedAt": "2026-10-02T19:00:48.363+05:30",
+  "lastLink": "https://cyberpress.org/mssql-toolkit-threatens-credentials/",
+  "lastId": "1vy3dcs000",
+  "lastFilePath": "cyberpress/pages/2026/10/02/mssql-post-exploitation-toolkit-could-enable-credential-theft-and-lateral-moveme_1vy3dcs000.md",
   "items": [
     {
-      "id": "12dvnzd000",
-      "link": "https://cyberpress.org/npm-updates-deliver-malware/",
-      "filePath": "cyberpress/pages/2026/10/02/software-supply-chain-attacks-use-malicious-npm-updates-to-steal-credentials-and_12dvnzd000.md",
-      "committedAt": "2026-10-02T18:59:29.511+05:30",
-      "title": "Software Supply Chain Attacks Use Malicious npm Updates to Steal Credentials and Spread Malware"
+      "id": "1vy3dcs000",
+      "link": "https://cyberpress.org/mssql-toolkit-threatens-credentials/",
+      "filePath": "cyberpress/pages/2026/10/02/mssql-post-exploitation-toolkit-could-enable-credential-theft-and-lateral-moveme_1vy3dcs000.md",
+      "committedAt": "2026-10-02T19:00:48.363+05:30",
+      "title": "MSSQL Post-Exploitation Toolkit Could Enable Credential Theft and Lateral Movement Attacks"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T18:56:54.238+05:30",
-  "lastLink": "https://cyberpress.org/zammad-vulnerabilities/",
-  "lastId": "ua90s40000",
-  "lastFilePath": "cyberpress/pages/2026/10/02/zammad-vulnerabilities-enable-remote-code-execution-and-root-privilege-escalatio_ua90s40000.md",
+  "updatedAt": "2026-10-02T18:59:29.511+05:30",
+  "lastLink": "https://cyberpress.org/npm-updates-deliver-malware/",
+  "lastId": "12dvnzd000",
+  "lastFilePath": "cyberpress/pages/2026/10/02/software-supply-chain-attacks-use-malicious-npm-updates-to-steal-credentials-and_12dvnzd000.md",
   "items": [
     {
-      "id": "ua90s40000",
-      "link": "https://cyberpress.org/zammad-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/10/02/zammad-vulnerabilities-enable-remote-code-execution-and-root-privilege-escalatio_ua90s40000.md",
-      "committedAt": "2026-10-02T18:56:54.238+05:30",
-      "title": "Zammad Vulnerabilities Enable Remote Code Execution and Root Privilege Escalation"
+      "id": "12dvnzd000",
+      "link": "https://cyberpress.org/npm-updates-deliver-malware/",
+      "filePath": "cyberpress/pages/2026/10/02/software-supply-chain-attacks-use-malicious-npm-updates-to-steal-credentials-and_12dvnzd000.md",
+      "committedAt": "2026-10-02T18:59:29.511+05:30",
+      "title": "Software Supply Chain Attacks Use Malicious npm Updates to Steal Credentials and Spread Malware"
     }
   ]
 }

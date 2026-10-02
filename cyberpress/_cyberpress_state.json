@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T12:00:23.305+05:30",
-  "lastLink": "https://cyberpress.org/critical-next-js-imageresponse-flaw/",
-  "lastId": "1hn8onn000",
-  "lastFilePath": "cyberpress/pages/2026/10/01/critical-nextjs-imageresponse-flaw-enables-remote-code-execution-via-malicious-s.md",
+  "updatedAt": "2026-10-02T18:56:54.238+05:30",
+  "lastLink": "https://cyberpress.org/zammad-vulnerabilities/",
+  "lastId": "ua90s40000",
+  "lastFilePath": "cyberpress/pages/2026/10/02/zammad-vulnerabilities-enable-remote-code-execution-and-root-privilege-escalatio_ua90s40000.md",
   "items": [
     {
-      "id": "1hn8onn000",
-      "link": "https://cyberpress.org/critical-next-js-imageresponse-flaw/",
-      "filePath": "cyberpress/pages/2026/10/01/critical-nextjs-imageresponse-flaw-enables-remote-code-execution-via-malicious-s.md",
-      "committedAt": "2026-10-02T12:00:23.305+05:30",
-      "title": "Critical Next.js ImageResponse Flaw Enables Remote Code Execution via Malicious SVG Input"
+      "id": "ua90s40000",
+      "link": "https://cyberpress.org/zammad-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/10/02/zammad-vulnerabilities-enable-remote-code-execution-and-root-privilege-escalatio_ua90s40000.md",
+      "committedAt": "2026-10-02T18:56:54.238+05:30",
+      "title": "Zammad Vulnerabilities Enable Remote Code Execution and Root Privilege Escalation"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T00:00:29.244+05:30",
-  "lastLink": "https://cyberpress.org/critical-teamviewer-vulnerabilities/",
-  "lastId": "ptrm3o0000",
-  "lastFilePath": "cyberpress/pages/2026/10/01/critical-teamviewer-vulnerabilities-enable-remote-code-execution-and-privilege-e.md",
+  "updatedAt": "2026-10-02T12:00:23.305+05:30",
+  "lastLink": "https://cyberpress.org/critical-next-js-imageresponse-flaw/",
+  "lastId": "1hn8onn000",
+  "lastFilePath": "cyberpress/pages/2026/10/01/critical-nextjs-imageresponse-flaw-enables-remote-code-execution-via-malicious-s.md",
   "items": [
     {
-      "id": "ptrm3o0000",
-      "link": "https://cyberpress.org/critical-teamviewer-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/10/01/critical-teamviewer-vulnerabilities-enable-remote-code-execution-and-privilege-e.md",
-      "committedAt": "2026-10-02T00:00:29.244+05:30",
-      "title": "Critical TeamViewer Vulnerabilities Enable Remote Code Execution and Privilege Escalation Attacks"
+      "id": "1hn8onn000",
+      "link": "https://cyberpress.org/critical-next-js-imageresponse-flaw/",
+      "filePath": "cyberpress/pages/2026/10/01/critical-nextjs-imageresponse-flaw-enables-remote-code-execution-via-malicious-s.md",
+      "committedAt": "2026-10-02T12:00:23.305+05:30",
+      "title": "Critical Next.js ImageResponse Flaw Enables Remote Code Execution via Malicious SVG Input"
     }
   ]
 }

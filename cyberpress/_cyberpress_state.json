@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T19:00:48.363+05:30",
-  "lastLink": "https://cyberpress.org/mssql-toolkit-threatens-credentials/",
-  "lastId": "1vy3dcs000",
-  "lastFilePath": "cyberpress/pages/2026/10/02/mssql-post-exploitation-toolkit-could-enable-credential-theft-and-lateral-moveme_1vy3dcs000.md",
+  "updatedAt": "2026-10-02T19:03:01.722+05:30",
+  "lastLink": "https://cyberpress.org/ps5-relapse-jailbreak-uses-webkit-and-kernel-exploit/",
+  "lastId": "1nqcyzr000",
+  "lastFilePath": "cyberpress/pages/2026/10/02/ps5-relapse-jailbreak-uses-webkit-and-kernel-exploit-to-gain-readwrite-access_1nqcyzr000.md",
   "items": [
     {
-      "id": "1vy3dcs000",
-      "link": "https://cyberpress.org/mssql-toolkit-threatens-credentials/",
-      "filePath": "cyberpress/pages/2026/10/02/mssql-post-exploitation-toolkit-could-enable-credential-theft-and-lateral-moveme_1vy3dcs000.md",
-      "committedAt": "2026-10-02T19:00:48.363+05:30",
-      "title": "MSSQL Post-Exploitation Toolkit Could Enable Credential Theft and Lateral Movement Attacks"
+      "id": "1nqcyzr000",
+      "link": "https://cyberpress.org/ps5-relapse-jailbreak-uses-webkit-and-kernel-exploit/",
+      "filePath": "cyberpress/pages/2026/10/02/ps5-relapse-jailbreak-uses-webkit-and-kernel-exploit-to-gain-readwrite-access_1nqcyzr000.md",
+      "committedAt": "2026-10-02T19:03:01.722+05:30",
+      "title": "PS5 Relapse Jailbreak Uses WebKit and Kernel Exploit to Gain Read/Write Access"
     }
   ]
 }

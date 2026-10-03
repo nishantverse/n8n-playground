@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T12:00:37.314+05:30",
-  "lastLink": "https://cyberpress.org/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attempts/",
-  "lastId": "n8l08k0000",
-  "lastFilePath": "cyberpress/pages/2026/10/03/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attem.md",
+  "updatedAt": "2026-10-04T00:00:39.943+05:30",
+  "lastLink": "https://cyberpress.org/gitlab-patches-critical-ai-gateway-flaw/",
+  "lastId": "1yuz8zl000",
+  "lastFilePath": "cyberpress/pages/2026/10/03/gitlab-patches-critical-ai-gateway-flaw-allowing-arbitrary-command-execution.md",
   "items": [
     {
-      "id": "n8l08k0000",
-      "link": "https://cyberpress.org/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attempts/",
-      "filePath": "cyberpress/pages/2026/10/03/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attem.md",
-      "committedAt": "2026-10-03T12:00:37.314+05:30",
-      "title": "New Citrix NetScaler SAML Flaw Triggers Crashes and Suspected Exploitation Attempts"
+      "id": "1yuz8zl000",
+      "link": "https://cyberpress.org/gitlab-patches-critical-ai-gateway-flaw/",
+      "filePath": "cyberpress/pages/2026/10/03/gitlab-patches-critical-ai-gateway-flaw-allowing-arbitrary-command-execution.md",
+      "committedAt": "2026-10-04T00:00:39.943+05:30",
+      "title": "GitLab Patches Critical AI Gateway Flaw Allowing Arbitrary Command Execution"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T00:00:23.709+05:30",
-  "lastLink": "https://cyberpress.org/zammad-vulnerabilities/",
-  "lastId": "ua90s40000",
-  "lastFilePath": "cyberpress/pages/2026/10/02/zammad-vulnerabilities-enable-remote-code-execution-and-root-privilege-escalatio.md",
+  "updatedAt": "2026-10-03T12:00:37.314+05:30",
+  "lastLink": "https://cyberpress.org/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attempts/",
+  "lastId": "n8l08k0000",
+  "lastFilePath": "cyberpress/pages/2026/10/03/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attem.md",
   "items": [
     {
-      "id": "ua90s40000",
-      "link": "https://cyberpress.org/zammad-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/10/02/zammad-vulnerabilities-enable-remote-code-execution-and-root-privilege-escalatio.md",
-      "committedAt": "2026-10-03T00:00:23.709+05:30",
-      "title": "Zammad Vulnerabilities Enable Remote Code Execution and Root Privilege Escalation"
+      "id": "n8l08k0000",
+      "link": "https://cyberpress.org/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attempts/",
+      "filePath": "cyberpress/pages/2026/10/03/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attem.md",
+      "committedAt": "2026-10-03T12:00:37.314+05:30",
+      "title": "New Citrix NetScaler SAML Flaw Triggers Crashes and Suspected Exploitation Attempts"
     }
   ]
 }

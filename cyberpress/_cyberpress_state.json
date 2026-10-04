@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T12:00:48.520+05:30",
-  "lastLink": "https://cyberpress.org/aws-fixes-critical-loom-and-sagemaker-flaws-enabling-code-execution-and-credential-theft/",
-  "lastId": "g971000000",
-  "lastFilePath": "cyberpress/pages/2026/10/03/aws-fixes-critical-loom-and-sagemaker-flaws-enabling-code-execution-and-credenti.md",
+  "updatedAt": "2026-10-05T00:00:55.205+05:30",
+  "lastLink": "https://cyberpress.org/cling-iot-malware-masquerades-as-google-stun/",
+  "lastId": "51jn0g0000",
+  "lastFilePath": "cyberpress/pages/2026/10/03/cling-iot-malware-masquerades-as-google-stun-traffic-to-hide-c2-communications.md",
   "items": [
     {
-      "id": "g971000000",
-      "link": "https://cyberpress.org/aws-fixes-critical-loom-and-sagemaker-flaws-enabling-code-execution-and-credential-theft/",
-      "filePath": "cyberpress/pages/2026/10/03/aws-fixes-critical-loom-and-sagemaker-flaws-enabling-code-execution-and-credenti.md",
-      "committedAt": "2026-10-04T12:00:48.520+05:30",
-      "title": "AWS Fixes Critical Loom and SageMaker Flaws Enabling Code Execution and Credential Theft"
+      "id": "51jn0g0000",
+      "link": "https://cyberpress.org/cling-iot-malware-masquerades-as-google-stun/",
+      "filePath": "cyberpress/pages/2026/10/03/cling-iot-malware-masquerades-as-google-stun-traffic-to-hide-c2-communications.md",
+      "committedAt": "2026-10-05T00:00:55.205+05:30",
+      "title": "Cling IoT Malware Masquerades as Google STUN Traffic to Hide C2 Communications"
     }
   ]
 }

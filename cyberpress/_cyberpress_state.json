@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T00:00:25.120+05:30",
-  "lastLink": "https://cyberpress.org/wordpress-heic-uploads-enable-rce/",
-  "lastId": "1ppu5ax000",
-  "lastFilePath": "cyberpress/pages/2026/10/05/wordpress-libheif-exploit-chain-turns-malicious-heic-uploads-into-remote-code-ex.md",
+  "updatedAt": "2026-10-06T12:00:34.934+05:30",
+  "lastLink": "https://cyberpress.org/midnight-blizzard-targets-travelers/",
+  "lastId": "10mvt44000",
+  "lastFilePath": "cyberpress/pages/2026/10/06/russian-midnight-blizzard-hackers-target-travelers-through-compromised-hotel-wi-.md",
   "items": [
     {
-      "id": "1ppu5ax000",
-      "link": "https://cyberpress.org/wordpress-heic-uploads-enable-rce/",
-      "filePath": "cyberpress/pages/2026/10/05/wordpress-libheif-exploit-chain-turns-malicious-heic-uploads-into-remote-code-ex.md",
-      "committedAt": "2026-10-06T00:00:25.120+05:30",
-      "title": "WordPress libheif Exploit Chain Turns Malicious HEIC Uploads Into Remote Code Execution"
+      "id": "10mvt44000",
+      "link": "https://cyberpress.org/midnight-blizzard-targets-travelers/",
+      "filePath": "cyberpress/pages/2026/10/06/russian-midnight-blizzard-hackers-target-travelers-through-compromised-hotel-wi-.md",
+      "committedAt": "2026-10-06T12:00:34.934+05:30",
+      "title": "Russian Midnight Blizzard Hackers Target Travelers Through Compromised Hotel Wi-Fi Networks"
     }
   ]
 }

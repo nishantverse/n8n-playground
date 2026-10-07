@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T12:00:29.784+05:30",
-  "lastLink": "https://cyberpress.org/asos-app-breach-rogue-alerts/",
-  "lastId": "1l7r5t9000",
-  "lastFilePath": "cyberpress/pages/2026/10/07/asos-app-breach-lets-hackers-push-rogue-alerts-to-customers.md",
+  "updatedAt": "2026-10-08T00:00:23.488+05:30",
+  "lastLink": "https://cyberpress.org/atlassian-flaw-jira-admin-access/",
+  "lastId": "1bbp5ys000",
+  "lastFilePath": "cyberpress/pages/2026/10/07/poc-exploit-released-for-critical-atlassian-flaw-that-can-lead-to-jira-admin-acc.md",
   "items": [
     {
-      "id": "1l7r5t9000",
-      "link": "https://cyberpress.org/asos-app-breach-rogue-alerts/",
-      "filePath": "cyberpress/pages/2026/10/07/asos-app-breach-lets-hackers-push-rogue-alerts-to-customers.md",
-      "committedAt": "2026-10-07T12:00:29.784+05:30",
-      "title": "ASOS App Breach Lets Hackers Push Rogue Alerts to Customers"
+      "id": "1bbp5ys000",
+      "link": "https://cyberpress.org/atlassian-flaw-jira-admin-access/",
+      "filePath": "cyberpress/pages/2026/10/07/poc-exploit-released-for-critical-atlassian-flaw-that-can-lead-to-jira-admin-acc.md",
+      "committedAt": "2026-10-08T00:00:23.488+05:30",
+      "title": "PoC Exploit Released for Critical Atlassian Flaw That Can Lead to Jira Admin Access"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T12:00:35.133+05:30",
-  "lastLink": "https://cyberpress.org/attackers-exploit-netscaler-rce/",
-  "lastId": "18z0n2r000",
-  "lastFilePath": "cyberpress/pages/2026/10/08/attackers-exploit-citrix-netscaler-rce-flaw-to-create-superuser-accounts-and-web.md",
+  "updatedAt": "2026-10-09T00:00:23.745+05:30",
+  "lastLink": "https://cyberpress.org/poc-exploit-released-for-critical-zammad-flaw/",
+  "lastId": "43kev00000",
+  "lastFilePath": "cyberpress/pages/2026/10/08/poc-exploit-released-for-critical-zammad-flaw-enabling-session-hijacking-and-rem.md",
   "items": [
     {
-      "id": "18z0n2r000",
-      "link": "https://cyberpress.org/attackers-exploit-netscaler-rce/",
-      "filePath": "cyberpress/pages/2026/10/08/attackers-exploit-citrix-netscaler-rce-flaw-to-create-superuser-accounts-and-web.md",
-      "committedAt": "2026-10-08T12:00:35.133+05:30",
-      "title": "Attackers Exploit Citrix NetScaler RCE Flaw to Create Superuser Accounts and Web Shells"
+      "id": "43kev00000",
+      "link": "https://cyberpress.org/poc-exploit-released-for-critical-zammad-flaw/",
+      "filePath": "cyberpress/pages/2026/10/08/poc-exploit-released-for-critical-zammad-flaw-enabling-session-hijacking-and-rem.md",
+      "committedAt": "2026-10-09T00:00:23.745+05:30",
+      "title": "PoC Exploit Released for Critical Zammad Flaw Enabling Session Hijacking and Remote Code Execution"
     }
   ]
 }

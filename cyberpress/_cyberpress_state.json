@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T00:00:23.745+05:30",
-  "lastLink": "https://cyberpress.org/poc-exploit-released-for-critical-zammad-flaw/",
-  "lastId": "43kev00000",
-  "lastFilePath": "cyberpress/pages/2026/10/08/poc-exploit-released-for-critical-zammad-flaw-enabling-session-hijacking-and-rem.md",
+  "updatedAt": "2026-10-09T12:00:38.287+05:30",
+  "lastLink": "https://cyberpress.org/hackers-target-hikvision-cameras/",
+  "lastId": "3ti56t0000",
+  "lastFilePath": "cyberpress/pages/2026/10/09/hackers-target-hikvision-cameras-in-ukraine-with-remote-code-execution-exploit-a.md",
   "items": [
     {
-      "id": "43kev00000",
-      "link": "https://cyberpress.org/poc-exploit-released-for-critical-zammad-flaw/",
-      "filePath": "cyberpress/pages/2026/10/08/poc-exploit-released-for-critical-zammad-flaw-enabling-session-hijacking-and-rem.md",
-      "committedAt": "2026-10-09T00:00:23.745+05:30",
-      "title": "PoC Exploit Released for Critical Zammad Flaw Enabling Session Hijacking and Remote Code Execution"
+      "id": "3ti56t0000",
+      "link": "https://cyberpress.org/hackers-target-hikvision-cameras/",
+      "filePath": "cyberpress/pages/2026/10/09/hackers-target-hikvision-cameras-in-ukraine-with-remote-code-execution-exploit-a.md",
+      "committedAt": "2026-10-09T12:00:38.287+05:30",
+      "title": "Hackers Target Hikvision Cameras in Ukraine With Remote Code Execution Exploit Attempts"
     }
   ]
 }

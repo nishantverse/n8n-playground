@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T12:00:23.610+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-two-ahsaycbs-zero-day-flaws/",
-  "lastId": "1rcvbsr000",
-  "lastFilePath": "cyberpress/pages/2026/10/10/hackers-exploit-two-ahsaycbs-zero-day-flaws-to-gain-system-access-on-backup-serv.md",
+  "updatedAt": "2026-10-11T00:00:25.109+05:30",
+  "lastLink": "https://cyberpress.org/hackers-deploy-ai-agents-to-automate-server/",
+  "lastId": "1kw8okb000",
+  "lastFilePath": "cyberpress/pages/2026/10/10/hackers-deploy-ai-agents-to-automate-server-compromise-and-privilege-escalation.md",
   "items": [
     {
-      "id": "1rcvbsr000",
-      "link": "https://cyberpress.org/hackers-exploit-two-ahsaycbs-zero-day-flaws/",
-      "filePath": "cyberpress/pages/2026/10/10/hackers-exploit-two-ahsaycbs-zero-day-flaws-to-gain-system-access-on-backup-serv.md",
-      "committedAt": "2026-10-10T12:00:23.610+05:30",
-      "title": "Hackers Exploit Two AhsayCBS Zero-Day Flaws to Gain SYSTEM Access on Backup Servers"
+      "id": "1kw8okb000",
+      "link": "https://cyberpress.org/hackers-deploy-ai-agents-to-automate-server/",
+      "filePath": "cyberpress/pages/2026/10/10/hackers-deploy-ai-agents-to-automate-server-compromise-and-privilege-escalation.md",
+      "committedAt": "2026-10-11T00:00:25.109+05:30",
+      "title": "Hackers Deploy AI Agents to Automate Server Compromise and Privilege Escalation"
     }
   ]
 }

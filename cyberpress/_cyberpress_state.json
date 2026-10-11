@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T00:00:25.109+05:30",
-  "lastLink": "https://cyberpress.org/hackers-deploy-ai-agents-to-automate-server/",
-  "lastId": "1kw8okb000",
-  "lastFilePath": "cyberpress/pages/2026/10/10/hackers-deploy-ai-agents-to-automate-server-compromise-and-privilege-escalation.md",
+  "updatedAt": "2026-10-11T12:00:36.458+05:30",
+  "lastLink": "https://cyberpress.org/ghostaction-attack-compromises-500-github-accounts/",
+  "lastId": "1lgd9f0000",
+  "lastFilePath": "cyberpress/pages/2026/10/10/ghostaction-attack-compromises-500-github-accounts-to-steal-cloud-and-ai-credent.md",
   "items": [
     {
-      "id": "1kw8okb000",
-      "link": "https://cyberpress.org/hackers-deploy-ai-agents-to-automate-server/",
-      "filePath": "cyberpress/pages/2026/10/10/hackers-deploy-ai-agents-to-automate-server-compromise-and-privilege-escalation.md",
-      "committedAt": "2026-10-11T00:00:25.109+05:30",
-      "title": "Hackers Deploy AI Agents to Automate Server Compromise and Privilege Escalation"
+      "id": "1lgd9f0000",
+      "link": "https://cyberpress.org/ghostaction-attack-compromises-500-github-accounts/",
+      "filePath": "cyberpress/pages/2026/10/10/ghostaction-attack-compromises-500-github-accounts-to-steal-cloud-and-ai-credent.md",
+      "committedAt": "2026-10-11T12:00:36.458+05:30",
+      "title": "GhostAction Attack Compromises 500+ GitHub Accounts to Steal Cloud and AI Credentials"
     }
   ]
 }

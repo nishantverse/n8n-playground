@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T12:00:37.719+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-palo-alto-globalprotect-flaw/",
-  "lastId": "saaq9u0000",
-  "lastFilePath": "cyberpress/pages/2026/10/12/hackers-exploit-palo-alto-globalprotect-flaw-to-gain-vpn-access-and-deploy-ranso.md",
+  "updatedAt": "2026-10-13T00:00:24.434+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-critical-wordpress-bricksforge-plugin-flaw/",
+  "lastId": "199h4jd000",
+  "lastFilePath": "cyberpress/pages/2026/10/12/hackers-exploit-critical-wordpress-bricksforge-plugin-flaw-to-execute-remote-cod.md",
   "items": [
     {
-      "id": "saaq9u0000",
-      "link": "https://cyberpress.org/hackers-exploit-palo-alto-globalprotect-flaw/",
-      "filePath": "cyberpress/pages/2026/10/12/hackers-exploit-palo-alto-globalprotect-flaw-to-gain-vpn-access-and-deploy-ranso.md",
-      "committedAt": "2026-10-12T12:00:37.719+05:30",
-      "title": "Hackers Exploit Palo Alto GlobalProtect Flaw to Gain VPN Access and Deploy Ransomware"
+      "id": "199h4jd000",
+      "link": "https://cyberpress.org/hackers-exploit-critical-wordpress-bricksforge-plugin-flaw/",
+      "filePath": "cyberpress/pages/2026/10/12/hackers-exploit-critical-wordpress-bricksforge-plugin-flaw-to-execute-remote-cod.md",
+      "committedAt": "2026-10-13T00:00:24.434+05:30",
+      "title": "Hackers Exploit Critical WordPress Bricksforge Plugin Flaw to Execute Remote Code"
     }
   ]
 }

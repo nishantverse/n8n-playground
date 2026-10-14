@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T00:00:23.631+05:30",
-  "lastLink": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
-  "lastId": "14o22ls000",
-  "lastFilePath": "cyberpress/pages/2026/10/13/critical-sap-netweaver-and-s4hana-vulnerabilities-could-enable-system-compromise.md",
+  "updatedAt": "2026-10-15T00:00:24.339+05:30",
+  "lastLink": "https://cyberpress.org/ransomware-attacks-target-identity-systems-as-ai-exploitation-and-personal-threats-escalate/",
+  "lastId": "eivr4p0000",
+  "lastFilePath": "cyberpress/pages/2026/10/14/ransomware-attacks-target-identity-systems-as-ai-exploitation-and-personal-threa.md",
   "items": [
     {
-      "id": "14o22ls000",
-      "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/10/13/critical-sap-netweaver-and-s4hana-vulnerabilities-could-enable-system-compromise.md",
-      "committedAt": "2026-10-14T00:00:23.631+05:30",
-      "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise"
+      "id": "eivr4p0000",
+      "link": "https://cyberpress.org/ransomware-attacks-target-identity-systems-as-ai-exploitation-and-personal-threats-escalate/",
+      "filePath": "cyberpress/pages/2026/10/14/ransomware-attacks-target-identity-systems-as-ai-exploitation-and-personal-threa.md",
+      "committedAt": "2026-10-15T00:00:24.339+05:30",
+      "title": "Ransomware Attacks Target Identity Systems as AI Exploitation and Personal Threats Escalate"
     }
   ]
 }

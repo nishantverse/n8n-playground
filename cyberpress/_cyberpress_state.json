@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T00:00:24.339+05:30",
-  "lastLink": "https://cyberpress.org/ransomware-attacks-target-identity-systems-as-ai-exploitation-and-personal-threats-escalate/",
-  "lastId": "eivr4p0000",
-  "lastFilePath": "cyberpress/pages/2026/10/14/ransomware-attacks-target-identity-systems-as-ai-exploitation-and-personal-threa.md",
+  "updatedAt": "2026-10-15T12:00:31.680+05:30",
+  "lastLink": "https://cyberpress.org/palo-alto-pan-os-zero-day/",
+  "lastId": "1w1xai0000",
+  "lastFilePath": "cyberpress/pages/2026/10/15/hackers-exploit-palo-alto-pan-os-zero-day-to-execute-remote-code-with-root-privi.md",
   "items": [
     {
-      "id": "eivr4p0000",
-      "link": "https://cyberpress.org/ransomware-attacks-target-identity-systems-as-ai-exploitation-and-personal-threats-escalate/",
-      "filePath": "cyberpress/pages/2026/10/14/ransomware-attacks-target-identity-systems-as-ai-exploitation-and-personal-threa.md",
-      "committedAt": "2026-10-15T00:00:24.339+05:30",
-      "title": "Ransomware Attacks Target Identity Systems as AI Exploitation and Personal Threats Escalate"
+      "id": "1w1xai0000",
+      "link": "https://cyberpress.org/palo-alto-pan-os-zero-day/",
+      "filePath": "cyberpress/pages/2026/10/15/hackers-exploit-palo-alto-pan-os-zero-day-to-execute-remote-code-with-root-privi.md",
+      "committedAt": "2026-10-15T12:00:31.680+05:30",
+      "title": "Hackers Exploit Palo Alto PAN-OS Zero-Day to Execute Remote Code With Root Privileges"
     }
   ]
 }

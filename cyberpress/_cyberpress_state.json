@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T12:00:24.921+05:30",
-  "lastLink": "https://cyberpress.org/cisa-palo-alto-pan-os-zero-day/",
-  "lastId": "mvqiol0000",
-  "lastFilePath": "cyberpress/pages/2026/10/16/cisa-warns-hackers-are-exploiting-palo-alto-pan-os-zero-day-to-gain-root-access.md",
+  "updatedAt": "2026-10-17T00:00:23.824+05:30",
+  "lastLink": "https://cyberpress.org/china-linked-critical-beyondtrust-zero-day/",
+  "lastId": "7qmns30000",
+  "lastFilePath": "cyberpress/pages/2026/10/16/china-linked-hackers-exploit-critical-beyondtrust-zero-day-to-steal-credentials.md",
   "items": [
     {
-      "id": "mvqiol0000",
-      "link": "https://cyberpress.org/cisa-palo-alto-pan-os-zero-day/",
-      "filePath": "cyberpress/pages/2026/10/16/cisa-warns-hackers-are-exploiting-palo-alto-pan-os-zero-day-to-gain-root-access.md",
-      "committedAt": "2026-10-16T12:00:24.921+05:30",
-      "title": "CISA Warns Hackers Are Exploiting Palo Alto PAN-OS Zero-Day to Gain Root Access"
+      "id": "7qmns30000",
+      "link": "https://cyberpress.org/china-linked-critical-beyondtrust-zero-day/",
+      "filePath": "cyberpress/pages/2026/10/16/china-linked-hackers-exploit-critical-beyondtrust-zero-day-to-steal-credentials.md",
+      "committedAt": "2026-10-17T00:00:23.824+05:30",
+      "title": "China-Linked Hackers Exploit Critical BeyondTrust Zero-Day to Steal Credentials"
     }
   ]
 }

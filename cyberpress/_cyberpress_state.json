@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T12:00:31.680+05:30",
-  "lastLink": "https://cyberpress.org/palo-alto-pan-os-zero-day/",
-  "lastId": "1w1xai0000",
-  "lastFilePath": "cyberpress/pages/2026/10/15/hackers-exploit-palo-alto-pan-os-zero-day-to-execute-remote-code-with-root-privi.md",
+  "updatedAt": "2026-10-16T12:00:24.921+05:30",
+  "lastLink": "https://cyberpress.org/cisa-palo-alto-pan-os-zero-day/",
+  "lastId": "mvqiol0000",
+  "lastFilePath": "cyberpress/pages/2026/10/16/cisa-warns-hackers-are-exploiting-palo-alto-pan-os-zero-day-to-gain-root-access.md",
   "items": [
     {
-      "id": "1w1xai0000",
-      "link": "https://cyberpress.org/palo-alto-pan-os-zero-day/",
-      "filePath": "cyberpress/pages/2026/10/15/hackers-exploit-palo-alto-pan-os-zero-day-to-execute-remote-code-with-root-privi.md",
-      "committedAt": "2026-10-15T12:00:31.680+05:30",
-      "title": "Hackers Exploit Palo Alto PAN-OS Zero-Day to Execute Remote Code With Root Privileges"
+      "id": "mvqiol0000",
+      "link": "https://cyberpress.org/cisa-palo-alto-pan-os-zero-day/",
+      "filePath": "cyberpress/pages/2026/10/16/cisa-warns-hackers-are-exploiting-palo-alto-pan-os-zero-day-to-gain-root-access.md",
+      "committedAt": "2026-10-16T12:00:24.921+05:30",
+      "title": "CISA Warns Hackers Are Exploiting Palo Alto PAN-OS Zero-Day to Gain Root Access"
     }
   ]
 }

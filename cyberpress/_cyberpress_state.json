@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T00:00:23.824+05:30",
-  "lastLink": "https://cyberpress.org/china-linked-critical-beyondtrust-zero-day/",
-  "lastId": "7qmns30000",
-  "lastFilePath": "cyberpress/pages/2026/10/16/china-linked-hackers-exploit-critical-beyondtrust-zero-day-to-steal-credentials.md",
+  "updatedAt": "2026-10-17T12:00:30.845+05:30",
+  "lastLink": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/",
+  "lastId": "153jczk000",
+  "lastFilePath": "cyberpress/pages/2026/10/16/google-chrome-fixes-10-security-flaws-including-critical-use-after-free-vulnerab.md",
   "items": [
     {
-      "id": "7qmns30000",
-      "link": "https://cyberpress.org/china-linked-critical-beyondtrust-zero-day/",
-      "filePath": "cyberpress/pages/2026/10/16/china-linked-hackers-exploit-critical-beyondtrust-zero-day-to-steal-credentials.md",
-      "committedAt": "2026-10-17T00:00:23.824+05:30",
-      "title": "China-Linked Hackers Exploit Critical BeyondTrust Zero-Day to Steal Credentials"
+      "id": "153jczk000",
+      "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/",
+      "filePath": "cyberpress/pages/2026/10/16/google-chrome-fixes-10-security-flaws-including-critical-use-after-free-vulnerab.md",
+      "committedAt": "2026-10-17T12:00:30.845+05:30",
+      "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability"
     }
   ]
 }

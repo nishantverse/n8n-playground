@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T12:00:37.580+05:30",
-  "lastLink": "https://cyberpress.org/37-year-old-openbsd-kernel-flaw/",
-  "lastId": "p85vkq0000",
-  "lastFilePath": "cyberpress/pages/2026/10/17/37-year-old-openbsd-kernel-flaw-lets-attackers-gain-root-access-poc-released.md",
+  "updatedAt": "2026-10-19T00:00:42.067+05:30",
+  "lastLink": "https://cyberpress.org/ghostaction-hackers-infect-94-github-repositories/",
+  "lastId": "exxbe40000",
+  "lastFilePath": "cyberpress/pages/2026/10/17/ghostaction-hackers-infect-94-github-repositories-with-fake-font-malware-to-stea.md",
   "items": [
     {
-      "id": "p85vkq0000",
-      "link": "https://cyberpress.org/37-year-old-openbsd-kernel-flaw/",
-      "filePath": "cyberpress/pages/2026/10/17/37-year-old-openbsd-kernel-flaw-lets-attackers-gain-root-access-poc-released.md",
-      "committedAt": "2026-10-18T12:00:37.580+05:30",
-      "title": "37-Year-Old OpenBSD Kernel Flaw Lets Attackers Gain Root Access – PoC Released"
+      "id": "exxbe40000",
+      "link": "https://cyberpress.org/ghostaction-hackers-infect-94-github-repositories/",
+      "filePath": "cyberpress/pages/2026/10/17/ghostaction-hackers-infect-94-github-repositories-with-fake-font-malware-to-stea.md",
+      "committedAt": "2026-10-19T00:00:42.067+05:30",
+      "title": "GhostAction Hackers Infect 94 GitHub Repositories With Fake Font Malware to Steal Credentials"
     }
   ]
 }

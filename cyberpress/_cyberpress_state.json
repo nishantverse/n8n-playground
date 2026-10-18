@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T00:00:23.438+05:30",
-  "lastLink": "https://cyberpress.org/critical-wordpress-flaws/",
-  "lastId": "5kdedf0000",
-  "lastFilePath": "cyberpress/pages/2026/10/17/hackers-exploit-critical-wordpress-flaws-to-execute-remote-code-without-authenti.md",
+  "updatedAt": "2026-10-18T12:00:37.580+05:30",
+  "lastLink": "https://cyberpress.org/37-year-old-openbsd-kernel-flaw/",
+  "lastId": "p85vkq0000",
+  "lastFilePath": "cyberpress/pages/2026/10/17/37-year-old-openbsd-kernel-flaw-lets-attackers-gain-root-access-poc-released.md",
   "items": [
     {
-      "id": "5kdedf0000",
-      "link": "https://cyberpress.org/critical-wordpress-flaws/",
-      "filePath": "cyberpress/pages/2026/10/17/hackers-exploit-critical-wordpress-flaws-to-execute-remote-code-without-authenti.md",
-      "committedAt": "2026-10-18T00:00:23.438+05:30",
-      "title": "Hackers Exploit Critical WordPress Flaws to Execute Remote Code Without Authentication"
+      "id": "p85vkq0000",
+      "link": "https://cyberpress.org/37-year-old-openbsd-kernel-flaw/",
+      "filePath": "cyberpress/pages/2026/10/17/37-year-old-openbsd-kernel-flaw-lets-attackers-gain-root-access-poc-released.md",
+      "committedAt": "2026-10-18T12:00:37.580+05:30",
+      "title": "37-Year-Old OpenBSD Kernel Flaw Lets Attackers Gain Root Access – PoC Released"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T00:00:42.067+05:30",
-  "lastLink": "https://cyberpress.org/ghostaction-hackers-infect-94-github-repositories/",
-  "lastId": "exxbe40000",
-  "lastFilePath": "cyberpress/pages/2026/10/17/ghostaction-hackers-infect-94-github-repositories-with-fake-font-malware-to-stea.md",
+  "updatedAt": "2026-10-19T12:00:43.979+05:30",
+  "lastLink": "https://cyberpress.org/indian-government-warns-sidecopy-reverserat-malware/",
+  "lastId": "1yyaq41000",
+  "lastFilePath": "cyberpress/pages/2026/10/17/indian-government-warns-sidecopy-hackers-are-targeting-organizations-with-revers.md",
   "items": [
     {
-      "id": "exxbe40000",
-      "link": "https://cyberpress.org/ghostaction-hackers-infect-94-github-repositories/",
-      "filePath": "cyberpress/pages/2026/10/17/ghostaction-hackers-infect-94-github-repositories-with-fake-font-malware-to-stea.md",
-      "committedAt": "2026-10-19T00:00:42.067+05:30",
-      "title": "GhostAction Hackers Infect 94 GitHub Repositories With Fake Font Malware to Steal Credentials"
+      "id": "1yyaq41000",
+      "link": "https://cyberpress.org/indian-government-warns-sidecopy-reverserat-malware/",
+      "filePath": "cyberpress/pages/2026/10/17/indian-government-warns-sidecopy-hackers-are-targeting-organizations-with-revers.md",
+      "committedAt": "2026-10-19T12:00:43.979+05:30",
+      "title": "Indian Government Warns SideCopy Hackers Are Targeting Organizations With ReverseRAT Malware"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T00:00:23.740+05:30",
-  "lastLink": "https://cyberpress.org/critical-fortinet-fortisiem-rce-vulnerability/",
-  "lastId": "a8kw4u0000",
-  "lastFilePath": "cyberpress/pages/2026/10/21/critical-fortinet-fortisiem-rce-vulnerability-gets-public-exploit-code.md",
+  "updatedAt": "2026-10-22T12:00:23.630+05:30",
+  "lastLink": "https://cyberpress.org/node-js-patches-high-severity-rce-tls-certificate/",
+  "lastId": "5tland0000",
+  "lastFilePath": "cyberpress/pages/2026/10/22/nodejs-patches-high-severity-rce-and-tls-certificate-bypass-vulnerabilities.md",
   "items": [
     {
-      "id": "a8kw4u0000",
-      "link": "https://cyberpress.org/critical-fortinet-fortisiem-rce-vulnerability/",
-      "filePath": "cyberpress/pages/2026/10/21/critical-fortinet-fortisiem-rce-vulnerability-gets-public-exploit-code.md",
-      "committedAt": "2026-10-22T00:00:23.740+05:30",
-      "title": "Critical Fortinet FortiSIEM RCE Vulnerability Gets Public Exploit Code"
+      "id": "5tland0000",
+      "link": "https://cyberpress.org/node-js-patches-high-severity-rce-tls-certificate/",
+      "filePath": "cyberpress/pages/2026/10/22/nodejs-patches-high-severity-rce-and-tls-certificate-bypass-vulnerabilities.md",
+      "committedAt": "2026-10-22T12:00:23.630+05:30",
+      "title": "Node.js Patches High-Severity RCE and TLS Certificate Bypass Vulnerabilities"
     }
   ]
 }

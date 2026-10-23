@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T00:00:23.614+05:30",
-  "lastLink": "https://cyberpress.org/fortinet-patches-critical-vulnerabilities/",
-  "lastId": "b9gh8q0000",
-  "lastFilePath": "cyberpress/pages/2026/10/22/fortinet-patches-critical-vulnerabilities-in-fortios-fortimanager-and-fortianaly.md",
+  "updatedAt": "2026-10-23T12:00:24.123+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-netscaler-rce/",
+  "lastId": "1goswjj000",
+  "lastFilePath": "cyberpress/pages/2026/10/23/hackers-use-critical-netscaler-rce-flaw-to-target-appliances-with-web-shells-and.md",
   "items": [
     {
-      "id": "b9gh8q0000",
-      "link": "https://cyberpress.org/fortinet-patches-critical-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/10/22/fortinet-patches-critical-vulnerabilities-in-fortios-fortimanager-and-fortianaly.md",
-      "committedAt": "2026-10-23T00:00:23.614+05:30",
-      "title": "Fortinet Patches Critical Vulnerabilities in FortiOS, FortiManager, and FortiAnalyzer"
+      "id": "1goswjj000",
+      "link": "https://cyberpress.org/hackers-exploit-netscaler-rce/",
+      "filePath": "cyberpress/pages/2026/10/23/hackers-use-critical-netscaler-rce-flaw-to-target-appliances-with-web-shells-and.md",
+      "committedAt": "2026-10-23T12:00:24.123+05:30",
+      "title": "Hackers Use Critical NetScaler RCE Flaw to Target Appliances With Web Shells and Malware"
     }
   ]
 }

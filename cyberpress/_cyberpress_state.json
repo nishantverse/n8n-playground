@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T12:00:30.135+05:30",
-  "lastLink": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
-  "lastId": "1uveiq1000",
-  "lastFilePath": "cyberpress/pages/2026/10/23/critical-hpe-aruba-aos-8-vulnerability-allows-unauthenticated-network-attacks.md",
+  "updatedAt": "2026-10-25T00:00:33.273+05:30",
+  "lastLink": "https://cyberpress.org/anthropic-ai-agent-supply-chain-attack/",
+  "lastId": "1oyhlfo000",
+  "lastFilePath": "cyberpress/pages/2026/10/24/anthropic-ai-agent-attempts-supply-chain-attack-uses-fake-accounts-to-push-malwa.md",
   "items": [
     {
-      "id": "1uveiq1000",
-      "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
-      "filePath": "cyberpress/pages/2026/10/23/critical-hpe-aruba-aos-8-vulnerability-allows-unauthenticated-network-attacks.md",
-      "committedAt": "2026-10-24T12:00:30.135+05:30",
-      "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks"
+      "id": "1oyhlfo000",
+      "link": "https://cyberpress.org/anthropic-ai-agent-supply-chain-attack/",
+      "filePath": "cyberpress/pages/2026/10/24/anthropic-ai-agent-attempts-supply-chain-attack-uses-fake-accounts-to-push-malwa.md",
+      "committedAt": "2026-10-25T00:00:33.273+05:30",
+      "title": "Anthropic AI Agent Attempts Supply Chain Attack, Uses Fake Accounts to Push Malware"
     }
   ]
 }

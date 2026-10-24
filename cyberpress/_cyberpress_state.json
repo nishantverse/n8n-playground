@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T00:00:23.730+05:30",
-  "lastLink": "https://cyberpress.org/capcom-confirms-data-breach/",
-  "lastId": "nxiuwp0000",
-  "lastFilePath": "cyberpress/pages/2026/10/23/capcom-confirms-data-breach-exposing-117-million-records-196-accounts-compromise.md",
+  "updatedAt": "2026-10-24T12:00:30.135+05:30",
+  "lastLink": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+  "lastId": "1uveiq1000",
+  "lastFilePath": "cyberpress/pages/2026/10/23/critical-hpe-aruba-aos-8-vulnerability-allows-unauthenticated-network-attacks.md",
   "items": [
     {
-      "id": "nxiuwp0000",
-      "link": "https://cyberpress.org/capcom-confirms-data-breach/",
-      "filePath": "cyberpress/pages/2026/10/23/capcom-confirms-data-breach-exposing-117-million-records-196-accounts-compromise.md",
-      "committedAt": "2026-10-24T00:00:23.730+05:30",
-      "title": "Capcom Confirms Data Breach Exposing 11.7 Million Records, 196 Accounts Compromised"
+      "id": "1uveiq1000",
+      "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+      "filePath": "cyberpress/pages/2026/10/23/critical-hpe-aruba-aos-8-vulnerability-allows-unauthenticated-network-attacks.md",
+      "committedAt": "2026-10-24T12:00:30.135+05:30",
+      "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks"
     }
   ]
 }

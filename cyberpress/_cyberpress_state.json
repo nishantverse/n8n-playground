@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T00:00:33.273+05:30",
-  "lastLink": "https://cyberpress.org/anthropic-ai-agent-supply-chain-attack/",
-  "lastId": "1oyhlfo000",
-  "lastFilePath": "cyberpress/pages/2026/10/24/anthropic-ai-agent-attempts-supply-chain-attack-uses-fake-accounts-to-push-malwa.md",
+  "updatedAt": "2026-10-25T12:00:36.341+05:30",
+  "lastLink": "https://cyberpress.org/hackers-breached-litellm-supply-chain-attack/",
+  "lastId": "1yb12xu000",
+  "lastFilePath": "cyberpress/pages/2026/10/24/hackers-breached-litellm-11-days-before-supply-chain-attack-stole-github-secrets.md",
   "items": [
     {
-      "id": "1oyhlfo000",
-      "link": "https://cyberpress.org/anthropic-ai-agent-supply-chain-attack/",
-      "filePath": "cyberpress/pages/2026/10/24/anthropic-ai-agent-attempts-supply-chain-attack-uses-fake-accounts-to-push-malwa.md",
-      "committedAt": "2026-10-25T00:00:33.273+05:30",
-      "title": "Anthropic AI Agent Attempts Supply Chain Attack, Uses Fake Accounts to Push Malware"
+      "id": "1yb12xu000",
+      "link": "https://cyberpress.org/hackers-breached-litellm-supply-chain-attack/",
+      "filePath": "cyberpress/pages/2026/10/24/hackers-breached-litellm-11-days-before-supply-chain-attack-stole-github-secrets.md",
+      "committedAt": "2026-10-25T12:00:36.341+05:30",
+      "title": "Hackers Breached LiteLLM 11 Days Before Supply Chain Attack, Stole GitHub Secrets"
     }
   ]
 }

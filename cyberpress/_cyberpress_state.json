@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:00:36.341+05:30",
-  "lastLink": "https://cyberpress.org/hackers-breached-litellm-supply-chain-attack/",
-  "lastId": "1yb12xu000",
-  "lastFilePath": "cyberpress/pages/2026/10/24/hackers-breached-litellm-11-days-before-supply-chain-attack-stole-github-secrets.md",
+  "updatedAt": "2026-10-26T00:00:50.996+05:30",
+  "lastLink": "https://cyberpress.org/critical-okta-access-gateway-vulnerability/",
+  "lastId": "lheulr0000",
+  "lastFilePath": "cyberpress/pages/2026/10/23/critical-okta-access-gateway-vulnerability-allows-remote-command-execution.md",
   "items": [
     {
-      "id": "1yb12xu000",
-      "link": "https://cyberpress.org/hackers-breached-litellm-supply-chain-attack/",
-      "filePath": "cyberpress/pages/2026/10/24/hackers-breached-litellm-11-days-before-supply-chain-attack-stole-github-secrets.md",
-      "committedAt": "2026-10-25T12:00:36.341+05:30",
-      "title": "Hackers Breached LiteLLM 11 Days Before Supply Chain Attack, Stole GitHub Secrets"
+      "id": "lheulr0000",
+      "link": "https://cyberpress.org/critical-okta-access-gateway-vulnerability/",
+      "filePath": "cyberpress/pages/2026/10/23/critical-okta-access-gateway-vulnerability-allows-remote-command-execution.md",
+      "committedAt": "2026-10-26T00:00:50.996+05:30",
+      "title": "Critical Okta Access Gateway Vulnerability Allows Remote Command Execution"
     }
   ]
 }

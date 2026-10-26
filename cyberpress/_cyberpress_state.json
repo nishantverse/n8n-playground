@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T12:00:25.670+05:30",
-  "lastLink": "https://cyberpress.org/critical-php2shell-flaws/",
-  "lastId": "19drrbd000",
-  "lastFilePath": "cyberpress/pages/2026/10/26/hacker-exploits-critical-php2shell-flaws-to-steal-bitcoin-releases-public-poc.md",
+  "updatedAt": "2026-10-27T00:00:24.572+05:30",
+  "lastLink": "https://cyberpress.org/kali-linux-2026-3-released-6-new-hacking-tools/",
+  "lastId": "1lv27kb000",
+  "lastFilePath": "cyberpress/pages/2026/10/26/kali-linux-20263-released-with-6-new-hacking-tools-linux-kernel-71-and-nethunter.md",
   "items": [
     {
-      "id": "19drrbd000",
-      "link": "https://cyberpress.org/critical-php2shell-flaws/",
-      "filePath": "cyberpress/pages/2026/10/26/hacker-exploits-critical-php2shell-flaws-to-steal-bitcoin-releases-public-poc.md",
-      "committedAt": "2026-10-26T12:00:25.670+05:30",
-      "title": "Hacker Exploits Critical PHP2Shell Flaws to Steal Bitcoin, Releases Public PoC"
+      "id": "1lv27kb000",
+      "link": "https://cyberpress.org/kali-linux-2026-3-released-6-new-hacking-tools/",
+      "filePath": "cyberpress/pages/2026/10/26/kali-linux-20263-released-with-6-new-hacking-tools-linux-kernel-71-and-nethunter.md",
+      "committedAt": "2026-10-27T00:00:24.572+05:30",
+      "title": "Kali Linux 2026.3 Released With 6 New Hacking Tools, Linux Kernel 7.1, and NetHunter Updates"
     }
   ]
 }

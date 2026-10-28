@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T00:00:23.844+05:30",
-  "lastLink": "https://cyberpress.org/apple-patches-actively-exploited-ios-zero-day/",
-  "lastId": "fechjv0000",
-  "lastFilePath": "cyberpress/pages/2026/10/27/apple-patches-actively-exploited-ios-zero-day-allowing-remote-code-execution.md",
+  "updatedAt": "2026-10-28T12:00:30.439+05:30",
+  "lastLink": "https://cyberpress.org/hackers-weaponize-email-notifications/",
+  "lastId": "1c5e47l000",
+  "lastFilePath": "cyberpress/pages/2026/10/28/hackers-turn-automated-email-notifications-and-delivery-failure-reports-into-phi.md",
   "items": [
     {
-      "id": "fechjv0000",
-      "link": "https://cyberpress.org/apple-patches-actively-exploited-ios-zero-day/",
-      "filePath": "cyberpress/pages/2026/10/27/apple-patches-actively-exploited-ios-zero-day-allowing-remote-code-execution.md",
-      "committedAt": "2026-10-28T00:00:23.844+05:30",
-      "title": "Apple Patches Actively Exploited iOS Zero-Day Allowing Remote Code Execution"
+      "id": "1c5e47l000",
+      "link": "https://cyberpress.org/hackers-weaponize-email-notifications/",
+      "filePath": "cyberpress/pages/2026/10/28/hackers-turn-automated-email-notifications-and-delivery-failure-reports-into-phi.md",
+      "committedAt": "2026-10-28T12:00:30.439+05:30",
+      "title": "Hackers Turn Automated Email Notifications and Delivery Failure Reports Into Phishing Tools"
     }
   ]
 }

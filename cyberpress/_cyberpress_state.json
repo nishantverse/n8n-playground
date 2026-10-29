@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T12:00:24.160+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities/",
-  "lastId": "4s62mp0000",
-  "lastFilePath": "cyberpress/pages/2026/10/29/hackers-exploit-php2shell-vulnerabilities-to-gain-root-access-on-25-servers.md",
+  "updatedAt": "2026-10-30T00:00:23.576+05:30",
+  "lastLink": "https://cyberpress.org/china-linked-hackers-exploit-vmware-esxi-zero-day/",
+  "lastId": "t9nrg00000",
+  "lastFilePath": "cyberpress/pages/2026/10/29/china-linked-hackers-exploit-vmware-esxi-zero-day-to-target-us-law-firms.md",
   "items": [
     {
-      "id": "4s62mp0000",
-      "link": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/10/29/hackers-exploit-php2shell-vulnerabilities-to-gain-root-access-on-25-servers.md",
-      "committedAt": "2026-10-29T12:00:24.160+05:30",
-      "title": "Hackers Exploit PHP2Shell Vulnerabilities to Gain Root Access on 25 Servers"
+      "id": "t9nrg00000",
+      "link": "https://cyberpress.org/china-linked-hackers-exploit-vmware-esxi-zero-day/",
+      "filePath": "cyberpress/pages/2026/10/29/china-linked-hackers-exploit-vmware-esxi-zero-day-to-target-us-law-firms.md",
+      "committedAt": "2026-10-30T00:00:23.576+05:30",
+      "title": "China-Linked Hackers Exploit VMware ESXi Zero-Day to Target U.S. Law Firms"
     }
   ]
 }

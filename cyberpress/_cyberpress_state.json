@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T00:00:23.627+05:30",
-  "lastLink": "https://cyberpress.org/microsoft-windows-updates-emudhra-ca-keys/",
-  "lastId": "r539i20000",
-  "lastFilePath": "cyberpress/pages/2026/10/28/microsoft-releases-emergency-windows-updates-to-block-8-compromised-emudhra-ca-k.md",
+  "updatedAt": "2026-10-29T12:00:24.160+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities/",
+  "lastId": "4s62mp0000",
+  "lastFilePath": "cyberpress/pages/2026/10/29/hackers-exploit-php2shell-vulnerabilities-to-gain-root-access-on-25-servers.md",
   "items": [
     {
-      "id": "r539i20000",
-      "link": "https://cyberpress.org/microsoft-windows-updates-emudhra-ca-keys/",
-      "filePath": "cyberpress/pages/2026/10/28/microsoft-releases-emergency-windows-updates-to-block-8-compromised-emudhra-ca-k.md",
-      "committedAt": "2026-10-29T00:00:23.627+05:30",
-      "title": "Microsoft Releases Emergency Windows Updates to Block 8 Compromised eMudhra CA Keys"
+      "id": "4s62mp0000",
+      "link": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/10/29/hackers-exploit-php2shell-vulnerabilities-to-gain-root-access-on-25-servers.md",
+      "committedAt": "2026-10-29T12:00:24.160+05:30",
+      "title": "Hackers Exploit PHP2Shell Vulnerabilities to Gain Root Access on 25 Servers"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T12:00:23.567+05:30",
-  "lastLink": "https://cyberpress.org/hackers-actively-target-wordpress-rce-flaw/",
-  "lastId": "ae2n4j0000",
-  "lastFilePath": "cyberpress/pages/2026/10/30/hackers-actively-target-wordpress-rce-flaw-that-allows-unauthenticated-remote-co.md",
+  "updatedAt": "2026-10-31T00:00:23.622+05:30",
+  "lastLink": "https://cyberpress.org/cisa-warns-critical-gitlab-rce-vulnerability/",
+  "lastId": "1shdznr000",
+  "lastFilePath": "cyberpress/pages/2026/10/30/cisa-warns-of-critical-gitlab-rce-vulnerability-actively-exploited-in-attacks.md",
   "items": [
     {
-      "id": "ae2n4j0000",
-      "link": "https://cyberpress.org/hackers-actively-target-wordpress-rce-flaw/",
-      "filePath": "cyberpress/pages/2026/10/30/hackers-actively-target-wordpress-rce-flaw-that-allows-unauthenticated-remote-co.md",
-      "committedAt": "2026-10-30T12:00:23.567+05:30",
-      "title": "Hackers Actively Target WordPress RCE Flaw That Allows Unauthenticated Remote Code Execution"
+      "id": "1shdznr000",
+      "link": "https://cyberpress.org/cisa-warns-critical-gitlab-rce-vulnerability/",
+      "filePath": "cyberpress/pages/2026/10/30/cisa-warns-of-critical-gitlab-rce-vulnerability-actively-exploited-in-attacks.md",
+      "committedAt": "2026-10-31T00:00:23.622+05:30",
+      "title": "CISA Warns of Critical GitLab RCE Vulnerability Actively Exploited in Attacks"
     }
   ]
 }

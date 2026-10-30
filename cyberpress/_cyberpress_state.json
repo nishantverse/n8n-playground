@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T00:00:23.576+05:30",
-  "lastLink": "https://cyberpress.org/china-linked-hackers-exploit-vmware-esxi-zero-day/",
-  "lastId": "t9nrg00000",
-  "lastFilePath": "cyberpress/pages/2026/10/29/china-linked-hackers-exploit-vmware-esxi-zero-day-to-target-us-law-firms.md",
+  "updatedAt": "2026-10-30T12:00:23.567+05:30",
+  "lastLink": "https://cyberpress.org/hackers-actively-target-wordpress-rce-flaw/",
+  "lastId": "ae2n4j0000",
+  "lastFilePath": "cyberpress/pages/2026/10/30/hackers-actively-target-wordpress-rce-flaw-that-allows-unauthenticated-remote-co.md",
   "items": [
     {
-      "id": "t9nrg00000",
-      "link": "https://cyberpress.org/china-linked-hackers-exploit-vmware-esxi-zero-day/",
-      "filePath": "cyberpress/pages/2026/10/29/china-linked-hackers-exploit-vmware-esxi-zero-day-to-target-us-law-firms.md",
-      "committedAt": "2026-10-30T00:00:23.576+05:30",
-      "title": "China-Linked Hackers Exploit VMware ESXi Zero-Day to Target U.S. Law Firms"
+      "id": "ae2n4j0000",
+      "link": "https://cyberpress.org/hackers-actively-target-wordpress-rce-flaw/",
+      "filePath": "cyberpress/pages/2026/10/30/hackers-actively-target-wordpress-rce-flaw-that-allows-unauthenticated-remote-co.md",
+      "committedAt": "2026-10-30T12:00:23.567+05:30",
+      "title": "Hackers Actively Target WordPress RCE Flaw That Allows Unauthenticated Remote Code Execution"
     }
   ]
 }

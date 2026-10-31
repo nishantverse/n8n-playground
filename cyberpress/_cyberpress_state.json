@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T00:00:23.622+05:30",
-  "lastLink": "https://cyberpress.org/cisa-warns-critical-gitlab-rce-vulnerability/",
-  "lastId": "1shdznr000",
-  "lastFilePath": "cyberpress/pages/2026/10/30/cisa-warns-of-critical-gitlab-rce-vulnerability-actively-exploited-in-attacks.md",
+  "updatedAt": "2026-10-31T12:00:49.089+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities/",
+  "lastId": "10lvt74000",
+  "lastFilePath": "cyberpress/pages/2026/10/30/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities-to-gain-root-acce.md",
   "items": [
     {
-      "id": "1shdznr000",
-      "link": "https://cyberpress.org/cisa-warns-critical-gitlab-rce-vulnerability/",
-      "filePath": "cyberpress/pages/2026/10/30/cisa-warns-of-critical-gitlab-rce-vulnerability-actively-exploited-in-attacks.md",
-      "committedAt": "2026-10-31T00:00:23.622+05:30",
-      "title": "CISA Warns of Critical GitLab RCE Vulnerability Actively Exploited in Attacks"
+      "id": "10lvt74000",
+      "link": "https://cyberpress.org/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/10/30/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities-to-gain-root-acce.md",
+      "committedAt": "2026-10-31T12:00:49.089+05:30",
+      "title": "Hackers Exploit Ivanti Connect Secure Zero-Day Vulnerabilities to Gain Root Access and Steal Credentials"
     }
   ]
 }

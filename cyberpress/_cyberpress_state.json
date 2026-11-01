@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T00:00:38.949+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-wordpress-rce-flaw/",
-  "lastId": "15igklg000",
-  "lastFilePath": "cyberpress/pages/2026/10/31/hackers-exploit-wordpress-rce-flaw-as-wordfence-blocks-over-60000-attacks-in-24-.md",
+  "updatedAt": "2026-11-01T12:00:43.265+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities-2/",
+  "lastId": "1g3ige0000",
+  "lastFilePath": "cyberpress/pages/2026/10/31/hackers-exploit-php2shell-vulnerabilities-to-gain-root-access-to-palo-alto-firew.md",
   "items": [
     {
-      "id": "15igklg000",
-      "link": "https://cyberpress.org/hackers-exploit-wordpress-rce-flaw/",
-      "filePath": "cyberpress/pages/2026/10/31/hackers-exploit-wordpress-rce-flaw-as-wordfence-blocks-over-60000-attacks-in-24-.md",
-      "committedAt": "2026-11-01T00:00:38.949+05:30",
-      "title": "Hackers Exploit WordPress RCE Flaw as Wordfence Blocks Over 60,000 Attacks in 24 Hours"
+      "id": "1g3ige0000",
+      "link": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities-2/",
+      "filePath": "cyberpress/pages/2026/10/31/hackers-exploit-php2shell-vulnerabilities-to-gain-root-access-to-palo-alto-firew.md",
+      "committedAt": "2026-11-01T12:00:43.265+05:30",
+      "title": "Hackers Exploit PHP2Shell Vulnerabilities to Gain Root Access to Palo Alto Firewalls Using Fragnesia"
     }
   ]
 }

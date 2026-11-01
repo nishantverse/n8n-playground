@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T12:00:43.265+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities-2/",
-  "lastId": "1g3ige0000",
-  "lastFilePath": "cyberpress/pages/2026/10/31/hackers-exploit-php2shell-vulnerabilities-to-gain-root-access-to-palo-alto-firew.md",
+  "updatedAt": "2026-11-02T00:00:43.107+05:30",
+  "lastLink": "https://cyberpress.org/belarus-linked-hackers-deploy-wiper/",
+  "lastId": "o1g0690000",
+  "lastFilePath": "cyberpress/pages/2026/10/30/belarus-linked-hackers-deploy-wiper-malware-in-first-documented-destructive-atta.md",
   "items": [
     {
-      "id": "1g3ige0000",
-      "link": "https://cyberpress.org/hackers-exploit-php2shell-vulnerabilities-2/",
-      "filePath": "cyberpress/pages/2026/10/31/hackers-exploit-php2shell-vulnerabilities-to-gain-root-access-to-palo-alto-firew.md",
-      "committedAt": "2026-11-01T12:00:43.265+05:30",
-      "title": "Hackers Exploit PHP2Shell Vulnerabilities to Gain Root Access to Palo Alto Firewalls Using Fragnesia"
+      "id": "o1g0690000",
+      "link": "https://cyberpress.org/belarus-linked-hackers-deploy-wiper/",
+      "filePath": "cyberpress/pages/2026/10/30/belarus-linked-hackers-deploy-wiper-malware-in-first-documented-destructive-atta.md",
+      "committedAt": "2026-11-02T00:00:43.107+05:30",
+      "title": "Belarus-Linked Hackers Deploy Wiper Malware in First Documented Destructive Attack on Ukraine"
     }
   ]
 }

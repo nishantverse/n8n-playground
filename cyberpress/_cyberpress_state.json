@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:00:23.846+05:30",
-  "lastLink": "https://cyberpress.org/critical-incus-and-lxd-vulnerabilities/",
-  "lastId": "1ti42x6000",
-  "lastFilePath": "cyberpress/pages/2026/11/02/critical-incus-and-lxd-vulnerabilities-allow-unauthenticated-attackers-to-take-o.md",
+  "updatedAt": "2026-11-03T00:00:36.606+05:30",
+  "lastLink": "https://cyberpress.org/beyondtrust-remote-support-systems/",
+  "lastId": "1yfivcs000",
+  "lastFilePath": "cyberpress/pages/2026/11/02/hackers-scan-beyondtrust-remote-support-systems-for-actively-exploited-zero-day-.md",
   "items": [
     {
-      "id": "1ti42x6000",
-      "link": "https://cyberpress.org/critical-incus-and-lxd-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/11/02/critical-incus-and-lxd-vulnerabilities-allow-unauthenticated-attackers-to-take-o.md",
-      "committedAt": "2026-11-02T12:00:23.846+05:30",
-      "title": "Critical Incus and LXD Vulnerabilities Allow Unauthenticated Attackers to Take Over Virtual Machines"
+      "id": "1yfivcs000",
+      "link": "https://cyberpress.org/beyondtrust-remote-support-systems/",
+      "filePath": "cyberpress/pages/2026/11/02/hackers-scan-beyondtrust-remote-support-systems-for-actively-exploited-zero-day-.md",
+      "committedAt": "2026-11-03T00:00:36.606+05:30",
+      "title": "Hackers Scan BeyondTrust Remote Support Systems for Actively Exploited Zero-Day Flaw"
     }
   ]
 }

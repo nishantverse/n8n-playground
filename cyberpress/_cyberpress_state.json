@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T12:00:23.585+05:30",
-  "lastLink": "https://cyberpress.org/critical-langflow-ai-vulnerabilities/",
-  "lastId": "26cdhl0000",
-  "lastFilePath": "cyberpress/pages/2026/11/03/critical-langflow-ai-vulnerabilities-allow-hackers-to-bypass-authentication-and-.md",
+  "updatedAt": "2026-11-04T00:00:24.334+05:30",
+  "lastLink": "https://cyberpress.org/hackers-prioritize-system-takeover-flaws/",
+  "lastId": "5xl8ij0000",
+  "lastFilePath": "cyberpress/pages/2026/11/03/hackers-exploit-just-05-of-known-vulnerabilities-prioritizing-critical-system-ta.md",
   "items": [
     {
-      "id": "26cdhl0000",
-      "link": "https://cyberpress.org/critical-langflow-ai-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/11/03/critical-langflow-ai-vulnerabilities-allow-hackers-to-bypass-authentication-and-.md",
-      "committedAt": "2026-11-03T12:00:23.585+05:30",
-      "title": "Critical Langflow AI Vulnerabilities Allow Hackers to Bypass Authentication and Execute Remote Code"
+      "id": "5xl8ij0000",
+      "link": "https://cyberpress.org/hackers-prioritize-system-takeover-flaws/",
+      "filePath": "cyberpress/pages/2026/11/03/hackers-exploit-just-05-of-known-vulnerabilities-prioritizing-critical-system-ta.md",
+      "committedAt": "2026-11-04T00:00:24.334+05:30",
+      "title": "Hackers Exploit Just 0.5% of Known Vulnerabilities, Prioritizing Critical System Takeover Flaws"
     }
   ]
 }

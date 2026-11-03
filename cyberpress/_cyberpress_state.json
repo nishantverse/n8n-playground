@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T00:00:36.606+05:30",
-  "lastLink": "https://cyberpress.org/beyondtrust-remote-support-systems/",
-  "lastId": "1yfivcs000",
-  "lastFilePath": "cyberpress/pages/2026/11/02/hackers-scan-beyondtrust-remote-support-systems-for-actively-exploited-zero-day-.md",
+  "updatedAt": "2026-11-03T12:00:23.585+05:30",
+  "lastLink": "https://cyberpress.org/critical-langflow-ai-vulnerabilities/",
+  "lastId": "26cdhl0000",
+  "lastFilePath": "cyberpress/pages/2026/11/03/critical-langflow-ai-vulnerabilities-allow-hackers-to-bypass-authentication-and-.md",
   "items": [
     {
-      "id": "1yfivcs000",
-      "link": "https://cyberpress.org/beyondtrust-remote-support-systems/",
-      "filePath": "cyberpress/pages/2026/11/02/hackers-scan-beyondtrust-remote-support-systems-for-actively-exploited-zero-day-.md",
-      "committedAt": "2026-11-03T00:00:36.606+05:30",
-      "title": "Hackers Scan BeyondTrust Remote Support Systems for Actively Exploited Zero-Day Flaw"
+      "id": "26cdhl0000",
+      "link": "https://cyberpress.org/critical-langflow-ai-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/11/03/critical-langflow-ai-vulnerabilities-allow-hackers-to-bypass-authentication-and-.md",
+      "committedAt": "2026-11-03T12:00:23.585+05:30",
+      "title": "Critical Langflow AI Vulnerabilities Allow Hackers to Bypass Authentication and Execute Remote Code"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T12:00:30.220+05:30",
-  "lastLink": "https://cyberpress.org/critical-barracuda-security-flaws/",
-  "lastId": "12dsh66000",
-  "lastFilePath": "cyberpress/pages/2026/11/04/critical-barracuda-security-flaws-allow-attackers-to-bypass-authorization-and-ga.md",
+  "updatedAt": "2026-11-05T00:00:23.658+05:30",
+  "lastLink": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/",
+  "lastId": "lca1tc0000",
+  "lastFilePath": "cyberpress/pages/2026/11/04/google-fixes-208-android-vulnerabilities-including-critical-zero-click-rce-flaws.md",
   "items": [
     {
-      "id": "12dsh66000",
-      "link": "https://cyberpress.org/critical-barracuda-security-flaws/",
-      "filePath": "cyberpress/pages/2026/11/04/critical-barracuda-security-flaws-allow-attackers-to-bypass-authorization-and-ga.md",
-      "committedAt": "2026-11-04T12:00:30.220+05:30",
-      "title": "Critical Barracuda Security Flaws Allow Attackers to Bypass Authorization and Gain Root Access"
+      "id": "lca1tc0000",
+      "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/11/04/google-fixes-208-android-vulnerabilities-including-critical-zero-click-rce-flaws.md",
+      "committedAt": "2026-11-05T00:00:23.658+05:30",
+      "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws"
     }
   ]
 }

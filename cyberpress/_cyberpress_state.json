@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T12:00:26.743+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw/",
-  "lastId": "s0q5aj0000",
-  "lastFilePath": "cyberpress/pages/2026/11/05/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw-to-compromise-nearly-1000-network.md",
+  "updatedAt": "2026-11-06T00:00:23.813+05:30",
+  "lastLink": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/",
+  "lastId": "1tnjys1000",
+  "lastFilePath": "cyberpress/pages/2026/11/05/critical-citrix-xenserver-vulnerabilities-allow-remote-attackers-to-compromise-v.md",
   "items": [
     {
-      "id": "s0q5aj0000",
-      "link": "https://cyberpress.org/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw/",
-      "filePath": "cyberpress/pages/2026/11/05/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw-to-compromise-nearly-1000-network.md",
-      "committedAt": "2026-11-05T12:00:26.743+05:30",
-      "title": "Hackers Exploit Zyxel GS1900 Zero-Day RCE Flaw to Compromise Nearly 1,000 Network Switches"
+      "id": "1tnjys1000",
+      "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/",
+      "filePath": "cyberpress/pages/2026/11/05/critical-citrix-xenserver-vulnerabilities-allow-remote-attackers-to-compromise-v.md",
+      "committedAt": "2026-11-06T00:00:23.813+05:30",
+      "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts"
     }
   ]
 }

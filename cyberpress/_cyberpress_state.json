@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T00:00:23.658+05:30",
-  "lastLink": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/",
-  "lastId": "lca1tc0000",
-  "lastFilePath": "cyberpress/pages/2026/11/04/google-fixes-208-android-vulnerabilities-including-critical-zero-click-rce-flaws.md",
+  "updatedAt": "2026-11-05T12:00:26.743+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw/",
+  "lastId": "s0q5aj0000",
+  "lastFilePath": "cyberpress/pages/2026/11/05/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw-to-compromise-nearly-1000-network.md",
   "items": [
     {
-      "id": "lca1tc0000",
-      "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/11/04/google-fixes-208-android-vulnerabilities-including-critical-zero-click-rce-flaws.md",
-      "committedAt": "2026-11-05T00:00:23.658+05:30",
-      "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws"
+      "id": "s0q5aj0000",
+      "link": "https://cyberpress.org/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw/",
+      "filePath": "cyberpress/pages/2026/11/05/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw-to-compromise-nearly-1000-network.md",
+      "committedAt": "2026-11-05T12:00:26.743+05:30",
+      "title": "Hackers Exploit Zyxel GS1900 Zero-Day RCE Flaw to Compromise Nearly 1,000 Network Switches"
     }
   ]
 }

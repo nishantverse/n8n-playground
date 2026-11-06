@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T12:00:31.486+05:30",
-  "lastLink": "https://cyberpress.org/ghostmap-android-vulnerability-exploits/",
-  "lastId": "qsn8le0000",
-  "lastFilePath": "cyberpress/pages/2026/11/06/ghostmap-android-vulnerability-exploits-malformed-apk-files-to-crash-critical-sy.md",
+  "updatedAt": "2026-11-07T00:00:23.462+05:30",
+  "lastLink": "https://cyberpress.org/dark-project-exposes-victims/",
+  "lastId": "1uvd4ec000",
+  "lastFilePath": "cyberpress/pages/2026/11/06/dark-project-ransomware-group-uses-tor-leak-site-to-expose-stolen-company-data-a.md",
   "items": [
     {
-      "id": "qsn8le0000",
-      "link": "https://cyberpress.org/ghostmap-android-vulnerability-exploits/",
-      "filePath": "cyberpress/pages/2026/11/06/ghostmap-android-vulnerability-exploits-malformed-apk-files-to-crash-critical-sy.md",
-      "committedAt": "2026-11-06T12:00:31.486+05:30",
-      "title": "GhostMap Android Vulnerability Exploits Malformed APK Files to Crash Critical System Processes"
+      "id": "1uvd4ec000",
+      "link": "https://cyberpress.org/dark-project-exposes-victims/",
+      "filePath": "cyberpress/pages/2026/11/06/dark-project-ransomware-group-uses-tor-leak-site-to-expose-stolen-company-data-a.md",
+      "committedAt": "2026-11-07T00:00:23.462+05:30",
+      "title": "Dark Project Ransomware Group Uses Tor Leak Site to Expose Stolen Company Data and Pressure Victims"
     }
   ]
 }

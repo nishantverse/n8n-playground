@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T00:00:23.813+05:30",
-  "lastLink": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/",
-  "lastId": "1tnjys1000",
-  "lastFilePath": "cyberpress/pages/2026/11/05/critical-citrix-xenserver-vulnerabilities-allow-remote-attackers-to-compromise-v.md",
+  "updatedAt": "2026-11-06T12:00:31.486+05:30",
+  "lastLink": "https://cyberpress.org/ghostmap-android-vulnerability-exploits/",
+  "lastId": "qsn8le0000",
+  "lastFilePath": "cyberpress/pages/2026/11/06/ghostmap-android-vulnerability-exploits-malformed-apk-files-to-crash-critical-sy.md",
   "items": [
     {
-      "id": "1tnjys1000",
-      "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/",
-      "filePath": "cyberpress/pages/2026/11/05/critical-citrix-xenserver-vulnerabilities-allow-remote-attackers-to-compromise-v.md",
-      "committedAt": "2026-11-06T00:00:23.813+05:30",
-      "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts"
+      "id": "qsn8le0000",
+      "link": "https://cyberpress.org/ghostmap-android-vulnerability-exploits/",
+      "filePath": "cyberpress/pages/2026/11/06/ghostmap-android-vulnerability-exploits-malformed-apk-files-to-crash-critical-sy.md",
+      "committedAt": "2026-11-06T12:00:31.486+05:30",
+      "title": "GhostMap Android Vulnerability Exploits Malformed APK Files to Crash Critical System Processes"
     }
   ]
 }

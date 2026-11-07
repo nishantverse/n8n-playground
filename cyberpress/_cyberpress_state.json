@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T12:00:32.459+05:30",
-  "lastLink": "https://cyberpress.org/fake-github-security-tools-asyncrat-malware/",
-  "lastId": "1ymhicj000",
-  "lastFilePath": "cyberpress/pages/2026/11/07/fake-github-security-tools-spread-asyncrat-malware-and-steal-sensitive-data-from.md",
+  "updatedAt": "2026-11-08T00:00:34.087+05:30",
+  "lastLink": "https://cyberpress.org/over-240000-attacks-wordpress-core/",
+  "lastId": "sgbv6e0000",
+  "lastFilePath": "cyberpress/pages/2026/11/07/hackers-launch-over-240000-attacks-targeting-wordpress-core-remote-code-executio.md",
   "items": [
     {
-      "id": "1ymhicj000",
-      "link": "https://cyberpress.org/fake-github-security-tools-asyncrat-malware/",
-      "filePath": "cyberpress/pages/2026/11/07/fake-github-security-tools-spread-asyncrat-malware-and-steal-sensitive-data-from.md",
-      "committedAt": "2026-11-07T12:00:32.459+05:30",
-      "title": "Fake GitHub Security Tools Spread AsyncRAT Malware and Steal Sensitive Data From Developers"
+      "id": "sgbv6e0000",
+      "link": "https://cyberpress.org/over-240000-attacks-wordpress-core/",
+      "filePath": "cyberpress/pages/2026/11/07/hackers-launch-over-240000-attacks-targeting-wordpress-core-remote-code-executio.md",
+      "committedAt": "2026-11-08T00:00:34.087+05:30",
+      "title": "Hackers Launch Over 240,000 Attacks Targeting WordPress Core Remote Code Execution Flaw"
     }
   ]
 }

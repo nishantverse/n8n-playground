@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T00:00:23.462+05:30",
-  "lastLink": "https://cyberpress.org/dark-project-exposes-victims/",
-  "lastId": "1uvd4ec000",
-  "lastFilePath": "cyberpress/pages/2026/11/06/dark-project-ransomware-group-uses-tor-leak-site-to-expose-stolen-company-data-a.md",
+  "updatedAt": "2026-11-07T12:00:32.459+05:30",
+  "lastLink": "https://cyberpress.org/fake-github-security-tools-asyncrat-malware/",
+  "lastId": "1ymhicj000",
+  "lastFilePath": "cyberpress/pages/2026/11/07/fake-github-security-tools-spread-asyncrat-malware-and-steal-sensitive-data-from.md",
   "items": [
     {
-      "id": "1uvd4ec000",
-      "link": "https://cyberpress.org/dark-project-exposes-victims/",
-      "filePath": "cyberpress/pages/2026/11/06/dark-project-ransomware-group-uses-tor-leak-site-to-expose-stolen-company-data-a.md",
-      "committedAt": "2026-11-07T00:00:23.462+05:30",
-      "title": "Dark Project Ransomware Group Uses Tor Leak Site to Expose Stolen Company Data and Pressure Victims"
+      "id": "1ymhicj000",
+      "link": "https://cyberpress.org/fake-github-security-tools-asyncrat-malware/",
+      "filePath": "cyberpress/pages/2026/11/07/fake-github-security-tools-spread-asyncrat-malware-and-steal-sensitive-data-from.md",
+      "committedAt": "2026-11-07T12:00:32.459+05:30",
+      "title": "Fake GitHub Security Tools Spread AsyncRAT Malware and Steal Sensitive Data From Developers"
     }
   ]
 }

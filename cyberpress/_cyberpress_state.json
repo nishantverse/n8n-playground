@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T00:00:34.087+05:30",
-  "lastLink": "https://cyberpress.org/over-240000-attacks-wordpress-core/",
-  "lastId": "sgbv6e0000",
-  "lastFilePath": "cyberpress/pages/2026/11/07/hackers-launch-over-240000-attacks-targeting-wordpress-core-remote-code-executio.md",
+  "updatedAt": "2026-11-08T12:00:41.865+05:30",
+  "lastLink": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/",
+  "lastId": "1cn5j58000",
+  "lastFilePath": "cyberpress/pages/2026/11/07/hackers-exploit-sonicwall-ssl-vpn-flaw-to-bypass-saml-authentication-and-mfa.md",
   "items": [
     {
-      "id": "sgbv6e0000",
-      "link": "https://cyberpress.org/over-240000-attacks-wordpress-core/",
-      "filePath": "cyberpress/pages/2026/11/07/hackers-launch-over-240000-attacks-targeting-wordpress-core-remote-code-executio.md",
-      "committedAt": "2026-11-08T00:00:34.087+05:30",
-      "title": "Hackers Launch Over 240,000 Attacks Targeting WordPress Core Remote Code Execution Flaw"
+      "id": "1cn5j58000",
+      "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/",
+      "filePath": "cyberpress/pages/2026/11/07/hackers-exploit-sonicwall-ssl-vpn-flaw-to-bypass-saml-authentication-and-mfa.md",
+      "committedAt": "2026-11-08T12:00:41.865+05:30",
+      "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA"
     }
   ]
 }

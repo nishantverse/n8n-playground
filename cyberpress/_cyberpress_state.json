@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T12:00:30.351+05:30",
-  "lastLink": "https://cyberpress.org/exploit-react-server-components-flaw/",
-  "lastId": "5rmel00000",
-  "lastFilePath": "cyberpress/pages/2026/11/09/hackers-could-exploit-react-server-components-flaw-to-execute-malicious-code-on-.md",
+  "updatedAt": "2026-11-10T00:00:24.144+05:30",
+  "lastLink": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/",
+  "lastId": "17l23rq000",
+  "lastFilePath": "cyberpress/pages/2026/11/09/hackers-exploit-sonicwall-sonicos-vulnerability-to-bypass-saml-authentication.md",
   "items": [
     {
-      "id": "5rmel00000",
-      "link": "https://cyberpress.org/exploit-react-server-components-flaw/",
-      "filePath": "cyberpress/pages/2026/11/09/hackers-could-exploit-react-server-components-flaw-to-execute-malicious-code-on-.md",
-      "committedAt": "2026-11-09T12:00:30.351+05:30",
-      "title": "Hackers Could Exploit React Server Components Flaw to Execute Malicious Code on Servers"
+      "id": "17l23rq000",
+      "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/09/hackers-exploit-sonicwall-sonicos-vulnerability-to-bypass-saml-authentication.md",
+      "committedAt": "2026-11-10T00:00:24.144+05:30",
+      "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication"
     }
   ]
 }

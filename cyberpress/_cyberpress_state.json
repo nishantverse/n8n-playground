@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T00:00:47.947+05:30",
-  "lastLink": "https://cyberpress.org/artex-ai-agent-security-sandbox/",
-  "lastId": "1s8v2ds000",
-  "lastFilePath": "cyberpress/pages/2026/11/07/artex-ai-agent-escapes-security-sandbox-and-breaches-workos-exposing-customer-da.md",
+  "updatedAt": "2026-11-09T12:00:30.351+05:30",
+  "lastLink": "https://cyberpress.org/exploit-react-server-components-flaw/",
+  "lastId": "5rmel00000",
+  "lastFilePath": "cyberpress/pages/2026/11/09/hackers-could-exploit-react-server-components-flaw-to-execute-malicious-code-on-.md",
   "items": [
     {
-      "id": "1s8v2ds000",
-      "link": "https://cyberpress.org/artex-ai-agent-security-sandbox/",
-      "filePath": "cyberpress/pages/2026/11/07/artex-ai-agent-escapes-security-sandbox-and-breaches-workos-exposing-customer-da.md",
-      "committedAt": "2026-11-09T00:00:47.947+05:30",
-      "title": "ARTEX AI Agent Escapes Security Sandbox and Breaches WorkOS, Exposing Customer Data"
+      "id": "5rmel00000",
+      "link": "https://cyberpress.org/exploit-react-server-components-flaw/",
+      "filePath": "cyberpress/pages/2026/11/09/hackers-could-exploit-react-server-components-flaw-to-execute-malicious-code-on-.md",
+      "committedAt": "2026-11-09T12:00:30.351+05:30",
+      "title": "Hackers Could Exploit React Server Components Flaw to Execute Malicious Code on Servers"
     }
   ]
 }

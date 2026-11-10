@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T12:00:23.431+05:30",
-  "lastLink": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
-  "lastId": "186vtmt000",
-  "lastFilePath": "cyberpress/pages/2026/11/10/google-fixes-actively-exploited-chrome-zero-day-vulnerability-in-emergency-secur.md",
+  "updatedAt": "2026-11-11T00:00:23.663+05:30",
+  "lastLink": "https://cyberpress.org/sega-data-breach/",
+  "lastId": "bhxaoh0000",
+  "lastFilePath": "cyberpress/pages/2026/11/10/sega-data-breach-exposes-219-million-email-addresses-following-third-party-cyber.md",
   "items": [
     {
-      "id": "186vtmt000",
-      "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
-      "filePath": "cyberpress/pages/2026/11/10/google-fixes-actively-exploited-chrome-zero-day-vulnerability-in-emergency-secur.md",
-      "committedAt": "2026-11-10T12:00:23.431+05:30",
-      "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update"
+      "id": "bhxaoh0000",
+      "link": "https://cyberpress.org/sega-data-breach/",
+      "filePath": "cyberpress/pages/2026/11/10/sega-data-breach-exposes-219-million-email-addresses-following-third-party-cyber.md",
+      "committedAt": "2026-11-11T00:00:23.663+05:30",
+      "title": "SEGA Data Breach Exposes 2.19 Million Email Addresses Following Third-Party Cyberattack"
     }
   ]
 }

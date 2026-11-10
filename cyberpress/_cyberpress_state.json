@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T00:00:24.144+05:30",
-  "lastLink": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/",
-  "lastId": "17l23rq000",
-  "lastFilePath": "cyberpress/pages/2026/11/09/hackers-exploit-sonicwall-sonicos-vulnerability-to-bypass-saml-authentication.md",
+  "updatedAt": "2026-11-10T12:00:23.431+05:30",
+  "lastLink": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
+  "lastId": "186vtmt000",
+  "lastFilePath": "cyberpress/pages/2026/11/10/google-fixes-actively-exploited-chrome-zero-day-vulnerability-in-emergency-secur.md",
   "items": [
     {
-      "id": "17l23rq000",
-      "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/",
-      "filePath": "cyberpress/pages/2026/11/09/hackers-exploit-sonicwall-sonicos-vulnerability-to-bypass-saml-authentication.md",
-      "committedAt": "2026-11-10T00:00:24.144+05:30",
-      "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication"
+      "id": "186vtmt000",
+      "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/10/google-fixes-actively-exploited-chrome-zero-day-vulnerability-in-emergency-secur.md",
+      "committedAt": "2026-11-10T12:00:23.431+05:30",
+      "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update"
     }
   ]
 }

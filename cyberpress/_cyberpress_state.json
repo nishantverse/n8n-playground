@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T00:00:23.663+05:30",
-  "lastLink": "https://cyberpress.org/sega-data-breach/",
-  "lastId": "bhxaoh0000",
-  "lastFilePath": "cyberpress/pages/2026/11/10/sega-data-breach-exposes-219-million-email-addresses-following-third-party-cyber.md",
+  "updatedAt": "2026-11-11T12:00:31.836+05:30",
+  "lastLink": "https://cyberpress.org/clickfix-campaigns-compromise-networks/",
+  "lastId": "1uknewv000",
+  "lastFilePath": "cyberpress/pages/2026/11/11/clickfix-malware-campaigns-move-beyond-password-theft-to-compromise-entire-corpo.md",
   "items": [
     {
-      "id": "bhxaoh0000",
-      "link": "https://cyberpress.org/sega-data-breach/",
-      "filePath": "cyberpress/pages/2026/11/10/sega-data-breach-exposes-219-million-email-addresses-following-third-party-cyber.md",
-      "committedAt": "2026-11-11T00:00:23.663+05:30",
-      "title": "SEGA Data Breach Exposes 2.19 Million Email Addresses Following Third-Party Cyberattack"
+      "id": "1uknewv000",
+      "link": "https://cyberpress.org/clickfix-campaigns-compromise-networks/",
+      "filePath": "cyberpress/pages/2026/11/11/clickfix-malware-campaigns-move-beyond-password-theft-to-compromise-entire-corpo.md",
+      "committedAt": "2026-11-11T12:00:31.836+05:30",
+      "title": "ClickFix Malware Campaigns Move Beyond Password Theft to Compromise Entire Corporate Networks"
     }
   ]
 }

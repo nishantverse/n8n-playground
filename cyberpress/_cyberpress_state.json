@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T12:00:25.585+05:30",
-  "lastLink": "https://cyberpress.org/apache-http-server-2-4-71/",
-  "lastId": "13szqnt000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/apache-http-server-2471-fixes-critical-http2-remote-code-execution-vulnerability.md",
+  "updatedAt": "2026-11-13T00:00:24.910+05:30",
+  "lastLink": "https://cyberpress.org/cisa-microsoft-outlook-zero-day-vulnerability/",
+  "lastId": "1gx718e000",
+  "lastFilePath": "cyberpress/pages/2026/11/12/cisa-confirms-active-exploitation-of-microsoft-outlook-zero-day-vulnerability.md",
   "items": [
     {
-      "id": "13szqnt000",
-      "link": "https://cyberpress.org/apache-http-server-2-4-71/",
-      "filePath": "cyberpress/pages/2026/11/12/apache-http-server-2471-fixes-critical-http2-remote-code-execution-vulnerability.md",
-      "committedAt": "2026-11-12T12:00:25.585+05:30",
-      "title": "Apache HTTP Server 2.4.71 Fixes Critical HTTP/2 Remote Code Execution Vulnerability"
+      "id": "1gx718e000",
+      "link": "https://cyberpress.org/cisa-microsoft-outlook-zero-day-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/12/cisa-confirms-active-exploitation-of-microsoft-outlook-zero-day-vulnerability.md",
+      "committedAt": "2026-11-13T00:00:24.910+05:30",
+      "title": "CISA Confirms Active Exploitation of Microsoft Outlook Zero-Day Vulnerability"
     }
   ]
 }

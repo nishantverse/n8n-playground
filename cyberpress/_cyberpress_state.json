@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T12:00:31.732+05:30",
-  "lastLink": "https://cyberpress.org/critical-mongodb-flaw/",
-  "lastId": "9wawqr0000",
-  "lastFilePath": "cyberpress/pages/2026/11/12/critical-mongodb-flaw-allows-unauthenticated-attackers-to-crash-database-servers.md",
+  "updatedAt": "2026-11-14T00:00:23.449+05:30",
+  "lastLink": "https://cyberpress.org/check-point-php2shell-flaws/",
+  "lastId": "1atfggf000",
+  "lastFilePath": "cyberpress/pages/2026/11/13/hackers-exploit-check-point-php2shell-flaws-to-gain-root-access-and-deploy-wiper.md",
   "items": [
     {
-      "id": "9wawqr0000",
-      "link": "https://cyberpress.org/critical-mongodb-flaw/",
-      "filePath": "cyberpress/pages/2026/11/12/critical-mongodb-flaw-allows-unauthenticated-attackers-to-crash-database-servers.md",
-      "committedAt": "2026-11-13T12:00:31.732+05:30",
-      "title": "Critical MongoDB Flaw Allows Unauthenticated Attackers to Crash Database Servers, Trigger RCE"
+      "id": "1atfggf000",
+      "link": "https://cyberpress.org/check-point-php2shell-flaws/",
+      "filePath": "cyberpress/pages/2026/11/13/hackers-exploit-check-point-php2shell-flaws-to-gain-root-access-and-deploy-wiper.md",
+      "committedAt": "2026-11-14T00:00:23.449+05:30",
+      "title": "Hackers Exploit Check Point PHP2Shell Flaws to Gain Root Access and Deploy Wiper Malware"
     }
   ]
 }

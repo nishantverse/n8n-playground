@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T12:00:35.612+05:30",
-  "lastLink": "https://cyberpress.org/cisa-check-point-zero-day/",
-  "lastId": "xwa76h0000",
-  "lastFilePath": "cyberpress/pages/2026/11/14/cisa-warns-of-actively-exploited-check-point-zero-day-allowing-root-access.md",
+  "updatedAt": "2026-11-16T00:00:47.822+05:30",
+  "lastLink": "https://cyberpress.org/fbi-artex-ai-agents-breach-networks/",
+  "lastId": "1lyc9sx000",
+  "lastFilePath": "cyberpress/pages/2026/11/14/fbi-warns-hackers-are-using-artex-ai-agents-to-breach-networks-in-under-3-hours.md",
   "items": [
     {
-      "id": "xwa76h0000",
-      "link": "https://cyberpress.org/cisa-check-point-zero-day/",
-      "filePath": "cyberpress/pages/2026/11/14/cisa-warns-of-actively-exploited-check-point-zero-day-allowing-root-access.md",
-      "committedAt": "2026-11-15T12:00:35.612+05:30",
-      "title": "CISA Warns of Actively Exploited Check Point Zero-Day Allowing Root Access"
+      "id": "1lyc9sx000",
+      "link": "https://cyberpress.org/fbi-artex-ai-agents-breach-networks/",
+      "filePath": "cyberpress/pages/2026/11/14/fbi-warns-hackers-are-using-artex-ai-agents-to-breach-networks-in-under-3-hours.md",
+      "committedAt": "2026-11-16T00:00:47.822+05:30",
+      "title": "FBI Warns Hackers Are Using ARTEX AI Agents to Breach Networks in Under 3 Hours"
     }
   ]
 }

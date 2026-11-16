@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T12:00:25.962+05:30",
-  "lastLink": "https://cyberpress.org/cursor-data-breach/",
-  "lastId": "1rto9zi000",
-  "lastFilePath": "cyberpress/pages/2026/11/16/cursor-data-breach-exposes-customer-credentials-5000-developers-at-risk-from-mal.md",
+  "updatedAt": "2026-11-17T00:00:23.891+05:30",
+  "lastLink": "https://cyberpress.org/critical-apple-zero-day-bypasses/",
+  "lastId": "1l1q3kj000",
+  "lastFilePath": "cyberpress/pages/2026/11/16/critical-apple-zero-day-bypasses-microphone-permissions-and-recording-indicators.md",
   "items": [
     {
-      "id": "1rto9zi000",
-      "link": "https://cyberpress.org/cursor-data-breach/",
-      "filePath": "cyberpress/pages/2026/11/16/cursor-data-breach-exposes-customer-credentials-5000-developers-at-risk-from-mal.md",
-      "committedAt": "2026-11-16T12:00:25.962+05:30",
-      "title": "Cursor Data Breach Exposes Customer Credentials, 5,000 Developers at Risk From Malware"
+      "id": "1l1q3kj000",
+      "link": "https://cyberpress.org/critical-apple-zero-day-bypasses/",
+      "filePath": "cyberpress/pages/2026/11/16/critical-apple-zero-day-bypasses-microphone-permissions-and-recording-indicators.md",
+      "committedAt": "2026-11-17T00:00:23.891+05:30",
+      "title": "Critical Apple Zero-Day Bypasses Microphone Permissions and Recording Indicators"
     }
   ]
 }

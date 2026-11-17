@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T12:00:23.811+05:30",
-  "lastLink": "https://cyberpress.org/hackers-infect-178-major-websites/",
-  "lastId": "2msn5i0000",
-  "lastFilePath": "cyberpress/pages/2026/11/17/hackers-infect-178-major-websites-with-malware-through-optimizely-supply-chain-a.md",
+  "updatedAt": "2026-11-18T00:00:23.582+05:30",
+  "lastLink": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+  "lastId": "1bku0f2000",
+  "lastFilePath": "cyberpress/pages/2026/11/17/gitlab-patches-37-security-flaws-including-high-severity-cicd-and-xss-vulnerabil.md",
   "items": [
     {
-      "id": "2msn5i0000",
-      "link": "https://cyberpress.org/hackers-infect-178-major-websites/",
-      "filePath": "cyberpress/pages/2026/11/17/hackers-infect-178-major-websites-with-malware-through-optimizely-supply-chain-a.md",
-      "committedAt": "2026-11-17T12:00:23.811+05:30",
-      "title": "Hackers Infect 178 Major Websites With Malware Through Optimizely Supply Chain Attack"
+      "id": "1bku0f2000",
+      "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+      "filePath": "cyberpress/pages/2026/11/17/gitlab-patches-37-security-flaws-including-high-severity-cicd-and-xss-vulnerabil.md",
+      "committedAt": "2026-11-18T00:00:23.582+05:30",
+      "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities"
     }
   ]
 }

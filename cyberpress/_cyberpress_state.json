@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T00:00:23.582+05:30",
-  "lastLink": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
-  "lastId": "1bku0f2000",
-  "lastFilePath": "cyberpress/pages/2026/11/17/gitlab-patches-37-security-flaws-including-high-severity-cicd-and-xss-vulnerabil.md",
+  "updatedAt": "2026-11-18T12:00:30.708+05:30",
+  "lastLink": "https://cyberpress.org/critical-java4shell-flaw/",
+  "lastId": "14qvbm0000",
+  "lastFilePath": "cyberpress/pages/2026/11/18/critical-java4shell-flaw-lets-hackers-execute-code-remotely-on-popular-java-serv.md",
   "items": [
     {
-      "id": "1bku0f2000",
-      "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
-      "filePath": "cyberpress/pages/2026/11/17/gitlab-patches-37-security-flaws-including-high-severity-cicd-and-xss-vulnerabil.md",
-      "committedAt": "2026-11-18T00:00:23.582+05:30",
-      "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities"
+      "id": "14qvbm0000",
+      "link": "https://cyberpress.org/critical-java4shell-flaw/",
+      "filePath": "cyberpress/pages/2026/11/18/critical-java4shell-flaw-lets-hackers-execute-code-remotely-on-popular-java-serv.md",
+      "committedAt": "2026-11-18T12:00:30.708+05:30",
+      "title": "Critical Java4Shell Flaw Lets Hackers Execute Code Remotely on Popular Java Servers"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T12:00:31.979+05:30",
-  "lastLink": "https://cyberpress.org/opsagent-expands-ransomware-capabilities/",
-  "lastId": "1r104ul000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/new-opsagent-malware-framework-gives-ransomware-hackers-cobalt-strike-like-attac.md",
+  "updatedAt": "2026-11-20T00:00:31.784+05:30",
+  "lastLink": "https://cyberpress.org/critical-ruby2shell-flaw/",
+  "lastId": "eq58ve0000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/critical-ruby2shell-flaw-allows-unauthenticated-rce-in-rails-and-sinatra-applica.md",
   "items": [
     {
-      "id": "1r104ul000",
-      "link": "https://cyberpress.org/opsagent-expands-ransomware-capabilities/",
-      "filePath": "cyberpress/pages/2026/11/19/new-opsagent-malware-framework-gives-ransomware-hackers-cobalt-strike-like-attac.md",
-      "committedAt": "2026-11-19T12:00:31.979+05:30",
-      "title": "New OpsAgent Malware Framework Gives Ransomware Hackers Cobalt Strike-Like Attack Capabilities"
+      "id": "eq58ve0000",
+      "link": "https://cyberpress.org/critical-ruby2shell-flaw/",
+      "filePath": "cyberpress/pages/2026/11/19/critical-ruby2shell-flaw-allows-unauthenticated-rce-in-rails-and-sinatra-applica.md",
+      "committedAt": "2026-11-20T00:00:31.784+05:30",
+      "title": "Critical Ruby2Shell Flaw Allows Unauthenticated RCE in Rails and Sinatra Applications"
     }
   ]
 }

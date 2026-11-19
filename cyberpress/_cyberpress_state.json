@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:00:24.790+05:30",
-  "lastLink": "https://cyberpress.org/tor-releases-tails-7-17-1-update/",
-  "lastId": "18iyzjq000",
-  "lastFilePath": "cyberpress/pages/2026/11/18/tor-releases-emergency-tails-7171-update-to-fix-critical-ublock-origin-xss-flaw.md",
+  "updatedAt": "2026-11-19T12:00:31.979+05:30",
+  "lastLink": "https://cyberpress.org/opsagent-expands-ransomware-capabilities/",
+  "lastId": "1r104ul000",
+  "lastFilePath": "cyberpress/pages/2026/11/19/new-opsagent-malware-framework-gives-ransomware-hackers-cobalt-strike-like-attac.md",
   "items": [
     {
-      "id": "18iyzjq000",
-      "link": "https://cyberpress.org/tor-releases-tails-7-17-1-update/",
-      "filePath": "cyberpress/pages/2026/11/18/tor-releases-emergency-tails-7171-update-to-fix-critical-ublock-origin-xss-flaw.md",
-      "committedAt": "2026-11-19T00:00:24.790+05:30",
-      "title": "Tor Releases Emergency Tails 7.17.1 Update to Fix Critical uBlock Origin XSS Flaw"
+      "id": "1r104ul000",
+      "link": "https://cyberpress.org/opsagent-expands-ransomware-capabilities/",
+      "filePath": "cyberpress/pages/2026/11/19/new-opsagent-malware-framework-gives-ransomware-hackers-cobalt-strike-like-attac.md",
+      "committedAt": "2026-11-19T12:00:31.979+05:30",
+      "title": "New OpsAgent Malware Framework Gives Ransomware Hackers Cobalt Strike-Like Attack Capabilities"
     }
   ]
 }

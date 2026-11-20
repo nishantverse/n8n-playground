@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T00:00:31.784+05:30",
-  "lastLink": "https://cyberpress.org/critical-ruby2shell-flaw/",
-  "lastId": "eq58ve0000",
-  "lastFilePath": "cyberpress/pages/2026/11/19/critical-ruby2shell-flaw-allows-unauthenticated-rce-in-rails-and-sinatra-applica.md",
+  "updatedAt": "2026-11-20T12:00:53.863+05:30",
+  "lastLink": "https://cyberpress.org/hackers-breach-kpmg-canada/",
+  "lastId": "opdfe40000",
+  "lastFilePath": "cyberpress/pages/2026/11/20/hackers-breach-kpmg-canada-and-access-confidential-client-tax-documents.md",
   "items": [
     {
-      "id": "eq58ve0000",
-      "link": "https://cyberpress.org/critical-ruby2shell-flaw/",
-      "filePath": "cyberpress/pages/2026/11/19/critical-ruby2shell-flaw-allows-unauthenticated-rce-in-rails-and-sinatra-applica.md",
-      "committedAt": "2026-11-20T00:00:31.784+05:30",
-      "title": "Critical Ruby2Shell Flaw Allows Unauthenticated RCE in Rails and Sinatra Applications"
+      "id": "opdfe40000",
+      "link": "https://cyberpress.org/hackers-breach-kpmg-canada/",
+      "filePath": "cyberpress/pages/2026/11/20/hackers-breach-kpmg-canada-and-access-confidential-client-tax-documents.md",
+      "committedAt": "2026-11-20T12:00:53.863+05:30",
+      "title": "Hackers Breach KPMG Canada and Access Confidential Client Tax Documents"
     }
   ]
 }

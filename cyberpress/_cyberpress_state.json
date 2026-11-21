@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:00:23.966+05:30",
-  "lastLink": "https://cyberpress.org/byod-ransomware-diverts-ambulances/",
-  "lastId": "9obw250000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/byod-ransomware-attack-forces-ambulance-diversions-as-hackers-target-us-hospital.md",
+  "updatedAt": "2026-11-21T12:00:23.312+05:30",
+  "lastLink": "https://cyberpress.org/critical-f5-big-ip-vulnerability/",
+  "lastId": "en69ar0000",
+  "lastFilePath": "cyberpress/pages/2026/11/21/critical-f5-big-ip-vulnerability-allows-hackers-to-execute-code-without-authenti.md",
   "items": [
     {
-      "id": "9obw250000",
-      "link": "https://cyberpress.org/byod-ransomware-diverts-ambulances/",
-      "filePath": "cyberpress/pages/2026/11/20/byod-ransomware-attack-forces-ambulance-diversions-as-hackers-target-us-hospital.md",
-      "committedAt": "2026-11-21T00:00:23.966+05:30",
-      "title": "BYOD Ransomware Attack Forces Ambulance Diversions as Hackers Target U.S. Hospitals and Universities"
+      "id": "en69ar0000",
+      "link": "https://cyberpress.org/critical-f5-big-ip-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/21/critical-f5-big-ip-vulnerability-allows-hackers-to-execute-code-without-authenti.md",
+      "committedAt": "2026-11-21T12:00:23.312+05:30",
+      "title": "Critical F5 BIG-IP Vulnerability Allows Hackers to Execute Code Without Authentication"
     }
   ]
 }

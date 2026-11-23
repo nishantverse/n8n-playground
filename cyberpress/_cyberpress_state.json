@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T00:00:36.381+05:30",
-  "lastLink": "https://cyberpress.org/critical-watchguard-dimension-flaw/",
-  "lastId": "1sqfgrw000",
-  "lastFilePath": "cyberpress/pages/2026/11/20/critical-watchguard-dimension-flaw-lets-hackers-execute-code-without-authenticat.md",
+  "updatedAt": "2026-11-23T12:00:38.169+05:30",
+  "lastLink": "https://cyberpress.org/microsoft-entra-connect-health-flaw/",
+  "lastId": "18rx7o2000",
+  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-exploit-microsoft-entra-connect-health-flaw-to-access-admin-emails-and-t.md",
   "items": [
     {
-      "id": "1sqfgrw000",
-      "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/",
-      "filePath": "cyberpress/pages/2026/11/20/critical-watchguard-dimension-flaw-lets-hackers-execute-code-without-authenticat.md",
-      "committedAt": "2026-11-23T00:00:36.381+05:30",
-      "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication"
+      "id": "18rx7o2000",
+      "link": "https://cyberpress.org/microsoft-entra-connect-health-flaw/",
+      "filePath": "cyberpress/pages/2026/11/23/hackers-exploit-microsoft-entra-connect-health-flaw-to-access-admin-emails-and-t.md",
+      "committedAt": "2026-11-23T12:00:38.169+05:30",
+      "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Tenant Data"
     }
   ]
 }

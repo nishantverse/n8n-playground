@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T00:01:23.402+05:30",
-  "lastLink": "https://cyberpress.org/critical-cisco-expressway-flaw-2/",
-  "lastId": "1hzc71y000",
-  "lastFilePath": "cyberpress/pages/2026/11/23/hackers-exploit-critical-cisco-expressway-flaw-to-gain-root-access-and-breach-in.md",
+  "updatedAt": "2026-11-24T12:01:37.103+05:30",
+  "lastLink": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/",
+  "lastId": "1lcjpcx000",
+  "lastFilePath": "cyberpress/pages/2026/11/24/critical-n-able-mail-assure-ssrf-vulnerability-exposes-internal-systems-to-attac.md",
   "items": [
     {
-      "id": "1hzc71y000",
-      "link": "https://cyberpress.org/critical-cisco-expressway-flaw-2/",
-      "filePath": "cyberpress/pages/2026/11/23/hackers-exploit-critical-cisco-expressway-flaw-to-gain-root-access-and-breach-in.md",
-      "committedAt": "2026-11-24T00:01:23.402+05:30",
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Breach Internal Networks"
+      "id": "1lcjpcx000",
+      "link": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/",
+      "filePath": "cyberpress/pages/2026/11/24/critical-n-able-mail-assure-ssrf-vulnerability-exposes-internal-systems-to-attac.md",
+      "committedAt": "2026-11-24T12:01:37.103+05:30",
+      "title": "Critical N-able Mail Assure SSRF Vulnerability Exposes Internal Systems to Attackers"
     }
   ]
 }

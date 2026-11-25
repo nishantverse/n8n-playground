@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T12:01:37.103+05:30",
-  "lastLink": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/",
-  "lastId": "1lcjpcx000",
-  "lastFilePath": "cyberpress/pages/2026/11/24/critical-n-able-mail-assure-ssrf-vulnerability-exposes-internal-systems-to-attac.md",
+  "updatedAt": "2026-11-26T00:00:28.373+05:30",
+  "lastLink": "https://cyberpress.org/critical-drupal-vulnerability/",
+  "lastId": "1mt5psv000",
+  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-exploit-critical-drupal-vulnerability-to-hijack-websites-without-authent.md",
   "items": [
     {
-      "id": "1lcjpcx000",
-      "link": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/",
-      "filePath": "cyberpress/pages/2026/11/24/critical-n-able-mail-assure-ssrf-vulnerability-exposes-internal-systems-to-attac.md",
-      "committedAt": "2026-11-24T12:01:37.103+05:30",
-      "title": "Critical N-able Mail Assure SSRF Vulnerability Exposes Internal Systems to Attackers"
+      "id": "1mt5psv000",
+      "link": "https://cyberpress.org/critical-drupal-vulnerability/",
+      "filePath": "cyberpress/pages/2026/11/25/hackers-exploit-critical-drupal-vulnerability-to-hijack-websites-without-authent.md",
+      "committedAt": "2026-11-26T00:00:28.373+05:30",
+      "title": "Hackers Exploit Critical Drupal Vulnerability to Hijack Websites Without Authentication"
     }
   ]
 }

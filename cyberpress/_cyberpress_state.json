@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T00:00:28.373+05:30",
-  "lastLink": "https://cyberpress.org/critical-drupal-vulnerability/",
-  "lastId": "1mt5psv000",
-  "lastFilePath": "cyberpress/pages/2026/11/25/hackers-exploit-critical-drupal-vulnerability-to-hijack-websites-without-authent.md",
+  "updatedAt": "2026-11-27T00:00:24.393+05:30",
+  "lastLink": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/",
+  "lastId": "prwh9v0000",
+  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-exploit-critical-drupal-authentication-bypass-flaw-to-hijack-websites.md",
   "items": [
     {
-      "id": "1mt5psv000",
-      "link": "https://cyberpress.org/critical-drupal-vulnerability/",
-      "filePath": "cyberpress/pages/2026/11/25/hackers-exploit-critical-drupal-vulnerability-to-hijack-websites-without-authent.md",
-      "committedAt": "2026-11-26T00:00:28.373+05:30",
-      "title": "Hackers Exploit Critical Drupal Vulnerability to Hijack Websites Without Authentication"
+      "id": "prwh9v0000",
+      "link": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/",
+      "filePath": "cyberpress/pages/2026/11/26/hackers-exploit-critical-drupal-authentication-bypass-flaw-to-hijack-websites.md",
+      "committedAt": "2026-11-27T00:00:24.393+05:30",
+      "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites"
     }
   ]
 }

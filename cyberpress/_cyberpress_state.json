@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T00:00:24.393+05:30",
-  "lastLink": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/",
-  "lastId": "prwh9v0000",
-  "lastFilePath": "cyberpress/pages/2026/11/26/hackers-exploit-critical-drupal-authentication-bypass-flaw-to-hijack-websites.md",
+  "updatedAt": "2026-11-27T12:00:23.500+05:30",
+  "lastLink": "https://cyberpress.org/critical-cacti-zero-day/",
+  "lastId": "evqsio0000",
+  "lastFilePath": "cyberpress/pages/2026/11/27/critical-cacti-zero-day-could-let-hackers-take-over-network-monitoring-servers-w.md",
   "items": [
     {
-      "id": "prwh9v0000",
-      "link": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/",
-      "filePath": "cyberpress/pages/2026/11/26/hackers-exploit-critical-drupal-authentication-bypass-flaw-to-hijack-websites.md",
-      "committedAt": "2026-11-27T00:00:24.393+05:30",
-      "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites"
+      "id": "evqsio0000",
+      "link": "https://cyberpress.org/critical-cacti-zero-day/",
+      "filePath": "cyberpress/pages/2026/11/27/critical-cacti-zero-day-could-let-hackers-take-over-network-monitoring-servers-w.md",
+      "committedAt": "2026-11-27T12:00:23.500+05:30",
+      "title": "Critical Cacti Zero-Day Could Let Hackers Take Over Network Monitoring Servers Without Authentication"
     }
   ]
 }

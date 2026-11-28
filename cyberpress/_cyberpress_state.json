@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T00:00:23.590+05:30",
-  "lastLink": "https://cyberpress.org/critical-erlang-otp-vulnerability/",
-  "lastId": "sh7jqs0000",
-  "lastFilePath": "cyberpress/pages/2026/11/27/critical-erlangotp-vulnerability-lets-attackers-impersonate-tls-servers-without-.md",
+  "updatedAt": "2026-11-28T12:00:23.463+05:30",
+  "lastLink": "https://cyberpress.org/hackers-breach-boston-voice-phishing-attack/",
+  "lastId": "pff9zy0000",
+  "lastFilePath": "cyberpress/pages/2026/11/28/hackers-breach-boston-scientific-through-voice-phishing-attack-stealing-sensitiv.md",
   "items": [
     {
-      "id": "sh7jqs0000",
-      "link": "https://cyberpress.org/critical-erlang-otp-vulnerability/",
-      "filePath": "cyberpress/pages/2026/11/27/critical-erlangotp-vulnerability-lets-attackers-impersonate-tls-servers-without-.md",
-      "committedAt": "2026-11-28T00:00:23.590+05:30",
-      "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates"
+      "id": "pff9zy0000",
+      "link": "https://cyberpress.org/hackers-breach-boston-voice-phishing-attack/",
+      "filePath": "cyberpress/pages/2026/11/28/hackers-breach-boston-scientific-through-voice-phishing-attack-stealing-sensitiv.md",
+      "committedAt": "2026-11-28T12:00:23.463+05:30",
+      "title": "Hackers Breach Boston Scientific Through Voice Phishing Attack, Stealing Sensitive Data"
     }
   ]
 }
